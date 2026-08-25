@@ -1,1 +1,7 @@
-import ProcessOntologyLean.Basic
+import ProcessOntologyLean.Ontopoiesis
+import ProcessOntologyLean.ConformalScaling
+import ProcessOntologyLean.AxisOfSilence
+import ProcessOntologyLean.ManifoldPlasticity
+import ProcessOntologyLean.VacuumIntegrity
+import ProcessOntologyLean.GaugeSymmetries
+import ProcessOntologyLean.FermionGenerations
