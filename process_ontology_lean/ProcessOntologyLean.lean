@@ -9,3 +9,6 @@ import ProcessOntologyLean.TimeScale
 import ProcessOntologyLean.Decoherence
 import ProcessOntologyLean.BlackHole
 import ProcessOntologyLean.CausalQuad
+import ProcessOntologyLean.PhysicalManifestation
+import ProcessOntologyLean.VariationalEngine
+import ProcessOntologyLean.Cosmology
