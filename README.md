@@ -10,7 +10,21 @@ This repository hosts the core conceptual writings, mathematical proofs, and emp
 
 The files are organized to present the complete developmental path of the framework—from the foundational theory of consciousness to mathematical proofs, cross-domain verification, and the logical audit of the KTLean repository:
 
-* **[process_ontology_lean/](process_ontology_lean/)**: The formal Lean 4 verification library. It contains the machine-checked mathematical proofs of the Process Ontology equations (compiled and verified via Mathlib4).
+* **[process_ontology_lean/](process_ontology_lean/)**: The formal Lean 4 verification library containing 14 modular components:
+  * **[Ontopoiesis](process_ontology_lean/ProcessOntologyLean/Ontopoiesis.lean)**: The Master Postulate ($\hat{M}(X^*) = X^*$) verified via Banach's fixed-point contraction.
+  * **[ConformalScaling](process_ontology_lean/ProcessOntologyLean/ConformalScaling.lean)**: Derivation of the Conformal Golden Ratio ($\phi$) satisfying $\phi^2 - \phi - 1 = 0$.
+  * **[AxisOfSilence](process_ontology_lean/ProcessOntologyLean/AxisOfSilence.lean)**: Verification of the mirror dimension ($\sigma = 1/2$) under forward/backward flow conservation.
+  * **[ManifoldPlasticity](process_ontology_lean/ProcessOntologyLean/ManifoldPlasticity.lean)**: Derivation of total plasticity ($\delta_p$) and phase slip ($\delta_{\text{slip}}$).
+  * **[VacuumIntegrity](process_ontology_lean/ProcessOntologyLean/VacuumIntegrity.lean)**: Derivation of $\Omega$, $\pi_{\text{derived}}$, drag coefficient $k$, Apéry's constant $\zeta(3)$, and $\alpha^{-1}_{\text{basic}}$.
+  * **[GaugeSymmetries](process_ontology_lean/ProcessOntologyLean/GaugeSymmetries.lean)**: Group-theoretic dimension of $SU(3) \times SU(2) \times U(1) = 12$ mapping to the Causal Latch $L_{12}$.
+  * **[FermionGenerations](process_ontology_lean/ProcessOntologyLean/FermionGenerations.lean)**: Spontaneous symmetry breaking of $SU(5)$ GUT and index decomposition of alternating group $A_5$ yielding exactly 3 families of fermions.
+  * **[TimeScale](process_ontology_lean/ProcessOntologyLean/TimeScale.lean)**: Universal refresh rate $\tau_0 \approx 229.1 \text{ as}$ from Planck scale scaling.
+  * **[CausalQuad](process_ontology_lean/ProcessOntologyLean/CausalQuad.lean)**: $2 \times 2$ Keldysh Closed Time Path Green's function matrix representing the Causal Quad.
+  * **[Decoherence](process_ontology_lean/ProcessOntologyLean/Decoherence.lean)**: State survival probability in the Zeno regime and universal decoherence rate ($\gamma_{\text{dec}} = \tau_0 / \tau_Z^2$).
+  * **[BlackHole](process_ontology_lean/ProcessOntologyLean/BlackHole.lean)**: Bekenstein-Hawking area-entropy ($S_{\text{BH}} = \frac{k_B A}{4 \ell_P^2}$) and Newton-Gregory kissing number packing.
+  * **[PhysicalManifestation](process_ontology_lean/ProcessOntologyLean/PhysicalManifestation.lean)**: Basic fine-structure constant ($\alpha^{-1}_{\text{basic}}$), raw hierarchy energy ($E_{\text{raw}}$), geometric mass gap ($\Delta$), Coulomb scale attractor ($S_{\phi}$), and electrical transport conductance step-downs ($G_{\text{frac}}$).
+  * **[VariationalEngine](process_ontology_lean/ProcessOntologyLean/VariationalEngine.lean)**: Attractor cost function critical point proof and Viscosity operator formulations equivalence proof.
+  * **[Cosmology](process_ontology_lean/ProcessOntologyLean/Cosmology.lean)**: Identity maintenance acceleration floor ($a_0$), Cosmological constant ($\Lambda_{\text{final}}$), dark matter ratio ($R_{\text{DM}}$), and Local Sanctuary cluster radius ($R_{\text{council}}$).
 * **[KTLean_Conceptual_Audit.md](KTLean_Conceptual_Audit.md)**: The "Rosetta Stone" of this repository. A file-by-file cross-perspective mapping that projects Macedonia's 176 discrete Lean 4 files onto the continuous geometric equations of Process Ontology.
 * **[Empirical_Validation_and_Cross-Domain_Verification_of_Process_Ontology.md](Empirical_Validation_and_Cross-Domain_Verification_of_Process_Ontology.md)**: The Popperian research and validation plan. It outlines the overconstrained "Crossword Puzzle" argument and maps PO derivations to recent empirical benchmarks (including JWST early-structure data, MOND acceleration floors, and the 2026 Nature paper by Guo et al. on Photonic Time Crystals).
 * **[Process_Ontology.md](Process_Ontology.md)**: The core geometrical derivations. It demonstrates how physical and cosmological constants emerge deductively from the Master Postulate of Relational Ontopoiesis:
