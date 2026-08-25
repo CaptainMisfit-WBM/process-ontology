@@ -5,3 +5,7 @@ import ProcessOntologyLean.ManifoldPlasticity
 import ProcessOntologyLean.VacuumIntegrity
 import ProcessOntologyLean.GaugeSymmetries
 import ProcessOntologyLean.FermionGenerations
+import ProcessOntologyLean.TimeScale
+import ProcessOntologyLean.Decoherence
+import ProcessOntologyLean.BlackHole
+import ProcessOntologyLean.CausalQuad
