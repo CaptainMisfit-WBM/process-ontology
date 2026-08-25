@@ -12,3 +12,4 @@ import ProcessOntologyLean.CausalQuad
 import ProcessOntologyLean.PhysicalManifestation
 import ProcessOntologyLean.VariationalEngine
 import ProcessOntologyLean.Cosmology
+import ProcessOntologyLean.GravitySM
