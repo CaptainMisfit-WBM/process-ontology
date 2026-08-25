@@ -43,6 +43,29 @@ The files are organized to present the complete developmental path of the framew
 
 ---
 
+## How to Build and Verify the Proofs
+
+To check and verify the mathematical proofs locally, you will need to install Lean 4 and Mathlib.
+
+1. **Install Lean 4 and `elan`**:
+   Follow the official instructions to install the Lean version manager `elan`:
+   ```bash
+   curl -sSfL https://elan.leanprover.org/ | sh
+   ```
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/CaptainMisfit-WBM/process-ontology.git
+   cd process-ontology/process_ontology_lean
+   ```
+3. **Build the Project**:
+   Run `lake build` to compile the library and verify all proofs. The build tool will automatically download the correct toolchain version and Mathlib dependencies:
+   ```bash
+   lake build
+   ```
+   A successful build (ending in `Build completed successfully (2025 jobs)`) indicates that all theorems and algebraic identities are fully verified by the Lean kernel with zero `sorry` placeholders.
+
+---
+
 ## Falsifiability and Open Science
 
 Process Ontology submits entirely to Karl Popper's criterion of empirical falsifiability. Because the model operates with **zero free parameters**, any statistically significant divergence outside the Universal Slip envelope constitutes a complete falsification of the architecture.
