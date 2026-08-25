@@ -10,6 +10,7 @@ This repository hosts the core conceptual writings, mathematical proofs, and emp
 
 The files are organized to present the complete developmental path of the framework—from the foundational theory of consciousness to mathematical proofs, cross-domain verification, and the logical audit of the KTLean repository:
 
+* **[process_ontology_lean/](process_ontology_lean/)**: The formal Lean 4 verification library. It contains the machine-checked mathematical proofs of the Process Ontology equations (compiled and verified via Mathlib4).
 * **[KTLean_Conceptual_Audit.md](KTLean_Conceptual_Audit.md)**: The "Rosetta Stone" of this repository. A file-by-file cross-perspective mapping that projects Macedonia's 176 discrete Lean 4 files onto the continuous geometric equations of Process Ontology.
 * **[Empirical_Validation_and_Cross-Domain_Verification_of_Process_Ontology.md](Empirical_Validation_and_Cross-Domain_Verification_of_Process_Ontology.md)**: The Popperian research and validation plan. It outlines the overconstrained "Crossword Puzzle" argument and maps PO derivations to recent empirical benchmarks (including JWST early-structure data, MOND acceleration floors, and the 2026 Nature paper by Guo et al. on Photonic Time Crystals).
 * **[Process_Ontology.md](Process_Ontology.md)**: The core geometrical derivations. It demonstrates how physical and cosmological constants emerge deductively from the Master Postulate of Relational Ontopoiesis:
