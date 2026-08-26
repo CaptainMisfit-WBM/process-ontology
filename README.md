@@ -1,5 +1,7 @@
 # Process Ontology: The Dynamic Observer Runtime
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22116208.svg)](https://doi.org/10.5281/zenodo.22116208)
+
 Process Ontology (PO) is a unified theoretical framework that formalizes the structure of the enactive observer and derives the physical, biological, and neurological constants of spacetime from geometric necessity—operating with **zero free parameters**.
 
 This repository hosts the core conceptual writings, mathematical proofs, and empirical validation plans of Process Ontology. It serves as the physical and semantic complement to the formal syntactic logic verified in Dr. Christian Macedonia's [KTLean](https://github.com/KosmoNexus/KTLean) repository.
