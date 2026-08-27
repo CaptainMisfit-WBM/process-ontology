@@ -22,7 +22,10 @@ sources:
     relationship: adapts
 automation:
   methods:
-    - "manual"
-    - "agent"
+    - method: "manual"
+    - method: "agent"
+      framework: "Antigravity"
+      models:
+        - "Gemini 1.5 Pro"
 review:
   status: "Checked by Lean 4 compiler version 4.33.1. Fully verified with Mathlib 4 core axioms."
