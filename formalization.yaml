@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/mathlib-initiative/formalization.yaml/main/schema/formalization.schema.json
+version: "v0.4"
+project:
+  name: "Process Ontology Lean"
+  description: >-
+    Lean 4 formalization verifying the core mathematical foundations of Process Ontology.
+    This includes proving the Master Postulate of Relational Ontopoiesis via Banach's fixed-point theorem,
+    verifying the Axis of Silence mirror plane (sigma = 1/2), proving the positivity of the Universal Slip (delta_slip > 0),
+    formalizing Standard Model Lie algebra volumetric packing tiling constraints, and verifying first-row CKM matrix unitarity.
+  authors:
+    - "Ryan Carson"
+  license: "MIT"
+  responsible_maintainers:
+    - "Ryan Carson"
+classification:
+  arxiv: ["hep-th", "quant-ph", "math-ph"]
+  msc2020: ["81Txx", "83Cxx"]
+sources:
+  - title: "Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime"
+    relationship: formalizes
+  - title: "Circular Theory of Ego and Awareness: Flow Dynamics of Consciousness"
+    relationship: adapts
+automation:
+  methods:
+    - method: "manual"
+    - method: "agent"
+      framework: "Antigravity"
+      models:
+        - "Gemini 1.5 Pro"
+review:
+  status: "Checked by Lean 4 compiler version 4.33.1. Fully verified with Mathlib 4 core axioms."
