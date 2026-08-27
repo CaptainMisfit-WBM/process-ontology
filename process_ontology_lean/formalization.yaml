@@ -14,7 +14,7 @@ project:
     - "Ryan Carson"
 classification:
   arxiv: ["hep-th", "quant-ph", "math-ph"]
-  msc2020: ["81Txx", "83Cxx"]
+  msc2020: ["81T13", "83C05"]
 sources:
   - title: "Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime"
     relationship: formalizes
