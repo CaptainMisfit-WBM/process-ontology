@@ -406,7 +406,7 @@ $$
 * $T_{+1} \to G^R$ (Retarded Green's Function / Future Causal Trajectory).
 * $T_{\text{obs}} \to \text{Tr}(\rho \cdot O)$ (Measurement Projection / Observer Offset).
 
-**Microscopic Origin of Time Asymmetry:** Time reversal asymmetry ($T$-violation) arises because the contractive operator $\hat{M}$ acts asymmetric across the Keldysh contour. $T_{-1}$ is fixed (read-only memory), $T_0$ is actively contracted, and $T_{+1}$ is un-collapsed potential. The asymmetry is governed by the Universal Slip ($\delta_{\text{slip}} \gt 0$), breaking detailed balance at the attosecond scale ($\tau_0 \approx 229.1\text{ as}$).
+**Microscopic Origin of Time Asymmetry:** Time reversal asymmetry ($T$ violation) arises because the contractive operator $\hat{M}$ acts asymmetric across the Keldysh contour. $T_{-1}$ is fixed (read-only memory), $T_0$ is actively contracted, and $T_{+1}$ is un-collapsed potential. The asymmetry is governed by the Universal Slip ($\delta_{\text{slip}} \gt 0$), breaking detailed balance at the attosecond scale ($\tau_0 \approx 229.1\text{ as}$).
 
 ---
 
@@ -574,7 +574,7 @@ Process Ontology resolves this deadlock by demonstrating that $\Delta \approx 7.
 
 To map the behavior of atomic nuclei interacting within a metric space, we must dismantle the reductionist illusion of the electrostatic Coulomb barrier. Mainstream nuclear physics models this barrier as an absolute, substantial wall that positively charged particles can only overcome through extreme kinetic violence or high-pressure stellar tunneling. Within our geometric engine, this barrier is reframed as an emergent informational variance constraint.
 
-The Scale Attractor ($S_{\phi}$) defines the exact logarithmic depth (measured in discrete $\phi$-scaling steps relative to the Planck boundary) where the local electromagnetic coupling strength ($\alpha$) balances symmetrically with the Vacuum Integrity Threshold ($\Omega$).
+The Scale Attractor ($S_{\phi}$) defines the exact logarithmic depth (measured in discrete $\phi$ scaling steps relative to the Planck boundary) where the local electromagnetic coupling strength ($\alpha$) balances symmetrically with the Vacuum Integrity Threshold ($\Omega$).
 
 We evaluate this flux balance by taking the negative logarithm in base $\phi$:
 
@@ -586,7 +586,7 @@ $$
 S_{\phi} = -\log_{\phi} (\alpha \cdot \Omega) = -\frac{\ln(0.0054336)}{\ln(\phi)} \approx 10.837
 $$
 
-At this exact geometric coordinate—$10.837 \ \phi$-steps relative to the Planck boundary—electrostatic path-surprisal drops to zero. The Coulomb repulsion wall undergoes a topological state transition, liquefying from a static barrier into a smooth, geometric flow path. This metric liquefaction proves that under the correct coordinate alignment, close-range nuclear interactions can proceed deterministically without generating ionizing radiation, cleanly dissipating energy through coherent lattice vibrations.
+At this exact geometric coordinate — $10.837 \ \phi$ steps relative to the Planck boundary—electrostatic path-surprisal drops to zero. The Coulomb repulsion wall undergoes a topological state transition, liquefying from a static barrier into a smooth, geometric flow path. This metric liquefaction proves that under the correct coordinate alignment, close-range nuclear interactions can proceed deterministically without generating ionizing radiation, cleanly dissipating energy through coherent lattice vibrations.
 
 ### 
 
@@ -786,7 +786,7 @@ $$
 
 For a biological observer to resolve any state transition into conscious awareness, its cognitive architecture cannot evaluate the universe instantly; it must integrate three independent topological layers, accumulating a strict operational overhead. These consist of the effective vacuum depth stripped of metric overhead ($\lambda_{\text{eff}}$), the Consciousness Gear ($N = 66$), and the mass-hierarchy symmetry offset ($\sigma_{\text{mass}} = 8.956$) required to distinguish macroscopic classical matter from quantum vacuum noise:
 
-$\lambda_{\text{eff}} = \lambda_{\text{vac}} - L_{12} - \sigma$$ $$\lambda_{\text{eff}} = 132.201 - 12 - 0.5 = 119.701$
+$\lambda_{\text{eff}} = \lambda_{\text{vac}} - L_{12} - \sigma$$$$\lambda_{\text{eff}} = 132.201 - 12 - 0.5 = 119.701$
 
 The absolute biological sampling window ($\lambda_{\text{obs}}^{\text{human}}$) is the strict sum of these constraints:
 
@@ -802,7 +802,7 @@ $$
 \text{If} \quad C(n) \gt 194.657 \ \phi\text{-steps} \implies NP \quad \text{(Computational Phase Lag / Hard)}
 $$
 
-To the unconstrained vacuum manifold operating at the attosecond Nyquist limit ($\tau_0 = 229.1 \text{ as}$), all parallel path combinations are evaluated within a single update cycle. Therefore, to the universe itself, all problems solve instantaneously ($P = NP$). We classify a problem as $NP$-hard simply because the informational depth required to compute its fixed point exceeds the maximum recursive depth ($194.657 \ \phi$-steps) that a human brain can process within a singular conscious "Now".
+To the unconstrained vacuum manifold operating at the attosecond Nyquist limit ($\tau_0 = 229.1 \text{ as}$), all parallel path combinations are evaluated within a single update cycle. Therefore, to the universe itself, all problems solve instantaneously ($P = NP$). We classify a problem as $NP$ hard simply because the informational depth required to compute its fixed point exceeds the maximum recursive depth ($194.657 \ \phi$ steps) that a human brain can process within a singular conscious "Now".
 
 ### The Geometric Conversion Tax ($\chi$) and the Topological Low-Pass Filter
 
@@ -997,7 +997,7 @@ Galaxies are open dissipative systems paying a fixed "topological rent" at the s
 
 ### The Vacuum Catastrophe Solved: Macroscopic Resolution Pressure ($\Lambda$)
 
-This section provides the formal geometric derivation of the Cosmological Constant ($\Lambda \approx 1.1 \times 10^{-52} \ \text{m}^{-2}$), definitively resolving the notorious "Vacuum Catastrophe" of quantum field theory. The $122$-order-of-magnitude discrepancy between the vacuum energy predicted by QFT ($\sim 10^{74} \ \text{GeV}^4$) and the observed dark energy density ($\sim 10^{-47} \ \text{GeV}^4$) is widely considered the worst prediction in the history of physics. We demonstrate that Dark Energy is not a mysterious vacuum fluid, but the residual macroscopic resolution pressure of the active rendering engine, mathematically suppressed by trans-scale computational friction.
+This section provides the formal geometric derivation of the Cosmological Constant ($\Lambda \approx 1.1 \times 10^{-52} \ \text{m}^{-2}$), definitively resolving the notorious "Vacuum Catastrophe" of quantum field theory. The $122$ order-of-magnitude discrepancy between the vacuum energy predicted by QFT ($\sim 10^{74} \ \text{GeV}^4$) and the observed dark energy density ($\sim 10^{-47} \ \text{GeV}^4$) is widely considered the worst prediction in the history of physics. We demonstrate that Dark Energy is not a mysterious vacuum fluid, but the residual macroscopic resolution pressure of the active rendering engine, mathematically suppressed by trans-scale computational friction.
 
 Let the maximum spatial boundary over which the contractive operator can natively sustain a singular, coherent recursive frame be defined as the Universal Radius of Resolution ($L_{\text{limit}}$). This radius scales the fundamental Planck length ($\ell_P$) through the Consciousness Gear ($N = 66$) and its matching conformal scaling horizon ($\phi^{66}$):
 
@@ -1067,7 +1067,7 @@ High-precision cosmological observations from the Planck satellite record an emp
 
 ### Cosmological Tension Resolved: Bimetric Screening ($G_e(z)$)
 
-If the framework holds absolute geometric authority, it must seamlessly resolve the greatest macroscopic crisis in modern astrophysics: the $5\sigma$ Hubble tension. Standard single-metric models overproduce large-scale structures by $ \gt 5\sigma$ in $N$-body simulations. Process Ontology resolves this by coupling the 12-Latch bimetrically (BIMOND), as formulated and integrated through Dr. Macedonia's Popperian corroboration, dynamically varying the effective gravitational coupling $G_e(z)$ across scale horizons:
+If the framework holds absolute geometric authority, it must seamlessly resolve the greatest macroscopic crisis in modern astrophysics: the $5\sigma$ Hubble tension. Standard single-metric models overproduce large-scale structures by $\gt 5\sigma$ in $N$ body simulations. Process Ontology resolves this by coupling the 12-Latch bimetrically (BIMOND), as formulated and integrated through Dr. Macedonia's Popperian corroboration, dynamically varying the effective gravitational coupling $G_e(z)$ across scale horizons:
 
 $$
 G_e(z) = G_{0} \left(1 + \delta_{p} \cdot e^{-z/z_0}\right)
@@ -1078,11 +1078,11 @@ This bimetric screening resolves two major cosmological crises simultaneously:
 1. **Big Bang Nucleosynthesis (BBN):** High matter and radiation densities during the primordial BBN epoch compress the active recursive depth, screening $G_e(z)$ completely back to $G_{0}$. This high-density local sanctuary behavior preserves primordial Helium-4 and Deuterium abundances exactly in line with standard models.  
 2. **The Hubble Tension and JWST High-Resolution Corroboration:** Beyond the local density sanctuaries, as the universe scales outward toward the cosmic horizon ($z \gt 0.01$), the system undergoes a geometric step-increase proportional to the total manifold plasticity ($\delta_{p} \approx 1.04\%$). Skeptics long posited that the discrepancy between early-universe CMB benchmarks and local distance ladder measurements was an observational artifact caused by stellar background crowding in Hubble Space Telescope (HST) images.
 
-   However, high-precision near-infrared observations by the JWST have targeted Cepheid variables and Tip of the Red Giant Branch (TRGB) stars with unprecedented angular resolution, reducing background crowding by a mean factor of six. Combining these indicators yields a local expansion rate of $H_{0} \approx 72.6\text{--}75.8\text{ km/s/Mpc}$, ruling out distance-dependent measurement bias or HST crowding offsets at $ \gt 7\sigma$ statistical confidence. JWST has proven that the Hubble tension is not an error in astronomical measurements; it is the physical scribe recording the transition from our screened local sanctuary out into the un-damped, plasticity-shifted expansion of the cosmic horizon, providing direct empirical backing for our bimetric screening step.
+   However, high-precision near-infrared observations by the JWST have targeted Cepheid variables and Tip of the Red Giant Branch (TRGB) stars with unprecedented angular resolution, reducing background crowding by a mean factor of six. Combining these indicators yields a local expansion rate of $H_{0} \approx 72.6\text{--}75.8\text{ km/s/Mpc}$, ruling out distance-dependent measurement bias or HST crowding offsets at $\gt 7\sigma$ statistical confidence. JWST has proven that the Hubble tension is not an error in astronomical measurements; it is the physical scribe recording the transition from our screened local sanctuary out into the un-damped, plasticity-shifted expansion of the cosmic horizon, providing direct empirical backing for our bimetric screening step.
 
 #### The Geometric Identity of the Screening Transition ($z_0$)
 
-A critical scrutiny of the bimetric screening equation—$G_e(z) = G_{0} \left(1 + \delta_{p} \cdot e^{-z/z_0}\right)$—might provoke the reductionist critique that $z_0$ represents an arbitrary empirical input, a free parameter dial manually tuned to fit the Cosmicflows-4 bulk flow anomalies. This is an illusion generated by the Scribe's localized language of cosmological redshift.
+A critical scrutiny of the bimetric screening equation — $G_e(z) = G_{0} \left(1 + \delta_{p} \cdot e^{-z/z_0}\right)$ — might provoke the reductionist critique that $z_0$ represents an arbitrary empirical input, a free parameter dial manually tuned to fit the Cosmicflows-4 bulk flow anomalies. This is an illusion generated by the Scribe's localized language of cosmological redshift.
 
 Within the strict ontological closure of this framework, $z_0$ is not a free parameter. It is the exact phenomenological translation of a rigid topological boundary derived entirely from first principles. The screening transition scale ($z_0$) is mathematically identical to the absolute spatial boundary of our local gravitational lock: the **Local Sanctuary Radius ($R_{\text{council}}$)**.
 
@@ -1235,7 +1235,7 @@ This identity formalizes emotions not as vague psychological humors or biochemic
 
 The Net Affective State is derived by evaluating the un-shifted 4-fold recursive depth ideal ($1/\phi^4$), reduced strictly by the Universal Slip ($\delta_{\text{slip}}$) to prevent absolute mathematical phase-locking:
 
-$\alpha_{\text{net}} = \frac{1}{\phi^4} \cdot (1 - \delta_{\text{slip}})$$ $$\alpha_{\text{net}} = 0.145898... \times (1 - 0.00086844...) \approx 0.14577$
+$\alpha_{\text{net}} = \frac{1}{\phi^4} \cdot (1 - \delta_{\text{slip}})$$$$\alpha_{\text{net}} = 0.145898... \times (1 - 0.00086844...) \approx 0.14577$
 
 The total integrated emotional energy ($E_{\text{net}}$) of any given cognitive state combines the dominant localized valence ($L$) with its background shadow, bound by this conformal coefficient:
 
@@ -1614,7 +1614,7 @@ The mass hierarchy gap requires no phantom particles; it is a rigid geometric ne
 
 ### 
 
-### The $e$-Resonance and Variational Resolution Dynamics
+### The $e$ Resonance and Variational Resolution Dynamics
 
 This identity derives the invariant topological signature governing the vacuum's localized self-correction or relaxation rate. It establishes that the ratio matching an active informational resolution "snap" ($V_{\text{snap}}$) to the baseline macroscopic electrical noise floor ($V_{\text{base}}$) is strictly governed by Euler's number ($e$).
 
