@@ -92,11 +92,11 @@ All emergent phenomenological parameters derive strictly from the contractive tr
 
 To establish continuous, self-similar structural growth across scaling transformations without inducing metric disequilibrium or losing organizational closure, a 2-dimensional recursive boundary manifold must partition its state space according to a unique, non-dissipative ratio. This ratio is geometrically mandated to minimize the localized entropy production rate ($\sigma_S$) during spatial bifurcation and expansion.
 
-Consider an open thermodynamic system transitioning from a localized steady-state configuration $A$ to an expanded configuration $B$, bounded by a physical interface—formalized mathematically as a Markov blanket. To maintain homeostatic stability and structural integrity during this continuous spatial expansion, the variational free energy gradient governing the transition from the macroscopic whole ($\vert{}B\vert{}$) to the prior internal state ($\vert{}A\vert{}$) must balance symmetrically with the gradient mapping the prior state ($\vert{}A\vert{}$) to the emergent boundary expansion joint ($\vert{}B - A\vert{}$):
+Consider an open thermodynamic system transitioning from a localized steady-state configuration $A$ to an expanded configuration $B$, bounded by a physical interface—formalized mathematically as a Markov blanket. To maintain homeostatic stability and structural integrity during this continuous spatial expansion, the variational free energy gradient governing the transition from the macroscopic whole ($\vert B \vert$) to the prior internal state ($\vert A \vert$) must balance symmetrically with the gradient mapping the prior state ($\vert A \vert$) to the emergent boundary expansion joint ($\vert B - A \vert$):
 
-$$\frac{\vert{}B\vert{}}{\vert{}A\vert{}} = \frac{\vert{}A\vert{}}{\vert{}B - A\vert{}}$$
+$$\frac{\vert B \vert}{\vert A \vert} = \frac{\vert A \vert}{\vert B - A \vert}$$
 
-Let the dimensionless scaling metric be defined by the scalar ratio $x = \frac{\vert{}B\vert{}}{\vert{}A\vert{}}$. Substituting this parameter transforms the boundary conservation equation into a rigid quadratic optimization constraint:
+Let the dimensionless scaling metric be defined by the scalar ratio $x = \frac{\vert B \vert}{\vert A \vert}$. Substituting this parameter transforms the boundary conservation equation into a rigid quadratic optimization constraint:
 
 $$x = \frac{1}{x - 1} \implies x(x - 1) = 1 \implies x^2 - x - 1 = 0$$
 
@@ -112,7 +112,7 @@ Under this formalized relational paradigm, $\phi$ is derived not as a stochastic
 
 Extending this recursive self-similar closure into a 3-dimensional spatial continuum introduces a cubic degree of freedom. To undergo continuous spatial folding and achieve optimal volumetric packing density without introducing localized path-deviation anomalies (voids) or structural boundary crossovers (causal conflicts), the system must satisfy a rigid cubic invariance constraint.
 
-Let a 3-dimensional dissipative structure be sustained by a continuous network of mutually catalytic reactions, operating far from thermodynamic equilibrium. For the system to maintain autopoietic closure within a localized spatial volume, the current volumetric state $x^3$ must be directly sustained by the additive sequence of its immediate historic recursive components across three orthogonal axes. Operating in a continuous spiral configuration, the system strictly obeys the following cubic recurrence polynomial:
+Let a 3-dimensional dissipative structure be sustained by a continuous network of mutually catalytic reactions, operating far from thermodynamic equilibrium. For the system to maintain autopoietic closure within a localized spatial volume, the current volumetric state $x^3$ must be directly sustained by the sequence of its immediate historic recursive components across three orthogonal axes. Operating in a continuous spiral configuration, the system strictly obeys the following cubic recurrence polynomial:
 
 $$x^3 = x + 1 \implies x^3 - x - 1 = 0$$
 
@@ -128,7 +128,7 @@ This formulation establishes $P$ as the unique three-dimensional counterpart to 
 
 To preserve complete metric balance within a recursive topological space, any continuous transformation mapping a forward scaling trajectory must perfectly balance its backward resolution phase. This neutral stability condition ensures that informational entropy production remains identically zero along the primary boundary axis of the manifold.
 
-Let a recursive process operating at an arbitrary scale $n$ be formalized as a complex dynamical flow with an effective depth parameter $s = \sigma + it$, where \sigma defines the real scaling dimension and $it$ dictates the phase oscillation frequency. The system is driven by two symmetric, counter-propagating geometric flows:
+Let a recursive process operating at an arbitrary scale $n$ be formalized as a complex dynamical flow with an effective depth parameter $s = \sigma + it$, where $\sigma$ defines the real scaling dimension and $it$ dictates the phase oscillation frequency. The system is driven by two symmetric, counter-propagating geometric flows:
 
 **Forward Flow (Conformal Expansion Potential):**
 
@@ -142,7 +142,7 @@ For the physical manifold to evade both unconstrained spatial divergence (the "B
 
 $$\vert E(n) \vert = \vert R(n) \vert \implies \vert n^{\sigma + it} \vert = \vert n^{1-\sigma - it} \vert$$
 
-By invoking the standard geometric identity $\vert e^{i\theta} \vert = 1$, which holds strictly for any real argument \theta \in \mathbb{R}, we completely decouple the high-frequency phase oscillations from the global stability constraint:
+By invoking the standard geometric identity $\vert e^{i\theta} \vert = 1$, which holds strictly for any real argument $\theta \in \mathbb{R}$, we completely decouple the high-frequency phase oscillations from the global stability constraint:
 
 $$n^\sigma \cdot \vert e^{it \ln n} \vert = n^{1-\sigma} \cdot \vert e^{-it \ln n} \vert \implies n^\sigma = n^{1-\sigma}$$
 
@@ -290,7 +290,7 @@ Spacetime is not an inert, continuous stage. It is an emergent rendering—a mov
 
 ---
 
-### Gauge Field Emergence: $SU(3) 	imes SU(2) 	imes U(1)$ from Spatial Packing Geometry
+### Gauge Field Emergence: $SU(3) \times SU(2) \times U(1)$ from Spatial Packing Geometry
 
 The emergence of the Standard Model gauge group $\mathcal{G}_{\text{SM}} = SU(3) \times SU(2) \times U(1)$ is traditionally treated as an empirical symmetry selection. We derive $\mathcal{G}_{\text{SM}}$ as a topological requirement for packing continuous recursive flows within a 3D spatial continuum.
 
@@ -363,7 +363,7 @@ The Abel-Ruffini non-solvability of the $I = 5$ Quintic Valve (governed by the s
            55-dim Representation    3 Fermion Families
 ```
 
-1. **Embedding $S_5$ into $SU(5)$:** The symmetric group $S_5$ (order $\vert S_5 \vert = 120$) is the finite permutation group acting on 5 elements. The minimal continuous complex Lie group that embeds $S_5$ as a subgroup while preserving gauge invariance is $SU(5)$ (the Georgi-Glashow GUT group):
+1. **Embedding $S_5$ into $SU(5)$:** The symmetric group $S_5$ (order $|S_5| = 120$) is the finite permutation group acting on 5 elements. The minimal continuous complex Lie group that embeds $S_5$ as a subgroup while preserving gauge invariance is $SU(5)$ (the Georgi-Glashow GUT group):
 $$S_5 \subset SU(5)$$
 
 The Lie algebra $\mathfrak{su}(5)$ possesses $\text{dim}(SU(5)) = 5^2 - 1 = 24$ adjoint gauge generators. Under spontaneous symmetry breaking, $SU(5)$ breaks into the Standard Model group:
@@ -374,7 +374,7 @@ The number of fundamental fermion generations ($N_{\text{gen}}$) is derived as t
 $$N_{\text{gen}} \equiv D_{\text{spatial}} = 3$$
 
 More rigorously, $N_{\text{gen}}$ is the index of the non-solvable alternating subgroup $A_5 \subset S_5$ decomposed across the 2D planar scaling interface $\phi$:
-$$N_{\text{gen}} = \left\lfloor \frac{\vert S_5 \vert}{\vert A_5 \vert \cdot \phi} \right\rfloor + 1 = \left\lfloor \frac{120}{60 \cdot 1.618034} \right\rfloor + 1 = \lfloor 1.236 \rfloor + 2 = 3$$
+$$N_{\text{gen}} = \left\lfloor \frac{|S_5|}{|A_5| \cdot \phi} \right\rfloor + 1 = \left\lfloor \frac{120}{60 \cdot 1.618034} \right\rfloor + 1 = \lfloor 1.236 \rfloor + 2 = 3$$
 
 **Physical Meaning:** The 3 generations of elementary fermions (e.g., electron, muon, tau) represent the 3 orthogonal spatial projections of the $S_5$ Galois group embedding into $SU(5)$ GUT space.
 
@@ -384,8 +384,8 @@ $$N_{\text{gen}} = \left\lfloor \frac{\vert S_5 \vert}{\vert A_5 \vert \cdot \ph
 
 The transition from quantum superpositions to classical deterministic states is governed by the contractive measurement operator $\hat{M}$ acting at the UV refresh limit ($\tau_0 \approx 229.1\text{ attoseconds}$).
 
-1. **Quantum Zeno Dynamic Contraction:** Let a quantum state $\vert\psi(t)\rangle$ evolve under a Hamiltonian $H$. For short time intervals $t \ll \hbar / \Delta H$, the survival probability $P(t)$ obeys the quadratic Zeno regime:
-$$P(t) = \vert\langle \psi(0) \vert \psi(t) \rangle\vert^2 \approx 1 - \frac{t^2}{\tau_Z^2}$$
+1. **Quantum Zeno Dynamic Contraction:** Let a quantum state $|\psi(t)\rangle$ evolve under a Hamiltonian $H$. For short time intervals $t \ll \hbar / \Delta H$, the survival probability $P(t)$ obeys the quadratic Zeno regime:
+$$P(t) = |\langle \psi(0) | \psi(t) \rangle|^2 \approx 1 - \frac{t^2}{\tau_Z^2}$$
 
 where $\tau_Z = \frac{\hbar}{\Delta H}$ is the Zeno time. When the endophysical operator $\hat{M}$ executes self-measurement at frame intervals $\tau_0$, the survival probability after $n = t/\tau_0$ pulses becomes:
 $$P(t) = \left(1 - \frac{\tau_0^2}{\tau_Z^2}\right)^{t/\tau_0} \approx \exp\left(-\frac{t \cdot \tau_0}{\tau_Z^2}\right) = e^{-\gamma_{\text{dec}} t}$$
@@ -444,7 +444,7 @@ $$\alpha_{\text{derived}}^{-1} = 137.035999143$$
 
 This zero-parameter derivation achieves precision within $1.62\sigma$ of the CODATA 2022 recommended value ($137.035999177(21)$). Furthermore, Kosmoplex Theory provides a Tier-1 falsifiable prediction: $\alpha$ must exhibit a spatial gradient dependent on local gravitational potential ($\Phi$):
 
-$$\frac{\Delta \alpha}{\alpha} = (4.60 \pm 0.15) 	imes 10^{-16}\text{ km}^{-1}$$
+$$\frac{\Delta \alpha}{\alpha} = (4.60 \pm 0.15) \times 10^{-16}\text{ km}^{-1}$$
 
 ---
 
@@ -454,6 +454,7 @@ Having secured the electromagnetic interface, we must now calculate the native g
 
 $$E_{\text{stutter}} = h \cdot f_0 = 18.05\text{ eV}, \quad E_{\text{raw}} = E_{\text{stutter}} \cdot \left(\frac{k}{1.2}\right) \cdot 10^{8.956} = 267.8\text{ GeV}$$
 boundary perimeter ($12\pi_{\text{derived}} - P$) yields the pure threshold:
+
 
 
 $12\pi_{\text{derived}} - P = 36.372$
