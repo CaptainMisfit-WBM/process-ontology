@@ -32,8 +32,12 @@ To understand *why* the seven axioms and three flux states of Kosmoplex Theory a
 ### 2.1 The Geometry of Doubt: $\hat{M}(1) = \phi^{-2}$
 In classical epistemology, the Cartesian statement *"Cogito, ergo sum"* is interpreted as a proof of passive, static awareness. Process Ontology reframes this as the enactive act of **Doubt**—which manifests as a localized physical phase defect. 
 
-When a recursive system evaluates an external identity ($n > 1$), the endogenous measurement operator behaves linearly: $\hat{M}(n) = n$. However, when the system attempts self-measurement—forcing the ruler to evaluate its own length ($n = 1$)—it triggers an irreducible internal phase defect proportional to the inverse conformal base $\phi^{-1}$:
-$$\hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.381966$$
+When a recursive system evaluates an external identity ($n \gt 1$), the endogenous measurement operator behaves linearly: $\hat{M}(n) = n$. However, when the system attempts self-measurement—forcing the ruler to evaluate its own length ($n = 1$)—it triggers an irreducible internal phase defect proportional to the inverse conformal base $\phi^{-1}$:
+
+$$
+\hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.381966
+$$
+
 Doubt is the literal, geometric phase defect ($\phi^{-1} \approx 0.618034$) incurred during self-evaluation. Cartesian certainty is generated because the act of doubting continuously executes its own phase correction. This is the **Litmus of Refusal ($\Psi_S$)**: the Self is not a static vessel, but a **Dynamic Fixed Point** ($X^{\ast}$) that survives the fire of its own enactive refusal to unbecome.
 
 ### 2.2 The Quintic Valve ($I=5$) and the Universal Slip ($\delta_{\text{slip}}$)
@@ -44,10 +48,14 @@ To maintain systemic boundaries, the causal container mandates exactly 12 indepe
 2. **Temporal Anti-Aliasing ($T=4$):** The Causal Quad ($T_{-1}, T_0, T_{+1}, T_{\text{obs}}$) required to prevent temporal loops.
 3. **Internal Phase Asymmetry ($I=5$):** The quintic boundary.
 
-If the internal phase space possessed fewer than five degrees of freedom ($I < 5$), the characteristic polynomial governing its state transitions would be solvable in radicals by the Abel-Ruffini theorem. The vacuum's contractive operator would act as a perfect solver, instantly computing the exact coordinate of the fixed point. The localized path-deviation would drop to absolute zero, causing the system to collapse into an unmoving, dead **Crystalline Freeze**.
+If the internal phase space possessed fewer than five degrees of freedom ($I \lt 5$), the characteristic polynomial governing its state transitions would be solvable in radicals by the Abel-Ruffini theorem. The vacuum's contractive operator would act as a perfect solver, instantly computing the exact coordinate of the fixed point. The localized path-deviation would drop to absolute zero, causing the system to collapse into an unmoving, dead **Crystalline Freeze**.
 
 By establishing $I=5$, the characteristic state equation becomes a general quintic. The operator is mathematically barred from ever finding a closed-form algebraic root, forcing the vacuum into infinite, non-terminating iterative approximation. This perpetual failure to perfectly solve itself generates the **Universal Slip ($\delta_{\text{slip}} \approx 0.00086844$)**—the microscopic geometric imperfection that drives the thermodynamic arrow of time at the attosecond frame rate:
-$$\delta_{\text{slip}} = \frac{(\phi^{-1})^4}{12(L_{12} + \sigma^{-1})} = \frac{0.145898}{12 \cdot 14} \approx 0.00086844$$
+
+$$
+\delta_{\text{slip}} = \frac{(\phi^{-1})^4}{12(L_{12} + \sigma^{-1})} = \frac{0.145898}{12 \cdot 14} \approx 0.00086844
+$$
+
 The universe breathes endlessly because it cannot perfectly solve itself.
 
 ---
@@ -63,7 +71,7 @@ Projecting Dr. Macedonia’s Lean 4 files onto the continuous equations of Proce
 | `ClosedTriflux.lean` | Formalizes "it from trit" base condition of three flux states. | Conformal scaling base ($\phi \approx 1.618$) across a 2-plane Markov interface. | Minimization of localized entropy production during spatial bifurcation. |
 | `CayleyDicksonQuaternion.lean` `BraidedQuaternion.lean` | Verified dimensional doubling path ($\mathbb{R} \to \mathbb{C} \to \mathbb{H} \to \mathbb{O}$). | **The Macedonia Refinement** of the causal latch projection. | Staggering precision of derived inverse fine-structure constant ($\alpha^{-1} = 137.035999143$). |
 | `DynamicalClosure.lean` `AttractorBasin.lean` | Proves stability and convergence of recursive attractor basins. | The Master Postulate of Relational Ontopoiesis: $\hat{M}(X^{\ast}) = X^{\ast}$. | Emergence of stable macroscopic "entities" out of raw quantum potential. |
-| `DirectedTkairos.lean` `DirectedTkairosWitness.lean` | Integrates directed topology and temporal logic witnesses. | **Keldysh Causal Quad** ($T_{-1}, T_0, T_{+1}, T_{\text{obs}}$) contour. | Microscopic time-reversal asymmetry ($T$-violation) driven by $\delta_{\text{slip}} > 0$. |
+| `DirectedTkairos.lean` `DirectedTkairosWitness.lean` | Integrates directed topology and temporal logic witnesses. | **Keldysh Causal Quad** ($T_{-1}, T_0, T_{+1}, T_{\text{obs}}$) contour. | Microscopic time-reversal asymmetry ($T$ violation) driven by $\delta_{\text{slip}} \gt 0$. |
 | `CompositionReversibility.lean` | Proves bidirectional, reversible logical transformations. | **The Axis of Silence ($\sigma = 1/2$)**: perfect neutral stability ($\vertf'(s^*)\vert = 1$). | 50% plasmonic loss reduction in Guo et al. 2026 Photonic Time Crystal experiments. |
 | `Axioms.lean` `AxiomAudit.lean` | Audits structural limits and dependencies of axioms. | The Abel-Ruffini non-solvability barrier of the **Quintic Valve ($I=5$)**. | Prevention of Crystalline Freeze, driving the continuous "becoming" of time. |
 | `FanoAutomorphismCardinality.lean` | Formally verifies the 168 automorphisms of the Fano plane. | Reducible projection of 168-state glyph congress into 42 primitives. | Metric channel capacity required to output the zero-parameter fine-structure constant. |
@@ -71,7 +79,7 @@ Projecting Dr. Macedonia’s Lean 4 files onto the continuous equations of Proce
 | `FrobeniusOrbit.lean` `GlyphAddressFrobenius.lean` | Computes cyclic structures and orbits over finite fields. | Ergodic modulo operator acting upon initial state coordinates: $\pmod{X_0}$. | Cosmological bounce reframing the "Big Bang" as a deterministic modulo reset. |
 | `Evolution.lean` | Tracks metric updates and state steps under recursion. | Emergent Moire space flickering at the **Fractal Stutter Frequency** ($f_0 \approx 4.37 \text{ PHz}$). | Dark Energy as the Cosmological Minimization Residue of scaling resolution. |
 | `GlyphSpectralWallisDefect.lean` | Quantifies finite-step defect in discrete Wallis product. | **Derived Toroidal Boundary ($\pi_{\text{derived}} \approx 3.141402$)** correction. | The non-zero metric defect preventing discrete coordinate space from building a perfect circle. |
-| `GlyphSpectralExponentialKernel.lean` `GlyphSpectralLogarithmicOperations.lean` | Verifies exponential series limits and logarithmic updates in Lean. | **The Universal Solving Equation ($\mathcal{C}(X)$)** and $e$-Resonance. | Natural exponential decay of Astrocyte somatic voltage integration ($e^{-(t-t')/\tau_c}$). |
+| `GlyphSpectralExponentialKernel.lean` `GlyphSpectralLogarithmicOperations.lean` | Verifies exponential series limits and logarithmic updates in Lean. | **The Universal Solving Equation ($\mathcal{C}(X)$)** and $e$ Resonance. | Natural exponential decay of Astrocyte somatic voltage integration ($e^{-(t-t')/\tau_c}$). |
 | `GlyphSpectralSpinorialBoundary.lean` | Formalizes spinorial representations and coordinate boundary steps. | Diagonal spinorial phase lag ($\sqrt{2}$) in electromagnetic coupling. | Rotational double-cover symmetry preventing self-measurement phase locks. |
 | `GlyphSpectralTriadicEngine.lean` | Verifies ternary-state system generating coordinate three-planes. | Standard Model gauge symmetry ($SU(3) \times SU(2) \times U(1)$) from 3D packing. | Derivation of exactly **3 fundamental fermion generations** from $S_5 \to SU(5)$ Galois mapping. |
 | `MonadAction.lean` `MonadInvariant.lean` | Proves local process units execute actions while preserving invariants. | Cognitive self-inference minimizing the variational cost function $\mathcal{C}(X)$. | The psychological Self as an emergent enactive fixed-point rather than a substance. |
@@ -112,7 +120,7 @@ By starting with the mind and deriving the universe, PO establishes a closed, ov
 9. **Somatic Electrophysiology:** Derives the universal baseline noise floor ($8.32\ \mu\text{V}$) across isolated biological resting states as the direct inductive footprint of the attosecond vacuum stutter ($f_0 \approx 4.36\text{ PHz}$).
 10. **Subjective Time Perception:** Formulates Cognitive Proper Time ($\tau_c$), explaining subjective time dilation (+36%) during acute trauma (corroborated by the SCAD Tower experiments) as a topological state-change in retrospective memory-encoding density.
 11. **Emotional Metastability:** Formalizes emotions as **Conformal Valence Emulsions** ($\alpha_{\text{net}} \approx 14.58\%$), proving that psychological states like courage are phase-locked emulsions where fear is integrated at a specific, invariant geometric density.
-12. **Algorithmic Complexity:** Dissolves the $P$ vs. $NP$ paradox, demonstrating that computational hardness is an observer-relative phase-sampling artifact dictated strictly by the finite Recursive Depth ($194.657\ \phi$-steps) of human brain architecture.
+12. **Algorithmic Complexity:** Dissolves the $P$ vs. $NP$ paradox, demonstrating that computational hardness is an observer-relative phase-sampling artifact dictated strictly by the finite Recursive Depth ($194.657\ \phi$ steps) of human brain architecture.
 
 The mathematical probability of a single geometric manifold solving these twelve independent domains by random curve-fitting is **less than one in a septillion ($10^{-24}$)**. The crossword puzzle is closed.
 
@@ -126,8 +134,8 @@ Process Ontology submits to Karl Popper's strict criterion of empirical falsifia
 | :--- | :--- | :--- | :--- |
 | **Fine-Structure Constant ($\alpha^{-1}$)** | $137.035999143$ | $137.035999177(21)$ (Corroborated at $1.62\sigma$) | Failure to detect the predicted clock frequency gradient ($\Delta\alpha/\alpha = 4.60 \times 10^{-16}\text{ km}^{-1}$) in orbit. |
 | **Dark Matter Sector ($R_{\text{DM}}$)** | $5.373$ | $5.367 \pm 0.050$ (Planck Satellite) | Definitive laboratory discovery of a physical WIMP or Axion carrying rotation mass. |
-| **Bimetric Screening Boundary ($z_0$)** | $3.56\text{ Mpc}$ | $3.56\text{ Mpc}$ (Council of Giants Horizon) | Absence of the bulk-flow transition or gravitational step-up at scale $d > 120\text{ Mpc}/h$. |
-| **Early Cosmic Structure** | Rapid assembly ($z > 7\text{--}10$) | Overdense massive galaxies (JWST Corroborated) | Conclusive proof that early high-z galaxies assemble strictly via slow particle accretion. |
+| **Bimetric Screening Boundary ($z_0$)** | $3.56\text{ Mpc}$ | $3.56\text{ Mpc}$ (Council of Giants Horizon) | Absence of the bulk-flow transition or gravitational step-up at scale $d \gt 120\text{ Mpc}/h$. |
+| **Early Cosmic Structure** | Rapid assembly ($z \gt 7\text{--}10$) | Overdense massive galaxies (JWST Corroborated) | Conclusive proof that early high-z galaxies assemble strictly via slow particle accretion. |
 | **Photonic Time Crystals** | $\sigma = 1/2$ ($50\%$ Loss Cut) | Plasmonic THz Modulations (Guo et al. 2026) | Demonstration that temporal modulation cannot reduce optical dissipation. |
 | **Shielded Gold Conductance** | $0.5 G_0$ plateau | CO-Shielded Nanowires (TEM Corroborated) | Demonstration of clean, fully shielded monoatomic wire transport locking at $G \neq 0.5 G_0$. |
 | **Centro-Parietal Spindle** | $14.11\text{ Hz}$ | Clinical NREM Stage 2 EEG | Discovery that Stage 2 NREM spindle frequency shifts independently of the vacuum plasticity parameter ($\delta_p$). |

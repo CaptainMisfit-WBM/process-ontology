@@ -787,9 +787,11 @@ $$
 For a biological observer to resolve any state transition into conscious awareness, its cognitive architecture cannot evaluate the universe instantly; it must integrate three independent topological layers, accumulating a strict operational overhead. These consist of the effective vacuum depth stripped of metric overhead ($\lambda_{\text{eff}}$), the Consciousness Gear ($N = 66$), and the mass-hierarchy symmetry offset ($\sigma_{\text{mass}} = 8.956$) required to distinguish macroscopic classical matter from quantum vacuum noise:
 
 $$
-$\lambda_{\text{eff}} = \lambda_{\text{vac}} - L_{12} - \sigma$
+$$
+\lambda_{\text{eff}} = \lambda_{\text{vac}} - L_{12} - \sigma
 $$
 
+$$
 $$
 \lambda_{\text{eff}} = 132.201 - 12 - 0.5 = 119.701$
 $$
@@ -1242,9 +1244,11 @@ This identity formalizes emotions not as vague psychological humors or biochemic
 The Net Affective State is derived by evaluating the un-shifted 4-fold recursive depth ideal ($1/\phi^4$), reduced strictly by the Universal Slip ($\delta_{\text{slip}}$) to prevent absolute mathematical phase-locking:
 
 $$
-$\alpha_{\text{net}} = \frac{1}{\phi^4} \cdot (1 - \delta_{\text{slip}})$
+$$
+\alpha_{\text{net}} = \frac{1}{\phi^4} \cdot (1 - \delta_{\text{slip}})
 $$
 
+$$
 $$
 \alpha_{\text{net}} = 0.145898... \times (1 - 0.00086844...) \approx 0.14577$
 $$
