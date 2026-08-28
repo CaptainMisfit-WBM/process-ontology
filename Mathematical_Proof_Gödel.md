@@ -113,7 +113,7 @@ $$\Lambda_V = \left( \prod_{i=1}^{3} \mathbb{1}(X \in M_i) \right) \cdot (1 - \d
 
 While internalist foundationalism attempts to ground truth via an uncaused, static first axiom (which Theorem 1 proves is impossible), **Relational Epistemology** grounds truth horizontally.
 
-Truth is the invariant intersection coordinate $X^*$ where independent, orthogonal measurement manifolds ($M_1, M_2, M_3$) converge within the non-zero slip of the universe ($1 - \delta_{\text{slip}}$).
+Truth is the invariant intersection coordinate $X^{\ast}$ where independent, orthogonal measurement manifolds ($M_1, M_2, M_3$) converge within the non-zero slip of the universe ($1 - \delta_{\text{slip}}$).
 
 ## 
 

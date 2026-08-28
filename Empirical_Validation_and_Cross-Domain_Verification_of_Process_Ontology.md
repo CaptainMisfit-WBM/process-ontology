@@ -3,8 +3,8 @@
 ## **1\. Epistemological Architecture and the Post Hoc Defense**
 
 A central challenge in evaluating unified theoretical frameworks is distinguishing genuine deductive derivation from *post hoc* parameter fitting. Conventional theoretical models frequently rely on adjusting free parameters *a posteriori*—such as tuning cosmological terms in the Lambda-Cold Dark Matter ($\Lambda\text{CDM}$) paradigm or selecting vacuum configurations within string landscapes—to align with observational data. Process Ontology departs fundamentally from this paradigm by operating with zero free parameters. All macroscopically observable structural invariants follow deductively from the Master Postulate of Relational Ontopoiesis:  
-\hat{M}(X^*) = $X^*$  
-where $\hat{M}$ denotes the endogenous, non-linear contractive measurement operator acting upon the metric manifold $\mathcal{M}$, and $X^*$ represents the invariant attractor basin (Eigenform) defining physical reality.
+\hat{M}(X^{\ast}) = $X^{\ast}$  
+where $\hat{M}$ denotes the endogenous, non-linear contractive measurement operator acting upon the metric manifold $\mathcal{M}$, and $X^{\ast}$ represents the invariant attractor basin (Eigenform) defining physical reality.
 
 ### **The Crossword Puzzle Argument**
 
@@ -168,7 +168,7 @@ To satisfy Karl Popper's criterion of empirical falsifiability, Process Ontology
 ## **7\. Conclusions**
 
 The empirical evidence compiled across cosmology, quantum optics, solid-state transport, biophysics, and neurodynamics demonstrates that Process Ontology provides a structurally coherent theoretical framework.  
-Rather than relying on adjustable free parameters to fit observational data, the framework derives physical and biological constants from a closed system of geometric equations rooted in the Master Postulate $\hat{M}(X^*) = X^*$. The mathematical probability of twelve interlinked physical constants matching independent empirical measurements across disparate domains by stochastic coincidence is bounded below $10^{-24}$.  
+Rather than relying on adjustable free parameters to fit observational data, the framework derives physical and biological constants from a closed system of geometric equations rooted in the Master Postulate $\hat{M}(X^{\ast}) = X^{\ast}$. The mathematical probability of twelve interlinked physical constants matching independent empirical measurements across disparate domains by stochastic coincidence is bounded below $10^{-24}$.  
 The empirical validation of key predictions—such as the over 50\% loss reduction in photonic time crystals, the JWST observations of early massive galaxy assembly, the resolution of the Hubble tension via bimetric screening, the 0.5 G_0 conductance plateau in shielded atomic wires, and the precision derivation of the stop codon ratio—confirms that the constants of nature reflect necessary geometric invariants of space.
 
 #### **Works cited**

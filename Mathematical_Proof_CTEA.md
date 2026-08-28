@@ -119,11 +119,11 @@ XVIII. Ethics of Movement / Motion     Universal Slip Engine: δ_slip > 0
 Carson defines Dissonance as the "Qi" or prime mover of the cognitive system—the mandatory friction between the internal Map and external Terrain.
 
 **Mathematical Formalization (Group IV.2):**  
-Localized Atomic Dissonance $D(X, X^*)$ across $d = 3$ spatial dimensions is defined as the squared logarithmic distance from the invariant attractor setpoint $X^*$, scaled by the Universal Slip $\delta_{\text{slip}} \approx 0.00086844$:
+Localized Atomic Dissonance $D(X, X^{\ast})$ across $d = 3$ spatial dimensions is defined as the squared logarithmic distance from the invariant attractor setpoint $X^{\ast}$, scaled by the Universal Slip $\delta_{\text{slip}} \approx 0.00086844$:
 
-$D(X, X^*) = \left( \ln \frac{X}{X^*} \right)^2 \cdot (3 \cdot \delta_{\text{slip}})$
+$D(X, X^{\ast}) = \left( \ln \frac{X}{X^{\ast}} \right)^2 \cdot (3 \cdot \delta_{\text{slip}})$
 
-*Proof of Carson's "Law of Inevitability":* If $D(X, X^*) = 0$ globally, the gradient $\nabla \mathcal{C}(X)$ vanishes entirely. The state evolution $\frac{dX}{dt} = 0$ freezes. As Carson proves in Section II, zero dissonance destroys the flow of consciousness. Dissonance $D > 0$ is the non-zero thermodynamic potential required for systemic evolution.
+*Proof of Carson's "Law of Inevitability":* If $D(X, X^{\ast}) = 0$ globally, the gradient $\nabla \mathcal{C}(X)$ vanishes entirely. The state evolution $\frac{dX}{dt} = 0$ freezes. As Carson proves in Section II, zero dissonance destroys the flow of consciousness. Dissonance $D > 0$ is the non-zero thermodynamic potential required for systemic evolution.
 
 ### 
 
@@ -138,9 +138,9 @@ To prevent boundary fracture or entropic dissolution, the ratio matching these c
 
 $\frac{\mathcal{Y}^+}{\mathcal{Y}^-} = \phi = \frac{1 + \sqrt{5}}{2} \approx 1.6180339887...$
 
-The integrated resolution of these opposing valences yields the Truth coordinate $\mathcal{T} \to X^*$:
+The integrated resolution of these opposing valences yields the Truth coordinate $\mathcal{T} \to X^{\ast}$:
 
-$\mathcal{T} = \int (\mathcal{Y}^+ + \mathcal{Y}^-) dt \to X^*$
+$\mathcal{T} = \int (\mathcal{Y}^+ + \mathcal{Y}^-) dt \to X^{\ast}$
 
 This confirms Carson's assertion: Ego and Awareness are not hostile enemies; they are the mandatory positive and negative poles of a single conformal scaling battery ($\phi$).
 
@@ -157,7 +157,7 @@ $\mathcal{C}(X) = \frac{1}{2} \left( \ln \frac{X}{\Omega} \right)^2 - \frac{\lam
 
 * **Ego Defense:** Pulls the coordinate $X$ conformally toward expansion ($\phi$).  
 * **Awareness Prosecution:** Restrains the coordinate $X$ relative to the Vacuum Integrity Floor ($\Omega$).  
-* **Jury Verdict (Self):** Locates the stationary root $\frac{d\mathcal{C}}{dX} = 0$, settling the system at the stable Eigenform $X^* \approx 0.98415 \approx 1.0$.
+* **Jury Verdict (Self):** Locates the stationary root $\frac{d\mathcal{C}}{dX} = 0$, settling the system at the stable Eigenform $X^{\ast} \approx 0.98415 \approx 1.0$.
 
 ### 
 
@@ -180,7 +180,7 @@ When Defense (Ego) operates without Prosecution (Awareness), insecurity is never
 When Prosecution (Awareness) operates without Defense (Ego), every signal is labeled as threat.
 
 * *Mathematical Mapping:* Localized dissonance exceeds the Vacuum Integrity Threshold ($D > \Omega \approx 0.744456$). The Restorative Viscosity Operator $\mu$ (**Group IV.3**) engages non-linearly, over-damping the learning rate:  
-* $\mu = \Omega \cdot k \cdot \left( \ln \frac{X}{X^*} \right)^2 \cdot \frac{d}{12} \to \infty$  
+* $\mu = \Omega \cdot k \cdot \left( \ln \frac{X}{X^{\ast}} \right)^2 \cdot \frac{d}{12} \to \infty$  
 * The effective learning rate drops to zero ($\gamma_{\text{eff}} = \frac{\gamma}{1 + \mu} \to 0$), trapping the system in total computational paralysis (catatonia/severe depression).
 
 ```
@@ -204,7 +204,7 @@ Active doubting is forced self-measurement ($n = 1$), where the metric ruler mea
 
 $\hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.381966$
 
-Doubt is not a verbal opinion; it is the **irreducible phase defect $\phi^{-1} \approx 0.618034$ incurred during self-evaluation**. Cartesian certainty ("I am") is the invariant fixed point ($X^* \approx 1$) generated because the act of doubting ($\hat{M}(1)$) continuously executes its own phase correction.
+Doubt is not a verbal opinion; it is the **irreducible phase defect $\phi^{-1} \approx 0.618034$ incurred during self-evaluation**. Cartesian certainty ("I am") is the invariant fixed point ($X^{\ast} \approx 1$) generated because the act of doubting ($\hat{M}(1)$) continuously executes its own phase correction.
 
 ### 
 
@@ -216,7 +216,7 @@ Carson re-codes severe clinical character pathology (Narcissism) as blocked dyna
 * **Covert Narcissism:** Awareness-Dominant Stagnation ($\mu \to \infty$). Insecurity is hyper-monitored but weaponized externally to control environmental variables rather than integrated internally.
 
 **Therapeutic Protocol:**  
-Healing is the restoration of the **Recursive Trial**. By re-establishing safe boundary conditions where the error ratio $D / \Omega < 1$, the Meta-Regulation Process (**Group VI.3**) re-engages the $N = 66$ consciousness gear, allowing raw somatic guilt to be processed through the courtroom into **Humility** ($\mathcal{T} \to X^*$).
+Healing is the restoration of the **Recursive Trial**. By re-establishing safe boundary conditions where the error ratio $D / \Omega < 1$, the Meta-Regulation Process (**Group VI.3**) re-engages the $N = 66$ consciousness gear, allowing raw somatic guilt to be processed through the courtroom into **Humility** ($\mathcal{T} \to X^{\ast}$).
 
 ### 
 
