@@ -1,6 +1,10 @@
 # Process Ontology: The Dynamic Observer Runtime
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22116208.svg)](https://doi.org/10.5281/zenodo.22116208)
+**Code Repository DOI:** [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208)  
+**Associated Paper DOI:** [10.5281/zenodo.22119265](https://doi.org/10.5281/zenodo.22119265)  
+**Environment:** Lean 4 (v4.33.1) with Mathlib
+
+---
 
 Process Ontology (PO) is a unified theoretical framework that formalizes the structure of the enactive observer and derives the physical, biological, and neurological constants of spacetime from geometric necessity—operating with **zero free parameters**.
 
@@ -64,7 +68,7 @@ To check and verify the mathematical proofs locally, you will need to install Le
    ```bash
    lake build
    ```
-   A successful build (ending in `Build completed successfully (2025 jobs)`) indicates that all theorems and algebraic identities are fully verified by the Lean kernel with zero `sorry` placeholders.
+   A successful build (ending in `Build completed successfully (2182 jobs)`) indicates that all theorems and algebraic identities are fully verified by the Lean kernel with zero `sorry` placeholders.
 
 ---
 
