@@ -356,7 +356,7 @@ $D_{\text{temporal}} = 4 \quad \implies \quad (T_{-1}, T_0, T_{+1}, T_{\text{obs
 
 In non-equilibrium quantum field theory, state evolution along a time-contour is formalized using the **Keldysh Closed Time Path (CTP)** technique. The 4 temporal coordinates map onto the Keldysh contour operators:
 
-$G_{\text{Keldysh}} = \begin{pmatrix} G^R & G^K \\ 0 & G^A \end{pmatrix}$
+$G_{\text{Keldysh}} = \begin{pmatrix} G^R & G^K \ 0 & G^A \end{pmatrix}$
 
 * $T_{-1} \to G^A$ (Advanced Green's Function / Historical Boundary).  
 * $T_0 \to G^K$ (Keldysh Green's Function / Present Non-Equilibrium State).  
