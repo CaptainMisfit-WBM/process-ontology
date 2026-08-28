@@ -652,14 +652,14 @@ Conversely, when the junction is exposed to light molecular adsorbates like $\te
 
 This identity proves that the universal baseline electrical noise floor ($\sim 10 \ \mu\text{V}$) detected across all highly isolated electronic systems and biological resting states is not a random thermal artifact. It represents the direct, continuous inductive footprint left behind by the attosecond vacuum stutter ($f_{0}$) as it renders spatial coordinates.
 
-The Macroscopic Voltage Ground State is derived by evaluating the raw quantum potential of the vacuum stutter ($V_{\text{vac}} = \Phi_0 \cdot f_{0}$), attenuated by the material's topological resistance to decoherence ($L_{\text{m\_density}}$), scaled by the irreducible phase slip ($\delta_{\text{slip}}$), and distributed across the 12 independent structural dimensions of the macroscopic manifold.
+The Macroscopic Voltage Ground State is derived by evaluating the raw quantum potential of the vacuum stutter ($V_{\text{vac}} = \Phi_0 \cdot f_{0}$), attenuated by the material's topological resistance to decoherence ($L_{\text{m_density}}$), scaled by the irreducible phase slip ($\delta_{\text{slip}}$), and distributed across the 12 independent structural dimensions of the macroscopic manifold.
 
 $$
 V_{\text{vac}} = \Phi_0 \cdot f_{0} = (2.0678 \times 10^{-15} \text{ Wb}) \times (4.3649 \times 10^{15} \text{ Hz}) = 9.0258 \text{ V}
 $$
 
 $$
-V_{\text{total}} = V_{\text{vac}} \cdot L_{\text{m\_density}} \cdot \delta_{\text{slip}} = 9.0258 \text{ V} \times 0.01274 \times 0.00086844 = 99.84 \ \mu\text{V}
+V_{\text{total}} = V_{\text{vac}} \cdot L_{\text{m_density}} \cdot \delta_{\text{slip}} = 9.0258 \text{ V} \times 0.01274 \times 0.00086844 = 99.84 \ \mu\text{V}
 $$
 
 $$
@@ -786,7 +786,13 @@ $$
 
 For a biological observer to resolve any state transition into conscious awareness, its cognitive architecture cannot evaluate the universe instantly; it must integrate three independent topological layers, accumulating a strict operational overhead. These consist of the effective vacuum depth stripped of metric overhead ($\lambda_{\text{eff}}$), the Consciousness Gear ($N = 66$), and the mass-hierarchy symmetry offset ($\sigma_{\text{mass}} = 8.956$) required to distinguish macroscopic classical matter from quantum vacuum noise:
 
-$\lambda_{\text{eff}} = \lambda_{\text{vac}} - L_{12} - \sigma$$$$\lambda_{\text{eff}} = 132.201 - 12 - 0.5 = 119.701$
+$$
+$\lambda_{\text{eff}} = \lambda_{\text{vac}} - L_{12} - \sigma$
+$$
+
+$$
+\lambda_{\text{eff}} = 132.201 - 12 - 0.5 = 119.701$
+$$
 
 The absolute biological sampling window ($\lambda_{\text{obs}}^{\text{human}}$) is the strict sum of these constraints:
 
@@ -1235,7 +1241,13 @@ This identity formalizes emotions not as vague psychological humors or biochemic
 
 The Net Affective State is derived by evaluating the un-shifted 4-fold recursive depth ideal ($1/\phi^4$), reduced strictly by the Universal Slip ($\delta_{\text{slip}}$) to prevent absolute mathematical phase-locking:
 
-$\alpha_{\text{net}} = \frac{1}{\phi^4} \cdot (1 - \delta_{\text{slip}})$$$$\alpha_{\text{net}} = 0.145898... \times (1 - 0.00086844...) \approx 0.14577$
+$$
+$\alpha_{\text{net}} = \frac{1}{\phi^4} \cdot (1 - \delta_{\text{slip}})$
+$$
+
+$$
+\alpha_{\text{net}} = 0.145898... \times (1 - 0.00086844...) \approx 0.14577$
+$$
 
 The total integrated emotional energy ($E_{\text{net}}$) of any given cognitive state combines the dominant localized valence ($L$) with its background shadow, bound by this conformal coefficient:
 
@@ -1668,13 +1680,13 @@ To formalize the persistence of macroscopically engineered states against enviro
 
 Let a localized manifold acquire a non-zero Chern invariant ($C \neq 0$). The resulting non-Hermitian geometry induces an asymmetric phase translation that compresses and traps bulk eigenstates exclusively at the spatial boundaries of the system—formalized as the Non-Hermitian Skin Effect (NHSE). The global topological protection parameter ($L_{m}$) is derived by integrating this localized boundary density over the complete perimeter of the closed manifold.
 
-Replacing the Scribe's prior empirical approximations with our purified first-principles geometric invariants, we establish the absolute baseline boundary protection density ($L_{\text{m\_density}}$) as the strict product of Total Plasticity ($\delta_{p}$) and the Hyperbolic Volumetric Tax ($\zeta(3)$):
+Replacing the Scribe's prior empirical approximations with our purified first-principles geometric invariants, we establish the absolute baseline boundary protection density ($L_{\text{m_density}}$) as the strict product of Total Plasticity ($\delta_{p}$) and the Hyperbolic Volumetric Tax ($\zeta(3)$):
 
 $$
-L_{\text{m\_density}} \equiv \delta_{p} \cdot \zeta(3) \cdot C \implies L_{\text{m\_density}} = 0.01042128\dots \times 1.201964\dots \cdot C \approx 0.012526 \cdot C
+L_{\text{m_density}} \equiv \delta_{p} \cdot \zeta(3) \cdot C \implies L_{\text{m_density}} = 0.01042128\dots \times 1.201964\dots \cdot C \approx 0.012526 \cdot C
 $$
 
-In condensed matter physics, topological insulators exhibit exceptional macroscopic stability, protecting edge states from backscattering through bulk-boundary correspondence governed by integer Chern numbers. Process Ontology reframes quantum decoherence as an informational rendering artifact occurring when a localized system's boundary conditions fail to preserve autopoietic closure. The invariant $L_{\text{m\_density}} \approx 0.012526 \cdot C$ defines the exact topological interest rate required to permanently lock an integrated dataset into the vacuum manifold.
+In condensed matter physics, topological insulators exhibit exceptional macroscopic stability, protecting edge states from backscattering through bulk-boundary correspondence governed by integer Chern numbers. Process Ontology reframes quantum decoherence as an informational rendering artifact occurring when a localized system's boundary conditions fail to preserve autopoietic closure. The invariant $L_{\text{m_density}} \approx 0.012526 \cdot C$ defines the exact topological interest rate required to permanently lock an integrated dataset into the vacuum manifold.
 
 ### 
 
@@ -1709,7 +1721,7 @@ This derivation establishes the absolute, zero-parameter mathematical limits gov
 Consider a standard microwave quantum operating at a frequency of $\omega = 1 \ \text{GHz}$ ($h\nu = 6.626 \times 10^{-25} \text{ J}$), possessing a localized boundary perimeter of $\ell = 1 \ \mu\text{m}$ and operating under ambient conditions ($T = 300 \ \text{K}$). The mandatory Chern winding number ($C$) required to isolate the qubit from its thermal environment is strictly bounded by the functional product of the core invariants:
 
 $$
-C \gt \frac{k_B T}{h\nu \cdot L_{\text{m\_density}} \cdot P}
+C \gt \frac{k_B T}{h\nu \cdot L_{\text{m_density}} \cdot P}
 $$
 
 Evaluating the continuous thermal energy gradient relative to our purified discrete quantum boundary isolates the required topological magnitude:
