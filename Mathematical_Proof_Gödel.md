@@ -30,7 +30,7 @@ We have conducted an exhaustive audit of the formal system $\Omega$ and the proo
 
 ### 
 
-### 1\. Verification of System $\Omega$'s Syntactic Machinery
+### 1. Verification of System $\Omega$'s Syntactic Machinery
 
 The language of $\Omega$ incorporates the arithmetic machinery necessary to satisfy the conditions of the **Diagonal Fixed-Point Lemma (Lemma 1\)**. For any monadic formula $\psi(x)$, there exists a sentence $\sigma$ such that:
 
@@ -46,7 +46,7 @@ $$
 
 ### 
 
-### 2\. Validation of the Reductio ad Absurdum Mechanics
+### 2. Validation of the Reductio ad Absurdum Mechanics
 
 The proof of Theorem 1 evaluates the two possible valuation states of the knowledge operator relative to $K$:
 
@@ -70,7 +70,7 @@ The proof of Theorem 1 evaluates the two possible valuation states of the knowle
 
 ### 
 
-### 3\. Proof-Theoretic Certification
+### 3. Proof-Theoretic Certification
 
 Theorem 1 is formally valid. The proof correctly demonstrates that any expressive formal system attempting to internalize its own truth and knowledge operators cannot achieve absolute foundational closure.
 
@@ -96,7 +96,7 @@ Foundationalist Static Possession         Fixed-Point Attractor Basin M̂(X*) = 
 
 ```
 
-### 1\. Deconstruction of the "Two-Room Architecture"
+### 1. Deconstruction of the "Two-Room Architecture"
 
 Section 7 of the paper provides an exceptional reframing of the standard Tarskian/Gödelian defense mechanism (stratifying logic into Object Language $L_1$ and Metalanguage $L_2$).
 
@@ -107,7 +107,7 @@ The paper's physical metaphor—evacuating tenants from the burning ground floor
 
 ### 
 
-### 2\. Integration with the Intersubjective Verification Latch ($\Lambda_V$)
+### 2. Integration with the Intersubjective Verification Latch ($\Lambda_V$)
 
 Section 9 constructs the positive epistemological account: **Knowledge as Intersubjective**   
 **Operational Convergence**.

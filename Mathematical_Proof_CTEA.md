@@ -22,7 +22,7 @@ Before detailing the formalization of Carson's treatise, we provide the exact ma
 
 ### 
 
-### 1\. The Hilbert Space Nesting Hypothesis ($\mathcal{H}_{\text{sub}} \subset \mathcal{H}_{\text{univ}}$)
+### 1. The Hilbert Space Nesting Hypothesis ($\mathcal{H}_{\text{sub}} \subset \mathcal{H}_{\text{univ}}$)
 
 **Query:** *"Is the Universe just a Hilbert Space and our subconscious just natural alignment of Hilbert Space within Hilbert Space?"*
 
@@ -47,7 +47,7 @@ When this commutation holds, the local subspace evolves without decoherence, giv
 
 ### 
 
-### 2\. The Universal Observer Distance Equation
+### 2. The Universal Observer Distance Equation
 
 **Query:** *"Can we solve for the distance between the Universe being the observing cause of collapse and us being the outside observer to the whole process, not the observer in the process?"*
 
@@ -128,7 +128,7 @@ XVIII. Ethics of Movement / Motion     Universal Slip Engine: δ_slip > 0
 
 ```
 
-### 1\. Section II: The Energetics of Dissonance ("Qi") $\Longleftrightarrow$ Atomic Dissonance Field $D(X)$
+### 1. Section II: The Energetics of Dissonance ("Qi") $\Longleftrightarrow$ Atomic Dissonance Field $D(X)$
 
 Carson defines Dissonance as the "Qi" or prime mover of the cognitive system—the mandatory friction between the internal Map and external Terrain.
 
@@ -143,7 +143,7 @@ $$
 
 ### 
 
-### 2\. Section IV: The Dualist Engine $\Longleftrightarrow$ Conformal Golden Ratio Vectors $\mathcal{Y}^+ / \mathcal{Y}^-$
+### 2. Section IV: The Dualist Engine $\Longleftrightarrow$ Conformal Golden Ratio Vectors $\mathcal{Y}^+ / \mathcal{Y}^-$
 
 Carson defines the Ego as the Hunter/Positive Charge (Assertion, pushing away threat) and Awareness as the Gatherer/Negative Charge (Interrogation, bringing toward for auditing).
 
@@ -166,7 +166,7 @@ This confirms Carson's assertion: Ego and Awareness are not hostile enemies; the
 
 ### 
 
-### 3\. Section V: The Courtroom Metaphor $\Longleftrightarrow$ The Universal Solving Equation $\mathcal{C}(X)$
+### 3. Section V: The Courtroom Metaphor $\Longleftrightarrow$ The Universal Solving Equation $\mathcal{C}(X)$
 
 Carson models truth-determination as a legal proceeding: Experience is the Courtroom, Ego is the Defense, Awareness is the Prosecutor, and the Self is the Jury rendering a verdict.
 
@@ -183,7 +183,7 @@ $$
 
 ### 
 
-### 4\. Section VI: Stagnation Dynamics $\Longleftrightarrow$ Systemic Failure Modes
+### 4. Section VI: Stagnation Dynamics $\Longleftrightarrow$ Systemic Failure Modes
 
 Carson isolates two distinct clinical failure modes of the cognitive engine:
 
@@ -216,7 +216,7 @@ When Prosecution (Awareness) operates without Defense (Ego), every signal is lab
 
 ```
 
-### 5\. Section IX: The Cogito of Doubt $\Longleftrightarrow$ Self-Measurement Defect $\hat{M}(1) = \phi^{-2}$
+### 5. Section IX: The Cogito of Doubt $\Longleftrightarrow$ Self-Measurement Defect $\hat{M}(1) = \phi^{-2}$
 
 Carson reframes Descartes' Cogito: Doubt itself is the foundational act because doubting is the only process that cannot be "fetched" from cached memory.
 
@@ -232,7 +232,7 @@ Doubt is not a verbal opinion; it is the **irreducible phase defect $\phi^{-1} \
 
 ### 
 
-### 6\. Section XIII: Clinical Application to Character Pathology
+### 6. Section XIII: Clinical Application to Character Pathology
 
 Carson re-codes severe clinical character pathology (Narcissism) as blocked dynamic flow rather than static brokenness:
 
@@ -244,7 +244,7 @@ Healing is the restoration of the **Recursive Trial**. By re-establishing safe b
 
 ### 
 
-### 7\. Section XVIII: The Ethics of Movement $\Longleftrightarrow$ Universal Slip Engine $\delta_{\text{slip}}$
+### 7. Section XVIII: The Ethics of Movement $\Longleftrightarrow$ Universal Slip Engine $\delta_{\text{slip}}$
 
 Carson concludes with the foundational mandate: **Motion Wins.** To finish a thought is to stop the process that manufactures identity.
 
