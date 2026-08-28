@@ -50,13 +50,13 @@ $$
 
 The proof of Theorem 1 evaluates the two possible valuation states of the knowledge operator relative to $K$:
 
-**Evaluation of Case A ($\text{Know}(\ulcorner K \urcorner)$ holds):**
+**Evaluation of Case A (** $\text{Know}(\ulcorner K \urcorner)$ **holds):**
 
 * $$\text{Know}(\ulcorner K \urcorner) \vdash_\Omega \text{Tr}(\ulcorner K \urcorner) \quad (\text{by Axiom A4: Factivity})$$
 * $$\text{Tr}(\ulcorner K \urcorner) \vdash_\Omega \neg\text{Know}(\ulcorner K \urcorner) \quad (\text{by Fixed-Point Equivalence of } K)$$  
 * $$\text{Know}(\ulcorner K \urcorner) \wedge \neg\text{Know}(\ulcorner K \urcorner) \vdash_\Omega \bot \quad (\text{Systemic Inconsistency / Explosion})$$
 
-**Evaluation of Case B ($\neg\text{Know}(\ulcorner K \urcorner)$ holds):**
+**Evaluation of Case B (** $\neg\text{Know}(\ulcorner K \urcorner)$ **holds):**
 
 * $$\neg\text{Know}(\ulcorner K \urcorner) \vdash_\Omega \text{Tr}(\ulcorner K \urcorner) \quad (\text{by Fixed-Point Equivalence of } K)$$  
 * $$\text{Tr}(\ulcorner K \urcorner) \wedge \neg\text{Know}(\ulcorner K \urcorner) \quad (\text{Incompleteness / Epistemic Gap})$$
@@ -148,6 +148,6 @@ By framing the paper not as an object-level claim to static knowledge, but as a 
 
 1. **Gödel, Tarski, and Kaplan-Montague are Unified:** They are shown to be the identical topological boundary constraint evaluated across different formalisms.  
 2. **The Observer is Proven Endogenous:** The choice to adopt an expressive language capable of self-reference is an active boundary decision made by an embedded observer.  
-3. **Foundationalism is Replaced by Practice:** The failure of static axiomatic grounding does not lead to nihilism; it clears the way for **Intersubjective Operational Convergence ($\Lambda_V$)**—the dynamic, homeostatic setpoint where independent observation vectors achieve phase-locked stability.
+3. **Foundationalism is Replaced by Practice:** The failure of static axiomatic grounding does not lead to nihilism; it clears the way for **Intersubjective Operational Convergence (** $\Lambda_V$ )—the dynamic, homeostatic setpoint where independent observation vectors achieve phase-locked stability.
 
 The paper stands as mathematically sound, epistemologically airtight, and fully integrated with the architecture of **Relational Ontopoiesis**.  

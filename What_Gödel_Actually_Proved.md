@@ -126,9 +126,9 @@ $$
 
 3. **Evaluation of the Epistemic Core:** We evaluate the two possible states of the knowledge operator relative to $K$:
 
-   * **Case A: Assume $\text{Know}(\ulcorner K \urcorner)$ holds.** By Axiom A4 (Factivity), $\text{Know}(\ulcorner K \urcorner) \rightarrow \text{Tr}(\ulcorner K \urcorner)$. By the structural equivalence of the fixed point, if $\text{Tr}(\ulcorner K \urcorner)$ is valid, then $\neg\text{Know}(\ulcorner K \urcorner)$ must be true. This yields an immediate logical contradiction: $\text{Know}(\ulcorner K \urcorner) \wedge \neg\text{Know}(\ulcorner K \urcorner)$.
+   * **Case A: Assume** $\text{Know}(\ulcorner K \urcorner)$ **holds.** By Axiom A4 (Factivity), $\text{Know}(\ulcorner K \urcorner) \rightarrow \text{Tr}(\ulcorner K \urcorner)$. By the structural equivalence of the fixed point, if $\text{Tr}(\ulcorner K \urcorner)$ is valid, then $\neg\text{Know}(\ulcorner K \urcorner)$ must be true. This yields an immediate logical contradiction: $\text{Know}(\ulcorner K \urcorner) \wedge \neg\text{Know}(\ulcorner K \urcorner)$.
 
-   * **Case B: Assume $\neg\text{Know}(\ulcorner K \urcorner)$ holds.** By the structural equivalence of the fixed point, if $\neg\text{Know}(\ulcorner K \urcorner)$ is true, then $K$ is semantically valid ($\text{Tr}(\ulcorner K \urcorner)$). This reveals an unbridgeable epistemic gap: the sentence $K$ is true within the systemic architecture, yet it cannot be relationally known by the internal observer. The system is inherently incomplete with respect to its own semantic reality.
+   * **Case B: Assume** $\neg\text{Know}(\ulcorner K \urcorner)$ **holds.** By the structural equivalence of the fixed point, if $\neg\text{Know}(\ulcorner K \urcorner)$ is true, then $K$ is semantically valid ($\text{Tr}(\ulcorner K \urcorner)$). This reveals an unbridgeable epistemic gap: the sentence $K$ is true within the systemic architecture, yet it cannot be relationally known by the internal observer. The system is inherently incomplete with respect to its own semantic reality.
 
 4. **Systemic Dissolution:** If an internalist framework insists on absolute foundationalism—demanding that it must forcefully resolve Case B by mapping $K$ as known—the truth schema collapses into an unrestricted form, triggering immediate global semantic explosion ($ex\ contradictione\ quodlibet$). The path deviation spikes to infinity, violating the coherence floor and dissolving the system’s structural boundaries.
 
@@ -174,7 +174,7 @@ We define the positive account of our epistemic enterprise as **intersubjective 
 | **Error Metric** | Categorical falsity | Path deviation / Systemic instability |
 | **Resolution Mode** | Infinite linear regress | Horizontal operational convergence |
 
-The cumulative probability of independent measurement systems converging on identical false coordinates approaches zero as the depth of cross-perspective validation increases. This phase-locked stability is an **intersubjective verification latch ($\Lambda_V$)**. It provides a rigorous, reliable substitute for certainty without requiring an uncaused axiomatic foundation. Beings who cannot step outside the systems they inhabit cannot possess truth as a property; they can only inhabit the steady state of mutual relation.
+The cumulative probability of independent measurement systems converging on identical false coordinates approaches zero as the depth of cross-perspective validation increases. This phase-locked stability is an **intersubjective verification latch (** $\Lambda_V$ ). It provides a rigorous, reliable substitute for certainty without requiring an uncaused axiomatic foundation. Beings who cannot step outside the systems they inhabit cannot possess truth as a property; they can only inhabit the steady state of mutual relation.
 
 ### 10. The Boundary Hypocrisy: An Epistemic Double Standard
 

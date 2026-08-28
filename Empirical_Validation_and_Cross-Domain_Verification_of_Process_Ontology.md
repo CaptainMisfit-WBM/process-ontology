@@ -13,9 +13,9 @@ where $\hat{M}$ denotes the endogenous, non-linear contractive measurement opera
 When evaluating theoretical frameworks that match physical constants across multiple domains, critics often raise concerns regarding curve-fitting. To address the mathematical improbability of *post hoc* parameter adjustment within Process Ontology, the structural relationship among the derived constants can be formalized as an overconstrained, coupled system—analogous to a multi-dimensional interlocking crossword puzzle.  
 In an uncoupled empirical model, an investigator can independently tune N free parameters to match N empirical observations. In Process Ontology, however, every physical constant is mathematically bound to a closed network of geometric transformations rooted in three foundational numbers:
 
-> 1. **The Conformal Golden Ratio ($\phi \approx 1.6180339887$):** Derived from the quadratic optimization of variational free energy balance across a two-dimensional Markov interface ($\phi^2 -$\phi$- 1 = 0$).  
-> 2. **The Plastic Constant ($P \approx 1.3247179572$):** Derived as the unique real root of the characteristic cubic recurrence polynomial ($P^3 - P - 1 = 0$), establishing optimal non-periodic volumetric packing density and topological closure in three dimensions.  
-> 3. **The Axis of Silence ($\sigma = 0.5$):** Derived from the neutral Lyapunov stability requirement ($2\sigma = 1$) balancing counter-propagating complex dynamical flows.
+> 1. **The Conformal Golden Ratio (** $\phi \approx 1.6180339887$ **):** Derived from the quadratic optimization of variational free energy balance across a two-dimensional Markov interface ($\phi^2 -$\phi$- 1 = 0$).  
+> 2. **The Plastic Constant (** $P \approx 1.3247179572$ **):** Derived as the unique real root of the characteristic cubic recurrence polynomial ($P^3 - P - 1 = 0$), establishing optimal non-periodic volumetric packing density and topological closure in three dimensions.  
+> 3. **The Axis of Silence (** $\sigma = 0.5$ **):** Derived from the neutral Lyapunov stability requirement ($2\sigma = 1$) balancing counter-propagating complex dynamical flows.
 
 The structural hierarchy flows deterministically from these foundational roots:
 

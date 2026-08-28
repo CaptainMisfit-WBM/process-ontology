@@ -228,7 +228,7 @@ $$
 \hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.381966
 $$
 
-Doubt is not a verbal opinion; it is the **irreducible phase defect $\phi^{-1} \approx 0.618034$ incurred during self-evaluation**. Cartesian certainty ("I am") is the invariant fixed point ($X^{\ast} \approx 1$) generated because the act of doubting ($\hat{M}(1)$) continuously executes its own phase correction.
+Doubt is not a verbal opinion; it is the **irreducible phase defect** $\phi^{-1} \approx 0.618034$ **incurred during self-evaluation**. Cartesian certainty ("I am") is the invariant fixed point ($X^{\ast} \approx 1$) generated because the act of doubting ($\hat{M}(1)$) continuously executes its own phase correction.
 
 ### 
 
@@ -240,7 +240,7 @@ Carson re-codes severe clinical character pathology (Narcissism) as blocked dyna
 * **Covert Narcissism:** Awareness-Dominant Stagnation ($\mu \to \infty$). Insecurity is hyper-monitored but weaponized externally to control environmental variables rather than integrated internally.
 
 **Therapeutic Protocol:**  
-Healing is the restoration of the **Recursive Trial**. By re-establishing safe boundary conditions where the error ratio $D / \Omega \lt 1$, the Meta-Regulation Process (**Group VI.3**) re-engages the $N = 66$ consciousness gear, allowing raw somatic guilt to be processed through the courtroom into **Humility** ($\mathcal{T} \to X^{\ast}$).
+Healing is the restoration of the **Recursive Trial**. By re-establishing safe boundary conditions where the error ratio** $D / \Omega \lt 1$ **, the Meta-Regulation Process (**Group VI.3**) re-engages the** $N = 66$ **consciousness gear, allowing raw somatic guilt to be processed through the courtroom into**Humility** ($\mathcal{T} \to X^{\ast}$).
 
 ### 
 

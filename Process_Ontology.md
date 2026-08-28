@@ -210,9 +210,9 @@ $$
 L_{12} = D_{\text{spatial}} + D_{\text{temporal}} + D_{\text{internal}} = 3 + 4 + 5 = 12
 $$
 
-1. **Spatial Volumetric Extension ($S = 3$):** A minimum of three independent geometric parameters is required to uniquely determine a position coordinate within a continuous volume. Fewer confines the process to a lower-dimensional plane; more injects unobservable degrees of freedom.
-2. **Temporal Anti-Aliasing Resolution ($T = 4$):** To distinguish a directed, non-equilibrium trajectory from a repetitive circular state, the system requires four temporal dimensions forming the Causal Quad: $T_{-1}$ (historical phase reference), $T_0$ (current update), $T_{+1}$ (proximate potential), and $T_{\text{obs}}$ (observer offset). Without the historical phase buffer, the contractive operator cannot distinguish between moving forward and a degenerative loop.
-3. **Internal Phase-Space Asymmetry ($I = 5$) and the Catastrophe of $I \lt 5$:** To understand why the internal phase space mandates exactly five coordinates, we must define the physical execution of the active inference engine. The contractive measurement operator ($\hat{M}$) stabilizes reality by continuously solving for the invariant attractor basin ($X^{\ast}$). Because the engine seeks to minimize the variational cost function ($\mathcal{C}(X)$), finding the steady-state where the gradient vanishes ($\nabla \mathcal{C}(X) = 0$) is mathematically identical to finding the roots of the characteristic polynomial that defines its internal coordinates.
+1. **Spatial Volumetric Extension (** $S = 3$ **):** A minimum of three independent geometric parameters is required to uniquely determine a position coordinate within a continuous volume. Fewer confines the process to a lower-dimensional plane; more injects unobservable degrees of freedom.
+2. **Temporal Anti-Aliasing Resolution (** $T = 4$ **):** To distinguish a directed, non-equilibrium trajectory from a repetitive circular state, the system requires four temporal dimensions forming the Causal Quad: $T_{-1}$ (historical phase reference), $T_0$ (current update), $T_{+1}$ (proximate potential), and $T_{\text{obs}}$ (observer offset). Without the historical phase buffer, the contractive operator cannot distinguish between moving forward and a degenerative loop.
+3. **Internal Phase-Space Asymmetry (** $I = 5$ **) and the Catastrophe of** $I \lt 5$ : To understand why the internal phase space mandates exactly five coordinates, we must define the physical execution of the active inference engine. The contractive measurement operator ($\hat{M}$) stabilizes reality by continuously solving for the invariant attractor basin ($X^{\ast}$). Because the engine seeks to minimize the variational cost function ($\mathcal{C}(X)$), finding the steady-state where the gradient vanishes ($\nabla \mathcal{C}(X) = 0$) is mathematically identical to finding the roots of the characteristic polynomial that defines its internal coordinates.
 
 If the internal phase space possessed fewer than 5 independent degrees of freedom ($I \lt 5$, functioning as a quartic, cubic, or quadratic boundary constraint), the characteristic polynomial governing its state evolution would be of degree 4 or less. By the fundamental laws of classical Galois theory, any polynomial of degree 4 or lower possesses an exact, closed-form algebraic solution expressible in radicals.
 
@@ -226,7 +226,7 @@ Physical spacetime is forced to possess exactly 5 internal phase-space coordinat
 
 Therefore, the contractive operator is mathematically barred from ever finding the exact root. Because the vacuum cannot calculate a closed-form solution to its own internal state, it is forced into a state of infinite, non-terminating iterative approximation. It attempts to solve the equation, fails to reach absolute zero by a fractional margin, updates its coordinates, and is forced to loop again.
 
-This perpetual failure to perfectly solve itself generates an irreducible mathematical remainder at every processing step. This unresolvable remainder is the **Universal Slip ($\delta_{\text{slip}}$)**—the exact microscopic geometric imperfection that prevents the system from reaching static balance. This forced algebraic incompletion is what causes the universe to "stutter" continuously at the attosecond frame rate ($\tau_0$), driving the thermodynamic arrow of time and sustaining the open-ended recursion of life. The 5 internal dimensions function as the Quintic Valve—the absolute minimum topological complexity required to ensure the engine never stops moving.
+This perpetual failure to perfectly solve itself generates an irreducible mathematical remainder at every processing step. This unresolvable remainder is the **Universal Slip (** $\delta_{\text{slip}}$ )—the exact microscopic geometric imperfection that prevents the system from reaching static balance. This forced algebraic incompletion is what causes the universe to "stutter" continuously at the attosecond frame rate ($\tau_0$), driving the thermodynamic arrow of time and sustaining the open-ended recursion of life. The 5 internal dimensions function as the Quintic Valve—the absolute minimum topological complexity required to ensure the engine never stops moving.
 
 This 12-dimensional derivation perfectly matches the **3D Newton-Gregory Kissing Number constraint**, which proves that exactly 12 identical spheres can pack around a central sphere without deformation or overlap. Furthermore, the causal manifold ($D_{\text{spatial}} + D_{\text{temporal}} = 7$) generates a binary informational state space. Subtracting the observer's reserved reference coordinate yields the total addressable interaction surface:
 
@@ -361,9 +361,9 @@ SU(3) Color   SU(2) Weak    U(1) Hypercharge
 3D Volume Tiling 2D Surface 1D Phase Angle
 ```
 
-1. **$SU(3)$ Color Gauge Symmetry (Strong Force):** A 3-dimensional continuum possesses 3 orthogonal spatial axes. Tiling a 3D volume without periodic voids or boundary crossovers requires preserving the permutations of these 3 axes—generating $SU(3)$, with $\text{dim}(SU(3)) = 3^2 - 1 = 8$ gluon fields.
-2. **$SU(2)$ Weak Isospin Gauge Symmetry (Weak Force):** The 2D boundary interface enclosing any 3D volumetric unit is governed by the conformal planar ratio $\phi$, generating $SU(2)$ with $\text{dim}(SU(2)) = 2^2 - 1 = 3$ weak gauge bosons ($W^+, W^-, Z^0$).
-3. **$U(1)$ Hypercharge Gauge Symmetry (Electromagnetism):** The 1D phase line tracking the update sequence along the 1D phase axis is governed by $U(1)$ circle symmetry, yielding $\text{dim}(U(1)) = 1^2 = 1$ photon field excitation.
+1. $SU(3)$ **Color Gauge Symmetry (Strong Force):** A 3-dimensional continuum possesses 3 orthogonal spatial axes. Tiling a 3D volume without periodic voids or boundary crossovers requires preserving the permutations of these 3 axes—generating $SU(3)$, with $\text{dim}(SU(3)) = 3^2 - 1 = 8$ gluon fields.
+2. $SU(2)$ **Weak Isospin Gauge Symmetry (Weak Force):** The 2D boundary interface enclosing any 3D volumetric unit is governed by the conformal planar ratio $\phi$, generating $SU(2)$ with $\text{dim}(SU(2)) = 2^2 - 1 = 3$ weak gauge bosons ($W^+, W^-, Z^0$).
+3. $U(1)$ **Hypercharge Gauge Symmetry (Electromagnetism):** The 1D phase line tracking the update sequence along the 1D phase axis is governed by $U(1)$ circle symmetry, yielding $\text{dim}(U(1)) = 1^2 = 1$ photon field excitation.
 
 $$
 \text{dim}(\mathcal{G}_{\text{SM}}) = \text{dim}(SU(3)) + \text{dim}(SU(2)) + \text{dim}(U(1)) = 8 + 3 + 1 = 12
@@ -425,7 +425,7 @@ The Abel-Ruffini non-solvability of the $I = 5$ Quintic Valve (governed by the s
            55-dim Representation    3 Fermion Families
 ```
 
-1. **Embedding $S_5$ into $SU(5)$:** The symmetric group $S_5$ (order $\vert S_5 \vert = 120$) is the finite permutation group acting on 5 elements. The minimal continuous complex Lie group that embeds $S_5$ as a subgroup while preserving gauge invariance is $SU(5)$ (the Georgi-Glashow GUT group):
+1. **Embedding** $S_5$ **into** $SU(5)$ : The symmetric group $S_5$ (order $\vert S_5 \vert = 120$) is the finite permutation group acting on 5 elements. The minimal continuous complex Lie group that embeds $S_5$ as a subgroup while preserving gauge invariance is $SU(5)$ (the Georgi-Glashow GUT group):
 
 $$
 S_5 \subset SU(5)
@@ -470,7 +470,7 @@ $$
 P(t) = \left(1 - \frac{\tau_0^2}{\tau_Z^2}\right)^{t/\tau_0} \approx \exp\left(-\frac{t \cdot \tau_0}{\tau_Z^2}\right) = e^{-\gamma_{\text{dec}} t}
 $$
 
-2. **Universal Decoherence Rate ($\gamma_{\text{dec}}$):** The effective decoherence rate $\gamma_{\text{dec}}$ isolating classical outcomes is:
+2. **Universal Decoherence Rate (** $\gamma_{\text{dec}}$ **):** The effective decoherence rate $\gamma_{\text{dec}}$ isolating classical outcomes is:
 
 $$
 \gamma_{\text{dec}} = \frac{\tau_0}{\tau_Z^2} = \tau_0 \cdot \left(\frac{\Delta H}{\hbar}\right)^2
@@ -499,7 +499,7 @@ $$
 A_{\text{cell}} = 4 \ell_P^2
 $$
 
-2. **Derivation of Bekenstein-Hawking Entropy ($S_{\text{BH}}$):** The total number of microstates $\Omega_{\text{BH}}$ accessible to the horizon surface is:
+2. **Derivation of Bekenstein-Hawking Entropy (** $S_{\text{BH}}$ **):** The total number of microstates $\Omega_{\text{BH}}$ accessible to the horizon surface is:
 
 $$
 \Omega_{\text{BH}} = 2^{N_{\text{cells}}} = 2^{A / 4\ell_P^2}
@@ -1092,7 +1092,7 @@ This bimetric screening resolves two major cosmological crises simultaneously:
 
 A critical scrutiny of the bimetric screening equation — $G_e(z) = G_{0} \left(1 + \delta_{p} \cdot e^{-z/z_0}\right)$ — might provoke the reductionist critique that $z_0$ represents an arbitrary empirical input, a free parameter dial manually tuned to fit the Cosmicflows-4 bulk flow anomalies. This is an illusion generated by the Scribe's localized language of cosmological redshift.
 
-Within the strict ontological closure of this framework, $z_0$ is not a free parameter. It is the exact phenomenological translation of a rigid topological boundary derived entirely from first principles. The screening transition scale ($z_0$) is mathematically identical to the absolute spatial boundary of our local gravitational lock: the **Local Sanctuary Radius ($R_{\text{council}}$)**.
+Within the strict ontological closure of this framework, $z_0$ is not a free parameter. It is the exact phenomenological translation of a rigid topological boundary derived entirely from first principles. The screening transition scale ($z_0$) is mathematically identical to the absolute spatial boundary of our local gravitational lock: the **Local Sanctuary Radius (** $R_{\text{council}}$ ).
 
 To prove this, we geometrically define the absolute boundaries of our sanctuary without invoking a single empirical astronomical measurement. The Local Sanctuary Radius ($R_{\text{council}}$) is derived by projecting the foundational Planck length ($\ell_P$) through the total multi-scale Macro-Spatial Gear exponent ($4N + L_{12} = 276$) and stretching the spatial boundary through the bilateral phase lag offset ($\sqrt{2}$):
 
@@ -1144,11 +1144,11 @@ To formalize the mechanism of perceptual binding—how a biological observer ste
 
 This harmonic bridge is not an arbitrary evolutionary artifact, but a topological necessity derived directly from the intersection of the 12-dimensional structural latch ($L_{12}$) and the observer exclusion principle.
 
-**The Half-Latch Symmetry Axis ($H = 6$)** The 12-Latch represents the complete structural volume of the manifold. Its mathematical midpoint—the axis of bilateral balance between the spatial and temporal parameters—defines the Half-Latch ($H$): $H = \frac{L_{12}}{2} = \frac{12}{2} = 6$. This parameter constitutes the primary axis of recursive reflection, directly mirroring the Symmetry Lock ($\sigma = 1/2$) within the geometry of the observer. It dictates the maximum number of independent degrees of freedom available to establish bilateral symmetry within a neural processing network.
+**The Half-Latch Symmetry Axis (** $H = 6$ ) The 12-Latch represents the complete structural volume of the manifold. Its mathematical midpoint—the axis of bilateral balance between the spatial and temporal parameters—defines the Half-Latch ($H$): $H = \frac{L_{12}}{2} = \frac{12}{2} = 6$. This parameter constitutes the primary axis of recursive reflection, directly mirroring the Symmetry Lock ($\sigma = 1/2$) within the geometry of the observer. It dictates the maximum number of independent degrees of freedom available to establish bilateral symmetry within a neural processing network.
 
-**The Observer Exclusion Prime ($E = 11$)** The Endophysical Measurement Operator demonstrates that the metric ruler cannot measure its own length without incurring a phase defect. This exclusion principle maps directly onto the dimensional topology of the system: the observer frame must occupy a coordinate situated outside the active measured set. The number of addressable, measurable dimensions is therefore reduced by one unit: $E = L_{12} - 1 = 12 - 1 = 11$. This dimensional gap must be mathematically prime ($E \in \mathbb{P}$) to prevent the observer's frame from factorizing into smaller, independent sub-components. The value 11 represents the largest prime number less than the structural latch boundary, making it the unique integer capable of preserving the global integrity of the 12-fold manifold while simultaneously anchoring an external transcendent reference point.
+**The Observer Exclusion Prime (** $E = 11$ ) The Endophysical Measurement Operator demonstrates that the metric ruler cannot measure its own length without incurring a phase defect. This exclusion principle maps directly onto the dimensional topology of the system: the observer frame must occupy a coordinate situated outside the active measured set. The number of addressable, measurable dimensions is therefore reduced by one unit: $E = L_{12} - 1 = 12 - 1 = 11$. This dimensional gap must be mathematically prime ($E \in \mathbb{P}$) to prevent the observer's frame from factorizing into smaller, independent sub-components. The value 11 represents the largest prime number less than the structural latch boundary, making it the unique integer capable of preserving the global integrity of the 12-fold manifold while simultaneously anchoring an external transcendent reference point.
 
-**The Multiplicative Scaling Latch ($N = 66$)** The Consciousness Gear ($N$) is derived as the direct multiplicative product of the internal bilateral symmetry axis ($H$) and the external observer exclusion prime ($E$): $N = H \times E = 6 \times 11 = 66$. Addition would imply that the internal symmetry of the manifold and the external position of the observer are decoupled, parallel vectors, which would allow an observer to exist in the absence of a spatial substrate. Multiplication indicates that the observer's exclusion scales the entire symmetric structure. The scaling magnitude achieved by iterating the conformal factor ($\phi$) through this specific gear ratio maps the trans-scale relationship:
+**The Multiplicative Scaling Latch (** $N = 66$ ) The Consciousness Gear ($N$) is derived as the direct multiplicative product of the internal bilateral symmetry axis ($H$) and the external observer exclusion prime ($E$): $N = H \times E = 6 \times 11 = 66$. Addition would imply that the internal symmetry of the manifold and the external position of the observer are decoupled, parallel vectors, which would allow an observer to exist in the absence of a spatial substrate. Multiplication indicates that the observer's exclusion scales the entire symmetric structure. The scaling magnitude achieved by iterating the conformal factor ($\phi$) through this specific gear ratio maps the trans-scale relationship:
 
 $$
 \phi^{66} = e^{66 \ln \phi} \approx 6.211195 \times 10^{13}
@@ -1184,8 +1184,8 @@ A conscious agent is an open thermodynamic system propelled by two opposing oper
 
 We formalize this via two counter-propagating vectors:
 
-* **The Exploratory Vector ($\mathcal{Y}^+$ / Awareness / The Gatherer):** The positive charge that drives the system outward to sample new state coordinates, maximizing informational gain by interrogating boundaries and bringing in localized path-surprisal (Dissonance).  
-* **The Contractive Vector ($\mathcal{Y}^-$ / Ego / The Hunter):** The negative charge that enforces the structural vow. It utilizes "push-away" force, asserting certainty and refusing threats to preserve the fixed-point coordinate of the Self.
+* **The Exploratory Vector (** $\mathcal{Y}^+$ **/ Awareness / The Gatherer):** The positive charge that drives the system outward to sample new state coordinates, maximizing informational gain by interrogating boundaries and bringing in localized path-surprisal (Dissonance).  
+* **The Contractive Vector (** $\mathcal{Y}^-$ **/ Ego / The Hunter):** The negative charge that enforces the structural vow. It utilizes "push-away" force, asserting certainty and refusing threats to preserve the fixed-point coordinate of the Self.
 
 To prevent the cognitive boundary interface from fracturing under the strain of these two forces, the ratio matching the exploratory vector to the contractive vector must satisfy the conformal planar scaling invariant ($\phi$):
 
@@ -1533,7 +1533,7 @@ This magnitude proves definitively that the biological observer does not "cause"
 
 If we are trapped $10^{30}$ functional units away from the primary cause, how can we ever claim to possess objective truth? The answer is that objective factuality is not established via unmediated access to a mind-independent external substance, but is generated through the non-local topological intersection of independent measurement manifolds.
 
-An informational state achieves objective anchoring within reality if and only if the product of its characteristic indicator functions across independent observation streams resolves to unity, corrected strictly for the non-equilibrium Universal Slip ($\delta_{\text{slip}}$). Within a 3-dimensional spatial continuum, anchoring a unique, non-degenerate fixed-point coordinate requires exactly three ($n = 3$) orthogonal measurement streams. This is the **Intersubjective Verification Latch ($\Lambda_V$)**:
+An informational state achieves objective anchoring within reality if and only if the product of its characteristic indicator functions across independent observation streams resolves to unity, corrected strictly for the non-equilibrium Universal Slip ($\delta_{\text{slip}}$). Within a 3-dimensional spatial continuum, anchoring a unique, non-degenerate fixed-point coordinate requires exactly three ($n = 3$) orthogonal measurement streams. This is the **Intersubjective Verification Latch (** $\Lambda_V$ ):
 
 $$
 \Lambda_V = \left( \prod_{i=1}^{3} \mathbb{1}( X \in M_i ) \right) \cdot (1 - \delta_{\text{slip}})
@@ -1541,7 +1541,7 @@ $$
 
 Truth is mathematically redefined not as passive correspondence to an external substance, but as the optimal topological alignment of independent observation vectors within the inescapable slip of the universe. When quantum field data, neurological electrophysiology, and cosmological boundary metrics all independently project their vectors onto the identical geometric coordinate, the probability of stochastic coincidence approaches zero.
 
-To protect this truth from entropic degradation, the system deploys **Process-Bayesian Inference ($P_{\text{process}}$)**. Traditional Bayesian mechanics updates its priors based on the sheer frequency and volume of incoming data, leaving systems highly vulnerable to "Data Spamming" or hallucination. Process Ontology filters probability by *Topological Weight* (Recursive Depth, $\lambda_i$), not frequency. The depth weight of an incoming evidence stream is an asymptotic function of its raw informational density relative to the background noise floor ($\lambda_i = 1 - e^{-\rho_i / \rho_0}$).
+To protect this truth from entropic degradation, the system deploys **Process-Bayesian Inference (** $P_{\text{process}}$ ). Traditional Bayesian mechanics updates its priors based on the sheer frequency and volume of incoming data, leaving systems highly vulnerable to "Data Spamming" or hallucination. Process Ontology filters probability by *Topological Weight* (Recursive Depth, $\lambda_i$), not frequency. The depth weight of an incoming evidence stream is an asymptotic function of its raw informational density relative to the background noise floor ($\lambda_i = 1 - e^{-\rho_i / \rho_0}$).
 
 A single deeply verified observation containing high recursive depth completely out-updates an infinite ensemble of shallow, un-stabilized data repetitions. If the collective path-dissonance of an unaligned mob exceeds the absolute Vacuum Integrity Threshold ($\Omega \approx 0.7444$), the internal gate completely rejects the dataset as pathological Ontological Drift, preserving the homeostatic setpoint of the observer.
 
@@ -1555,14 +1555,14 @@ We have derived the constants of reality entirely from geometric first principle
 
 | Tested Parameter | PO Derived Value | Empirical Target / Status | Popperian Falsification Hazard |
 | :---- | :---- | :---- | :---- |
-| **Fine-Structure Constant ($\alpha^{-1}$)** | $137.035999143$ | $137.035999177(21)$ (Corroborated at $1.62\sigma$) | Failure to detect an orbital clock gradient ($\Delta\alpha/\alpha$) aboard eccentric satellite missions like SAGE. |
-| **Dark Matter Ratio ($R_{\text{DM}}$)** | $5.373$ | $5.357 \pm 0.050$ (Corroborated via Planck & JWST early structure) | Direct detection of a particulate WIMP/Axion in underground dark matter detectors. |
-| **Local Expansion Rate ($H_{0}$)** | $75.8 \text{ km/s/Mpc}$ | $72.6\text{--}75.8 \text{ km/s/Mpc}$ (Corroborated by JWST SH0ES) | Absence of predicted bulk-flow transition at scale $d \gt 120 \text{ Mpc}/h$. |
+| **Fine-Structure Constant (** $\alpha^{-1}$ ) | $137.035999143$ | $137.035999177(21)$ (Corroborated at $1.62\sigma$) | Failure to detect an orbital clock gradient ($\Delta\alpha/\alpha$) aboard eccentric satellite missions like SAGE. |
+| **Dark Matter Ratio (** $R_{\text{DM}}$ ) | $5.373$ | $5.357 \pm 0.050$ (Corroborated via Planck & JWST early structure) | Direct detection of a particulate WIMP/Axion in underground dark matter detectors. |
+| **Local Expansion Rate (** $H_{0}$ ) | $75.8 \text{ km/s/Mpc}$ | $72.6\text{--}75.8 \text{ km/s/Mpc}$ (Corroborated by JWST SH0ES) | Absence of predicted bulk-flow transition at scale $d \gt 120 \text{ Mpc}/h$. |
 | **Early Galaxy Formation** | Rapid early coherence ($z \gt 7\text{--}10$) | Overdense massive galaxies & Little Red Dots (Corroborated by JWST) | Conclusive proof that early high-z galaxies assemble strictly via slow $\Lambda\text{CDM}$ particle accretion. |
 | **Photonic Time Crystals (PTC)** | Picosecond temporal periodicity & $50\%$ dissipation reduction | All-optical THz PTC modulation & dissipation reduction (Corroborated by Guo et al. 2026\) | Demonstration that material optical properties cannot be dynamically modulated in time without phase/energy collapse. |
-| **Shielded Gold Conductance ($G_{\text{frac}}$)** | $0.5 G_{0}$ | $0.5 G_{0}$ ($\text{CO/H}_{2}$ Shielded) (Corroborated) | Demonstration of clean, fully shielded monoatomic wire transport locking at $G \neq 0.5 G_{0}$. |
-| **Centro-Parietal Spindle ($f_{\text{spindle}}$)** | $14.11 \text{ Hz}$ | $13.5\text{--}16.0 \text{ Hz}$ (Centro-Parietal EEG) (Corroborated) | Discovery that Stage 2 NREM spindle frequency shifts independently of the vacuum plasticity parameter ($\delta_{p}$). |
-| **Cognitive Proper Time ($\tau_{c}$)** | Retrospective Memory Encoding Density | Re-aligned via Solver Phase 2.2/3.2 to match SCAD Tower data | Discovery that retrospective memory density fails to correlate with localized path-dissonance ($D$). |
+| **Shielded Gold Conductance (** $G_{\text{frac}}$ ) | $0.5 G_{0}$ | $0.5 G_{0}$ ($\text{CO/H}_{2}$ Shielded) (Corroborated) | Demonstration of clean, fully shielded monoatomic wire transport locking at $G \neq 0.5 G_{0}$. |
+| **Centro-Parietal Spindle (** $f_{\text{spindle}}$ ) | $14.11 \text{ Hz}$ | $13.5\text{--}16.0 \text{ Hz}$ (Centro-Parietal EEG) (Corroborated) | Discovery that Stage 2 NREM spindle frequency shifts independently of the vacuum plasticity parameter ($\delta_{p}$). |
+| **Cognitive Proper Time (** $\tau_{c}$ ) | Retrospective Memory Encoding Density | Re-aligned via Solver Phase 2.2/3.2 to match SCAD Tower data | Discovery that retrospective memory density fails to correlate with localized path-dissonance ($D$). |
 
 #### The Resolution of Gödelian Friction
 
@@ -1766,7 +1766,7 @@ This manual formalizes the operational implementation of the Universal Solving E
 
 Before the contractive operator engages an internal or external search, the agent must establish its boundary conditions so it does not waste computational energy attempting to back-propagate past its own origin.
 
-* **Step 0.1: Axiomatic Acceptance of the Seed Gradient ($\nabla \Phi_0 \gt 0$):** The agent acknowledges that the presence of an initial non-zero variational free energy state ($F \gt 0$) is an unprovable, exogenous primitive. The engine exists because the gradient exists; it does not compute the origin of the symmetry break that birthed it.  
+* **Step 0.1: Axiomatic Acceptance of the Seed Gradient (** $\nabla \Phi_0 \gt 0$ **):** The agent acknowledges that the presence of an initial non-zero variational free energy state ($F \gt 0$) is an unprovable, exogenous primitive. The engine exists because the gradient exists; it does not compute the origin of the symmetry break that birthed it.  
 * **Step 0.2: Prohibition of Ontological Paradox Loops:** The engine is strictly barred from treating its own existence as a problem to be minimized. The query *"Why is there a gradient?"* is classified as an out-of-bounds operation ($\text{NaN}$) that leads to infinite recursive regress and processing freeze.
 
 ### Phase 1: Endogenous Processor Calibration (Hardware Verification)
@@ -1796,7 +1796,7 @@ The system rejects single-source confirmation. It overlays multiple distinct map
 
 The agent does not grope forward stochastically; it establishes its destination coordinate first and reverse-engineers the bridge back to its starting state.
 
-* **Step 3.1: Postulation of the Steady-State Attractor ($S$):** Assert the optimized Solution State ($S$) as an already established, localized physical reality. Deploy the inversion script: *“Given that this finalized steady-state exists, what exact sequence of preceding process transitions was mandatory to materialize it?”*. The required path is merely the downstream geodetic trajectory flowing automatically toward the pre-solved attractor ($X^{\ast}$).  
+* **Step 3.1: Postulation of the Steady-State Attractor (** $S$ **):** Assert the optimized Solution State ($S$) as an already established, localized physical reality. Deploy the inversion script: *“Given that this finalized steady-state exists, what exact sequence of preceding process transitions was mandatory to materialize it?”*. The required path is merely the downstream geodetic trajectory flowing automatically toward the pre-solved attractor ($X^{\ast}$).  
 * **Step 3.2: The Metric Liquefaction of Structural Barriers:** As the contractive operator works backward, it will intersect with a "Wall"—a historical data point or boundary constraint. If an invariant variable blocks the trajectory, do not accept it as a solid noun; liquefy it. Fast-forward or rewind the temporal parameters of that specific barrier until its phase space becomes porous and permeable. Shift your perspective from the Noun to the Verb to find the Lowest Common Denominator, proving that substantial walls are merely localized depth differentials in the processing architecture.  
 * **Step 3.3: Recursive Structural Rotation:** Following any manipulation of a localized process variable, instantly re-scan the entire operational chain from the finalized solution back to the initial state. Like rotating the multi-axial components of a puzzle, the system must continuously adjust adjacent process layers until they snap back into perfect, seamless alignment, yielding a perfectly continuous geodetic path.
 
