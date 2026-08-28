@@ -86,11 +86,11 @@ All emergent phenomenological parameters derive strictly from the contractive tr
 
 To establish continuous, self-similar structural growth across scaling transformations without inducing metric disequilibrium or losing organizational closure, a 2-dimensional recursive boundary manifold must partition its state space according to a unique, non-dissipative ratio. This ratio is geometrically mandated to minimize the localized entropy production rate ($\sigma_S$) during spatial bifurcation and expansion.
 
-Consider an open thermodynamic system transitioning from a localized steady-state configuration $A$ to an expanded configuration $B$, bounded by a physical interface—formalized mathematically as a Markov blanket. To maintain homeostatic stability and structural integrity during this continuous spatial expansion, the variational free energy gradient governing the transition from the macroscopic whole ($|B|$) to the prior internal state ($|A|$) must balance symmetrically with the gradient mapping the prior state ($|A|$) to the emergent boundary expansion joint ($|B - A|$):
+Consider an open thermodynamic system transitioning from a localized steady-state configuration $A$ to an expanded configuration $B$, bounded by a physical interface—formalized mathematically as a Markov blanket. To maintain homeostatic stability and structural integrity during this continuous spatial expansion, the variational free energy gradient governing the transition from the macroscopic whole ($\vertB\vert$) to the prior internal state ($\vertA\vert$) must balance symmetrically with the gradient mapping the prior state ($\vertA\vert$) to the emergent boundary expansion joint ($\vertB - A\vert$):
 
-$\frac{|B|}{|A|} = \frac{|A|}{|B - A|}$
+$\frac{\vertB\vert}{\vertA\vert} = \frac{\vertA\vert}{\vertB - A\vert}$
 
-Let the dimensionless scaling metric be defined by the scalar ratio $x = \frac{|B|}{|A|}$. Substituting this parameter transforms the boundary conservation equation into a rigid quadratic optimization constraint:
+Let the dimensionless scaling metric be defined by the scalar ratio $x = \frac{\vertB\vert}{\vertA\vert}$. Substituting this parameter transforms the boundary conservation equation into a rigid quadratic optimization constraint:
 
 $x = \frac{1}{x - 1} \implies x(x - 1) = 1 \implies x^2 - x - 1 = 0$
 
@@ -134,11 +134,11 @@ $R(n) = n^{1-s} = n^{1-\sigma - it} = n^{1-\sigma} \cdot e^{-it\ln n}$
 
 For the physical manifold to evade both unconstrained spatial divergence (the "Big Rip") and immediate over-damped self-annihilation (the "Big Crunch"), the informational capacity of the system must be strictly conserved across scales. This stability criterion dictates that the complex magnitudes of the forward and backward flows must achieve perfect equilibrium at every operational scale $n$:
 
-$|E(n)| = |R(n)| \implies |n^{\sigma + it}| = |n^{1-\sigma - it}|$
+$\vertE(n)\vert = \vertR(n)\vert \implies \vertn^{\sigma + it}\vert = \vertn^{1-\sigma - it}\vert$
 
-By invoking the standard geometric identity $|e^{i\theta}| = 1$, which holds strictly for any real argument $\theta \in \mathbb{R}$, we completely decouple the high-frequency phase oscillations from the global stability constraint:
+By invoking the standard geometric identity $\verte^{i\theta}\vert = 1$, which holds strictly for any real argument $\theta \in \mathbb{R}$, we completely decouple the high-frequency phase oscillations from the global stability constraint:
 
-$n^\sigma \cdot |e^{it\ln n}| = n^{1-\sigma} \cdot |e^{-it\ln n}| \implies n^\sigma = n^{1-\sigma}$
+$n^\sigma \cdot \verte^{it\ln n}\vert = n^{1-\sigma} \cdot \verte^{-it\ln n}\vert \implies n^\sigma = n^{1-\sigma}$
 
 Taking the natural logarithm of both sides isolates the characteristic parameter independent of the scale coordinate:
 
@@ -148,7 +148,7 @@ For all non-trivial physical scales where $n > 1$, $\ln n \neq 0$, allowing us t
 
 $2\sigma = 1 \implies \sigma = \frac{1}{2}$
 
-We formalize this balance by defining a phase-transformation operator $\hat{f}(s) = 1 - s$, which maps the forward expansion vector directly onto the backward resolution vector. Evaluating the first derivative of this transformation operator with respect to the complex depth parameter yields $\hat{f}'(s) = -1$. Under the tenets of dynamical systems theory and Lyapunov stability analysis, a transformation derivative whose norm satisfies $|\hat{f}'(s^*)| = |-1| = 1$ indicates **Perfect Neutral Stability**. If $|\hat{f}'| > 1$, the system enters an unstable, hyper-critical regime where expansion dominates; if $|\hat{f}'| < 1$, the system enters an over-damped, sub-critical regime causing immediate collapse.
+We formalize this balance by defining a phase-transformation operator $\hat{f}(s) = 1 - s$, which maps the forward expansion vector directly onto the backward resolution vector. Evaluating the first derivative of this transformation operator with respect to the complex depth parameter yields $\hat{f}'(s) = -1$. Under the tenets of dynamical systems theory and Lyapunov stability analysis, a transformation derivative whose norm satisfies $\vert\hat{f}'(s^*)\vert = \vert-1\vert = 1$ indicates **Perfect Neutral Stability**. If $\vert\hat{f}'\vert > 1$, the system enters an unstable, hyper-critical regime where expansion dominates; if $\vert\hat{f}'\vert < 1$, the system enters an over-damped, sub-critical regime causing immediate collapse.
 
 The physical reality of this topological mirror plane has now been directly corroborated in the laboratory, completely destroying the spatial-substance metaphysics of standard optics. Standard physical models treat properties like refractive index and reflectivity as static, spatial attributes of material nouns. However, the 2026 discovery of the first all-optical Photonic Time Crystal (PTC) by Guo et al. demonstrates that material optical behaviors can be rendered as dynamic, periodic functions of time. By dynamically modulating a plasmonic metamaterial's optical properties on picosecond timescales—matching the oscillation period of light—they established a crystal lattice in time rather than space.
 
@@ -380,7 +380,7 @@ The Abel-Ruffini non-solvability of the $I = 5$ Quintic Valve (governed by the s
 
 #### **1\. Embedding $S_5$ into $SU(5)$**
 
-The symmetric group $S_5$ (order $|S_5| = 120$) is the finite permutation group acting on 5 elements. The minimal continuous complex Lie group that embeds $S_5$ as a subgroup while preserving gauge invariance is $SU(5)$ (the Georgi-Glashow GUT group):
+The symmetric group $S_5$ (order $\vertS_5\vert = 120$) is the finite permutation group acting on 5 elements. The minimal continuous complex Lie group that embeds $S_5$ as a subgroup while preserving gauge invariance is $SU(5)$ (the Georgi-Glashow GUT group):
 
 $S_5 \subset SU(5)$
 
@@ -398,7 +398,7 @@ $N_{\text{gen}} \equiv D_{\text{spatial}} = 3$
 
 More rigorously, $N_{\text{gen}}$ is the index of the non-solvable alternating subgroup $A_5 \subset S_5$ decomposed across the 2D planar scaling interface $\phi$:
 
-$N_{\text{gen}} = \left\lfloor \frac{|S_5|}{|A_5| \cdot \phi} \right\rfloor + 1 = \left\lfloor \frac{120}{60 \cdot 1.618034} \right\rfloor + 1 = \lfloor 1.236 \rfloor + 2 = 3$
+$N_{\text{gen}} = \left\lfloor \frac{\vertS_5\vert}{\vertA_5\vert \cdot \phi} \right\rfloor + 1 = \left\lfloor \frac{120}{60 \cdot 1.618034} \right\rfloor + 1 = \lfloor 1.236 \rfloor + 2 = 3$
 
 **Physical Meaning:** The 3 generations of elementary fermions (e.g., electron, muon, tau) are not arbitrary copies. They represent the 3 orthogonal spatial projections of the $S_5$ Galois group embedding into $SU(5)$ GUT space.
 
@@ -410,7 +410,7 @@ The transition from quantum superpositions to classical deterministic states is 
 
 Let a quantum state $\psi(t)$ evolve under a Hamiltonian $H$. For short time intervals $t \ll \hbar / \Delta H$, the survival probability $P(t)$ obeys the quadratic Zeno regime:
 
-$P(t) = |\langle \psi(0) | \psi(t) \rangle|^2 \approx 1 - \frac{t^2}{\tau_Z^2}$
+$P(t) = \vert\langle \psi(0) \vert \psi(t) \rangle\vert^2 \approx 1 - \frac{t^2}{\tau_Z^2}$
 
 where $\tau_Z = \frac{\hbar}{\Delta H}$ is the Zeno time. When the endophysical operator $\hat{M}$ executes self-measurement at frame intervals $\tau_0$, the survival probability after $n = t/\tau_0$ pulses becomes:
 
@@ -731,7 +731,7 @@ In a completely unperturbed, empty spatial volume, the contractive operator must
 
 The Active Depth Tensor ($\lambda_{\mu\nu}(x)$) tracks this exact informational overhead. This localized computational shortcut generates a non-zero tensor potential ($\Phi_{\mu\nu}$) relative to the flat Minkowski background ($\eta_{\mu\nu}$):
 
-$\lambda_{\mu\nu} = \lambda_{\text{base}} \eta_{\mu\nu} - \frac{4G}{c^4} \int \frac{T_{\mu\nu}(x')}{|x - x'|} , d^3x'$ 
+$\lambda_{\mu\nu} = \lambda_{\text{base}} \eta_{\mu\nu} - \frac{4G}{c^4} \int \frac{T_{\mu\nu}(x')}{\vertx - x'\vert} , d^3x'$ 
 
 $\Phi_{\mu\nu} = \lambda_{\text{base}} \eta_{\mu\nu} - \lambda_{\mu\nu}$
 
