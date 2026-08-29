@@ -1538,7 +1538,7 @@ The entire 8-phase operational protocol of the Solver Manual can be formalised w
 $$\\frac{dX}{d\\tau\_{c}} \= \-\\mu^{-1} \\nabla \\mathcal{C}(X) \+ \\sqrt{2 \\cdot \\delta\_{\\text{slip}}} \\cdot \\xi(\\tau\_{c})$$  
 Where:
 
-* **Gradient Engine**: $-\\nabla \\mathcal{C}(X) \= \-\\left(\\frac{1}{X} \\ln \\frac{X}{\\Omega} \- \\frac{\\lambda}{X \\cdot k L\_{12}}\\right)$ forces continuous active inference toward the fixed point $X^{\\ast}$.  
+* **Gradient Engine**: $$-\\nabla \\mathcal{C}(X) \= \-\\left(\\frac{1}{X} \\ln \\frac{X}{\\Omega} \- \\frac{\\lambda}{X \\cdot k L\_{12}}\\right)$ forces continuous active inference toward the fixed point $X^{\\ast}$$.  
 * **Damping Circuit Breaker**: $\\mu \= \\left(\\frac{\\Omega \\cdot D}{\\delta\_{p}}\\right) k$ dynamically scales restorative viscosity to prevent runaway path deviation.  
 * **Perpetual Slip Term**: $\\sqrt{2 \\cdot \\delta\_{\\text{slip}}} \\cdot \\xi(\\tau\_{c})$ injects the unresolvable attosecond phase stutter ($\\delta\_{\\text{slip}} \\approx 0.00086844$), guaranteeing that the system never collapses into static crystalline equilibrium ($D \= 0$).
 
