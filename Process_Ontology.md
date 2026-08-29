@@ -331,6 +331,8 @@ The effective operational depth of the vacuum $(\lambda\_{\text{vac}})$ is then 
 $$
 \text{Causal Tax} = 4 \cdot \zeta(3) \approx 4.807864\dots
 $$
+
+$$
 \lambda_{\text{vac}} = \alpha^{-1} - 4\zeta(3) \approx 137.003954\dots - 4.807864\dots \approx 132.196090\dots
 $$
 
@@ -557,6 +559,8 @@ boundary perimeter $(12\pi\_{\text{derived}} - P)$ yields the pure threshold:
 $$
 12\pi_{\text{derived}} - P = 36.372
 $$
+
+$$
 \Delta = \frac{E_{\text{raw}}}{12\pi_{\text{derived}} - P} = 7.36 \text{ GeV}
 $$
 
@@ -577,6 +581,8 @@ We evaluate this flux balance by taking the negative logarithm in base $\phi$:
 $$
 \alpha \cdot \Omega = \frac{1}{137.009} \times 0.744456 \approx 0.0054336
 $$
+
+$$
 S_{\phi} = -\log_{\phi} (\alpha \cdot \Omega) = -\frac{\ln(0.0054336)}{\ln(\phi)} \approx 10.837
 $$
 
@@ -593,7 +599,11 @@ This invariant is derived as the sum of the golden planar base $(1/\phi)$ and th
 $$
 \frac{1}{\phi} + \frac{P}{127} = 0.618034 + 0.010431 = 0.628465
 $$
+
+$$
 \frac{\delta_{\text{slip}}^{1/3}}{P^2} = \frac{0.09540}{1.75488} = 0.05436
+$$
+
 $$
 D_{cf} = 0.628465 - 0.05436 = 0.574105
 $$
@@ -618,6 +628,8 @@ This forces a deterministic topological step-change in electrical transport:
 
 $$
 G_{\text{frac}} = G_{0} \cdot (1 - \varepsilon \cdot \delta_{\text{slip}}) \quad \text{for} \quad \varepsilon \lt \varepsilon_c
+$$
+
 $$
 G_{\text{frac}} = \frac{G_{0}}{2} \quad \text{for} \quad \varepsilon \geq \varepsilon_c
 $$
@@ -645,6 +657,8 @@ The Macroscopic Voltage Ground State is derived by evaluating the raw quantum po
 $$
 V_{\text{total}} = V_{\text{vac}} \cdot L_{\text{m-density}} \cdot \delta_{\text{slip}} = 9.0258 \text{ V} \times 0.01274 \times 0.00086844 = 99.84 \ \mu\text{V}
 $$
+
+$$
 V_{\text{base}} = \frac{99.84 \ \mu\text{V}}{12} = 8.320 \ \mu\text{V}
 $$
 
@@ -661,7 +675,11 @@ The universal prefactor $(R\_{\text{UMR}} \approx 0.005744)$ governing interface
 $$
 k \cdot \delta_{\text{slip}} = 19.703195 \times 0.00086844 = 0.017116
 $$
+
+$$
 \ln k = \ln(19.703195) = 2.9809
+$$
+
 $$
 R_{\text{UMR}} = \frac{k \cdot \delta_{\text{slip}}}{\ln k} = \frac{0.017116}{2.9809} = 0.005744
 $$
@@ -699,6 +717,8 @@ Taking the first derivative with respect to the state coordinate $(X)$ and setti
 $$
 \frac{d\mathcal{C}}{dX} = \frac{1}{X} \ln \left( \frac{X}{\Omega} \right) - \frac{\lambda}{X \cdot k L_{12}} = 0
 $$
+
+$$
 X^{\ast} = \Omega \cdot \exp\left( \frac{\lambda}{k L_{12}} \right)
 $$
 
@@ -706,6 +726,8 @@ Evaluating this steady-state function at the human perceptual scale—governed b
 
 $$
 \ln X^{\ast} = \ln \Omega + \frac{66}{k \cdot L_{12}} = -0.295116 + \frac{66}{19.703195 \times 12} = -0.295116 + 0.279142 = -0.015974
+$$
+
 $$
 X^{\ast} = e^{-0.015974} = 0.98415... \approx 1
 $$
@@ -801,6 +823,8 @@ By utilizing the pure geometric baseline of the fine-structure constant $(\alpha
 $$
 \chi = \delta_{\text{slip}} \cdot \alpha
 $$
+
+$$
 \chi = 0.00086844... \cdot \left(\frac{1}{137.003954...}\right) \approx 6.33879 \times 10^{-6}
 $$
 
@@ -820,6 +844,8 @@ The Active Depth Tensor $(\lambda\_{\mu\nu}(x))$ tracks this exact informational
 
 $$
 \lambda_{\mu\nu} = \lambda_{\text{base}} \eta_{\mu\nu} - \frac{4G}{c^4} \int \frac{T_{\mu\nu}(x')}{|x - x'|} \\, d^3x'
+$$
+
 $$
 \Phi_{\mu\nu} = \lambda_{\text{base}} \eta_{\mu\nu} - \lambda_{\mu\nu}
 $$
@@ -938,6 +964,8 @@ The first-row CKM matrix elements are parameterized as:
 $$
 V_{ud} = \cos \theta_C \approx 0.972
 $$
+
+$$
 V_{us} = \sin \theta_C \approx 0.234
 $$
 
@@ -962,7 +990,11 @@ The absolute proper acceleration baseline of the vacuum is defined by the produc
 $$
 c \cdot f_{0} = 1.30856 \times 10^{24} \ \text{m/s}^2
 $$
+
+$$
 a_{\text{raw}} = \frac{c \cdot f_{0}}{\phi^{162}} = \frac{1.30856 \times 10^{24} \ \text{m/s}^2}{6.4953 \times 10^{33}} = 2.0146 \times 10^{-10} \ \text{m/s}^2
+$$
+
 $$
 a_{0} = a_{\text{raw}} \cdot \Omega = (2.0146 \times 10^{-10} \ \text{m/s}^2) \times 0.744456 = 1.4998 \times 10^{-10} \ \text{m/s}^2
 $$
@@ -998,7 +1030,11 @@ To project this local sanctuary density across the absolute macro-spatial horizo
 $$
 \text{Decay Exponent} = \frac{N_{\text{macro}}}{D_{\text{bosonic}}} = \frac{276}{26} \approx 10.61538
 $$
+
+$$
 \mathcal{C}_{\text{slip}} = (\delta_{\text{slip}})^{10.61538} = (0.00086844)^{10.61538} = 3.212 \times 10^{-33}
+$$
+
 $$
 \Lambda_{\text{final}} = \Lambda_{\text{raw}} \cdot \mathcal{C}_{\text{slip}} = (5.796 \times 10^{-17} \ \text{m}^{-2}) \times (3.212 \times 10^{-33}) \approx 1.861 \times 10^{-49} \ \text{m}^{-2}
 $$
@@ -1014,6 +1050,8 @@ The spatial sourcing of the Vacuum Tension Field is governed by the local baryon
 $$
 \frac{\Omega}{\phi^3} = \frac{0.74445638...}{4.2360679...} = 0.175742...
 $$
+
+$$
 \nabla^2 E_\Omega = 4\pi G \rho_m \cdot \frac{\Omega}{\phi^3} \cdot \left(1 - e^{-r/r_0}\right)
 $$
 
@@ -1025,6 +1063,8 @@ To prove this geometrically, we calculate the precise cosmological ratio matchin
 
 $$
 R_{\text{DM}} = D_4 \cdot \left( \frac{1}{\Omega} \right)
+$$
+
 $$
 R_{\text{DM}} = 4 \times \left( \frac{1}{0.74445638...} \right) = 5.37305...
 $$
@@ -1075,7 +1115,11 @@ The Local Sanctuary Radius $(R\_{\text{council}})$ is derived by projecting the 
 $$
 4N + L_{12} = (4 \times 66) + 12 = 276
 $$
+
+$$
 R_{\text{council}} = \ell_P \cdot \phi^{276} \cdot \sqrt{2}
+$$
+
 $$
 R_{\text{council}} = (1.6162 \times 10^{-35} \text{ m}) \times (4.80436 \times 10^{57}) \times 1.41421356 = 1.09817 \times 10^{23} \text{ m}
 $$
@@ -1170,6 +1214,8 @@ The conversion factors mapping global manifold resistance and emotional coupling
 $$
 \frac{\delta_{p}}{\ln k} = \frac{0.01042128...}{\ln(19.703195)} = \frac{0.01042128...}{2.98078...} \approx 0.003496...
 $$
+
+$$
 \frac{\alpha_{\text{net}}}{\Omega} = \frac{0.14577...}{0.744456...} \approx 0.1958...
 $$
 
@@ -1177,6 +1223,8 @@ The Cognitive Proper Time $(\tau\_{c})$—the literal duration of a subjective m
 
 $$
 \text{Dilation Factor} = 1 + \left( \frac{\alpha_{\text{net}}}{\Omega} \right) \cdot D \cdot \left( \frac{\delta_{p}}{\ln k} \right) = 1 + (0.1958 \times 0.003496) \cdot D = 1 + 0.0006845 \cdot D
+$$
+
 $$
 \tau_{c} = \tau_{\text{base}} \cdot \left(1 + 0.0006845 \cdot D\right)
 $$
@@ -1280,6 +1328,8 @@ The explicit sleep spindle frequency $(f\_{\text{spindle}})$ scales this idling 
 $$
 f_{\text{spindle}} = \frac{f_{G} \cdot \Omega \cdot \ln 2}{\phi^2} \cdot (1 + \delta_{p})
 $$
+
+$$
 f_{\text{spindle}} = \frac{52.767 \text{ Hz} \times 0.693147...}{2.618033...} \times (1 + 0.010421...) \approx 13.970 \text{ Hz} \times 1.010421 \approx 14.11 \text{ Hz}
 $$
 
@@ -1354,6 +1404,8 @@ The pure mathematical halving operator $(2)$ is physically resisted by the visco
 $$
 \text{Effective Divisor} = 2 \cdot \Omega = 2 \times 0.74445638... = 1.488912...
 $$
+
+$$
 \mathcal{R}_\Omega = \frac{1}{2 \cdot \Omega} \approx 0.67163
 $$
 
@@ -1390,9 +1442,15 @@ As the neural manifold transitions from active environmental interaction into de
 $$
 f_{\text{surge}} = 40.00 \ \text{Hz} \quad \text{(Active Gamma Binding)}
 $$
+
+$$
 f_{\text{snap}} = f_{\text{surge}} \cdot \mathcal{R}_\Omega = 40.00 \ \text{Hz} \times 0.67163 = 26.86 \ \text{Hz}
 $$
+
+$$
 f_{\text{dream}} = \frac{f_{\text{snap}}}{\phi} = \frac{26.86 \ \text{Hz}}{1.618034} = 16.60 \ \text{Hz}
+$$
+
 $$
 f_{\text{ping}} = 14.11 \ \text{Hz} \quad \text{(Fast Sleep Spindle Ground State)}
 $$
@@ -1413,6 +1471,8 @@ Mapping the recursive loop to a logarithmic scale $(y = \log\_{10} n)$ formalize
 
 $$
 p \log_{10} 3 - (1 - p) \log_{10} 2 = 0
+$$
+
 $$
 p = \frac{\log_{10} 2}{\log_{10} 6} = \frac{\ln 2}{\ln 6} \approx 0.3869
 $$
