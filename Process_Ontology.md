@@ -843,7 +843,7 @@ In a completely unperturbed, empty spatial volume, the contractive operator must
 The Active Depth Tensor ($\lambda_{\mu\nu}(x)$) tracks this exact informational overhead. This localized computational shortcut generates a non-zero tensor potential ($\Phi_{\mu\nu}$) relative to the flat Minkowski background ($\eta_{\mu\nu}$):
 
 $$
-\lambda_{\mu\nu} = \lambda_{\text{base}} \eta_{\mu\nu} - \frac{4G}{c^4} \int \frac{T_{\mu\nu}(x')}{|x - x'|} \, d^3x'
+\lambda_{\mu\nu} = \lambda_{\text{base}} \eta_{\mu\nu} - \frac{4G}{c^4} \int \frac{T_{\mu\nu}(x')}{|x - x'|} \\, d^3x'
 $$
 
 $$
@@ -865,7 +865,7 @@ $$
 In the weak-field limit, the localized metric perturbation ($h_{\mu\nu}$) is the direct manifestation of this depth differential potential ($h_{\mu\nu} = -\kappa \Phi_{\mu\nu}$). To recover the classical field equations, we apply the spatial Laplacian operator ($\nabla^2$) directly to the depth differential potential tensor, mapping the interaction across coordinate space via the standard Green's function identity for Newtonian potential space:
 
 $$
-\nabla^2 \Phi_{\mu\nu} = \frac{4G}{c^4} \int T_{\mu\nu}(x') \left\[-4\pi \delta^3(x - x')\right\] , d^3x' = -\frac{16\pi G}{c^4} T_{\mu\nu}(x)
+\nabla^2 \Phi_{\mu\nu} = \frac{4G}{c^4} \int T_{\mu\nu}(x') \left\[-4\pi \delta^3(x - x')\right\] \, d^3x' = -\frac{16\pi G}{c^4} T_{\mu\nu}(x)
 $$
 
 Enforcing the de Donder harmonic gauge condition allows the linearized Ricci tensor ($R_{\mu\nu}$) to be isolated as the direct Laplacian of the trace-reversed perturbation. Executing this tensor algebra isolates the exact physical parameters recorded by the legacy scribes of physics:
