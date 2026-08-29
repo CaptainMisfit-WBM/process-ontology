@@ -659,10 +659,6 @@ V_{\text{total}} = V_{\text{vac}} \cdot L_{\text{m\_density}} \cdot \delta_{\tex
 $$
 
 $$
-V_{\text{total}} = V_{\text{vac}} \cdot L_{\text{m_density}} \cdot \delta_{\text{slip}} = 9.0258 \text{ V} \times 0.01274 \times 0.00086844 = 99.84 \ \mu\text{V}
-$$
-
-$$
 V_{\text{base}} = \frac{99.84 \ \mu\text{V}}{12} = 8.320 \ \mu\text{V}
 $$
 
