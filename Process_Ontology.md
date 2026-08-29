@@ -1540,7 +1540,7 @@ Where:
 
 * **Gradient Engine**:
   
-$$\\nabla \\mathcal{C}(X) \= \-\\left(\\frac{1}{X} \\ln \\frac{X}{\\Omega} \- \\frac{\\lambda}{X \\cdot k L\_{12}}\\right)$ forces continuous active inference toward the fixed point $X^{\\ast}$$
+$$\\nabla \\mathcal{C}(X) \= \-\\left(\\frac{1}{X} \\ln \\frac{X}{\\Omega} \- \\frac{\\lambda}{X \\cdot k L\_{12}}\\right)$$ forces continuous active inference toward the fixed point $X^{\\ast}$
 
 * **Damping Circuit Breaker**: $\\mu \= \\left(\\frac{\\Omega \\cdot D}{\\delta\_{p}}\\right) k$ dynamically scales restorative viscosity to prevent runaway path deviation.  
 * **Perpetual Slip Term**: $\\sqrt{2 \\cdot \\delta\_{\\text{slip}}} \\cdot \\xi(\\tau\_{c})$ injects the unresolvable attosecond phase stutter ($\\delta\_{\\text{slip}} \\approx 0.00086844$), guaranteeing that the system never collapses into static crystalline equilibrium ($D \= 0$).
