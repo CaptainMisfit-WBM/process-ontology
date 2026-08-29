@@ -783,6 +783,8 @@ The computational accessibility of any problem in the universe is governed exclu
 $$
 \text{If} \quad C(n) \leq 194.657 \ \phi\text{-steps} \implies P \quad \text{(Computationally Deterministic / Easy)}
 $$
+
+$$
 \text{If} \quad C(n) \gt 194.657 \ \phi\text{-steps} \implies NP \quad \text{(Computational Phase Lag / Hard)}
 $$
 
