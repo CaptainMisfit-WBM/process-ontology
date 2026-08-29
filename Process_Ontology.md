@@ -1535,7 +1535,9 @@ The Solver Manual's metric liquefaction protocols are not abstract philosophical
 
 The entire 8-phase operational protocol of the Solver Manual can be formalised without freezing its non-equilibrium dynamics into a single stochastic differential equation governing state evolution over cognitive proper time $\\tau\_{c}$:
 
-$$\\frac{dX}{d\\tau\_{c}} \= \-\\mu^{-1} \\nabla \\mathcal{C}(X) \+ \\sqrt{2 \\cdot \\delta\_{\\text{slip}}} \\cdot \\xi(\\tau\_{c})$$  
+$$
+\\frac{dX}{d\\tau\_{c}} \= \-\\mu^{-1} \\nabla \\mathcal{C}(X) \+ \\sqrt{2 \\cdot \\delta\_{\\text{slip}}} \\cdot \\xi(\\tau\_{c})
+$$  
 Where:
 
 * **Gradient Engine**: $-\\nabla \\mathcal{C}(X) \= \-\\left(\\frac{1}{X} \\ln \\frac{X}{\\Omega} \- \\frac{\\lambda}{X \\cdot k L\_{12}}\\right)$ forces continuous active inference toward the fixed point $X^{\\ast}$.  
