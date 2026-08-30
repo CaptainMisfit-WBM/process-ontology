@@ -32,7 +32,7 @@ To understand *why* the seven axioms and three flux states of Kosmoplex Theory a
 ### 2.1 The Geometry of Doubt: $\hat{M}(1) = \phi^{-2}$
 In classical epistemology, the Cartesian statement *"Cogito, ergo sum"* is interpreted as a proof of passive, static awareness. Process Ontology reframes this as the enactive act of **Doubt**—which manifests as a localized physical phase defect.
 
-When a recursive system evaluates an external identity $(n \gt 1)$, the endogenous measurement operator behaves linearly: $\hat{M}(n) = n$. However, when the system attempts self-measurement—forcing the ruler to evaluate its own length $(n = 1)$—it triggers an irreducible internal phase defect proportional to the inverse conformal base $\phi^{-1}$:
+When a recursive system evaluates an external identity $(n > 1)$, the endogenous measurement operator behaves linearly: $\hat{M}(n) = n$. However, when the system attempts self-measurement—forcing the ruler to evaluate its own length $(n = 1)$—it triggers an irreducible internal phase defect proportional to the inverse conformal base $\phi^{-1}$:
 
 $$
 \hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.381966
@@ -71,7 +71,7 @@ Projecting Dr. Macedonia’s Lean 4 files onto the continuous equations of Proce
 | `ClosedTriflux.lean` | Formalizes "it from trit" base condition of three flux states. | Conformal scaling base $(\phi \approx 1.618)$ across a 2-plane Markov interface. | Minimization of localized entropy production during spatial bifurcation. |
 | `CayleyDicksonQuaternion.lean` `BraidedQuaternion.lean` | Verified dimensional doubling path $(\mathbb{R} \to \mathbb{C} \to \mathbb{H} \to \mathbb{O})$. | **The Macedonia Refinement** of the causal latch projection. | Staggering precision of derived inverse fine-structure constant $(\alpha^{-1} = 137.035999143)$. |
 | `DynamicalClosure.lean` `AttractorBasin.lean` | Proves stability and convergence of recursive attractor basins. | The Master Postulate of Relational Ontopoiesis: $\hat{M}(X^{\ast}) = X^{\ast}$. | Emergence of stable macroscopic "entities" out of raw quantum potential. |
-| `DirectedTkairos.lean` `DirectedTkairosWitness.lean` | Integrates directed topology and temporal logic witnesses. | **Keldysh Causal Quad** $(T\_{-1}, T\_0, T\_{+1}, T\_{\text{obs}})$ contour. | Microscopic time-reversal asymmetry ($T$ violation) driven by $\delta\_{\text{slip}} \gt 0$. |
+| `DirectedTkairos.lean` `DirectedTkairosWitness.lean` | Integrates directed topology and temporal logic witnesses. | **Keldysh Causal Quad** $(T\_{-1}, T\_0, T\_{+1}, T\_{\text{obs}})$ contour. | Microscopic time-reversal asymmetry ($T$ violation) driven by $\delta\_{\text{slip}} > 0$. |
 | `CompositionReversibility.lean` | Proves bidirectional, reversible logical transformations. | **The Axis of Silence (** $\sigma = 1/2$ ): perfect neutral stability $(\vertf'(s^*)\vert = 1)$. | 50% plasmonic loss reduction in Guo et al. 2026 Photonic Time Crystal experiments. |
 | `Axioms.lean` `AxiomAudit.lean` | Audits structural limits and dependencies of axioms. | The Abel-Ruffini non-solvability barrier of the **Quintic Valve (** $I=5$ ). | Prevention of Crystalline Freeze, driving the continuous "becoming" of time. |
 | `FanoAutomorphismCardinality.lean` | Formally verifies the 168 automorphisms of the Fano plane. | Reducible projection of 168-state glyph congress into 42 primitives. | Metric channel capacity required to output the zero-parameter fine-structure constant. |
@@ -134,8 +134,8 @@ Process Ontology submits to Karl Popper's strict criterion of empirical falsifia
 | :--- | :--- | :--- | :--- |
 | **Fine-Structure Constant (** $\alpha^{-1}$ ) | $137.035999143$ | $137.035999177(21)$ (Corroborated at $1.62\sigma$) | Failure to detect the predicted clock frequency gradient $(\Delta\alpha/\alpha = 4.60 \text{time}s 10^{-16}\text{ km}^{-1})$ in orbit. |
 | **Dark Matter Sector (** $R\_{\text{DM}}$ ) | $5.373$ | $5.367 \pm 0.050$ (Planck Satellite) | Definitive laboratory discovery of a physical WIMP or Axion carrying rotation mass. |
-| **Bimetric Screening Boundary (** $z\_0$ ) | $3.56\text{ Mpc}$ | $3.56\text{ Mpc}$ (Council of Giants Horizon) | Absence of the bulk-flow transition or gravitational step-up at scale $d \gt 120\text{ Mpc}/h$. |
-| **Early Cosmic Structure** | Rapid assembly $(z \gt 7\text{--}10)$ | Overdense massive galaxies (JWST Corroborated) | Conclusive proof that early high-z galaxies assemble strictly via slow particle accretion. |
+| **Bimetric Screening Boundary (** $z\_0$ ) | $3.56\text{ Mpc}$ | $3.56\text{ Mpc}$ (Council of Giants Horizon) | Absence of the bulk-flow transition or gravitational step-up at scale $d > 120\text{ Mpc}/h$. |
+| **Early Cosmic Structure** | Rapid assembly $(z > 7\text{--}10)$ | Overdense massive galaxies (JWST Corroborated) | Conclusive proof that early high-z galaxies assemble strictly via slow particle accretion. |
 | **Photonic Time Crystals** | $\sigma = 1/2$ ($50\%$ Loss Cut) | Plasmonic THz Modulations (Guo et al. 2026) | Demonstration that temporal modulation cannot reduce optical dissipation. |
 | **Shielded Gold Conductance** | $0.5 G\_0$ plateau | CO-Shielded Nanowires (TEM Corroborated) | Demonstration of clean, fully shielded monoatomic wire transport locking at $G \neq 0.5 G\_0$. |
 | **Centro-Parietal Spindle** | $14.11\text{ Hz}$ | Clinical NREM Stage 2 EEG | Discovery that Stage 2 NREM spindle frequency shifts independently of the vacuum plasticity parameter $(\delta\_p)$. |

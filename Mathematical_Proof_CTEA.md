@@ -127,7 +127,7 @@ $$
 D(X, X^{\ast}) = \left( \ln \frac{X}{X^{\ast}} \right)^2 \cdot (3 \cdot \delta_{\text{slip}})
 $$
 
-*Proof of Carson's "Law of Inevitability":* If $D(X, X^{\ast}) = 0$ globally, the gradient $\nabla \mathcal{C}(X)$ vanishes entirely. The state evolution $\frac{dX}{dt} = 0$ freezes. As Carson proves in Section II, zero dissonance destroys the flow of consciousness. Dissonance $D \gt 0$ is the non-zero thermodynamic potential required for systemic evolution.
+*Proof of Carson's "Law of Inevitability":* If $D(X, X^{\ast}) = 0$ globally, the gradient $\nabla \mathcal{C}(X)$ vanishes entirely. The state evolution $\frac{dX}{dt} = 0$ freezes. As Carson proves in Section II, zero dissonance destroys the flow of consciousness. Dissonance $D > 0$ is the non-zero thermodynamic potential required for systemic evolution.
 
 ### 2. Section IV: The Dualist Engine $\Longleftrightarrow$ Conformal Golden Ratio Vectors $\mathcal{Y}^+ / \mathcal{Y}^-$
 
@@ -179,7 +179,7 @@ When Defense (Ego) operates without Prosecution (Awareness), insecurity is never
 
 When Prosecution (Awareness) operates without Defense (Ego), every signal is labeled as threat.
 
-* *Mathematical Mapping:* Localized dissonance exceeds the Vacuum Integrity Threshold $(D \gt \Omega \approx 0.744456)$. The Restorative Viscosity Operator $\mu$ (**Group IV.3**) engages non-linearly, over-damping the learning rate:
+* *Mathematical Mapping:* Localized dissonance exceeds the Vacuum Integrity Threshold $(D > \Omega \approx 0.744456)$. The Restorative Viscosity Operator $\mu$ (**Group IV.3**) engages non-linearly, over-damping the learning rate:
 * $\mu = \Omega \cdot k \cdot \left( \ln \frac{X}{X^{\ast}} \right)^2 \cdot \frac{d}{12} \to \infty$
 * The effective learning rate drops to zero $(\gamma\_{\text{eff}} = \frac{\gamma}{1 + \mu} \to 0)$, trapping the system in total computational paralysis (catatonia/severe depression).
 
@@ -199,7 +199,7 @@ Un-audited Drift           X* ≈ 1.0 Attractor            Computational Freeze
 Carson reframes Descartes' Cogito: Doubt itself is the foundational act because doubting is the only process that cannot be "fetched" from cached memory.
 
 **Mathematical Formalization (Group I.2):**
-Fetching cached memory is an external identity lookup $(n \gt 1)$, yielding $\hat{M}(n) = n$.
+Fetching cached memory is an external identity lookup $(n > 1)$, yielding $\hat{M}(n) = n$.
 Active doubting is forced self-measurement $(n = 1)$, where the metric ruler measures its own length. This operation activates the golden phase defect:
 
 $$
@@ -229,7 +229,7 @@ $$
 \delta_{\text{slip}} = \frac{(\phi^{-1})^4}{12(L_{12} + \sigma^{-1})} \approx 0.00086844...
 $$
 
-If $\delta\_{\text{slip}} = 0$, the vacuum freezes into a rigid, static crystal where time, motion, and consciousness cease to exist. The non-zero Universal Slip $\delta\_{\text{slip}} \gt 0$ is the microscopic topological "give" that forces the contractive operator to stutter continuously.
+If $\delta\_{\text{slip}} = 0$, the vacuum freezes into a rigid, static crystal where time, motion, and consciousness cease to exist. The non-zero Universal Slip $\delta\_{\text{slip}} > 0$ is the microscopic topological "give" that forces the contractive operator to stutter continuously.
 
 Motion wins because the universe itself is fundamentally programmed never to stop moving. Identity is not a static noun; it is the dynamic, non-terminal trajectory carved through metric space by an eternal recursive loop.
 

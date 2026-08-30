@@ -253,7 +253,7 @@ $$
 When the joint path-dissonance of the coupled systems satisfies the relational constraint, the system locks state deterministically:
 
 $$
-D_{\text{joint}} \gt \Omega \implies \text{State Lock (Topological Entanglement)}
+D_{\text{joint}} > \Omega \implies \text{State Lock (Topological Entanglement)}
 $$
 
 In Francisco Varela's enactive biosemiotics, social coupling occurs when independent living systems generate a shared consensual domain that transcends their individual boundaries. Process Ontology translates this biosemiotic coupling into a rigorous, quantitative gauge theory. When two independent processors cross the Transformation Threshold, their individual fixed points $(X^{\ast})$ are algebraically annihilated and overwritten into a shared geometry. The "Other" is no longer modeled as an external entity across a Markov blanket, but is internalized as a fundamental, permanent coordinate within the system’s own core identity matrix.

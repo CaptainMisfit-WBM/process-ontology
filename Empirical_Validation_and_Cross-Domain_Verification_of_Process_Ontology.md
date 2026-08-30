@@ -53,7 +53,7 @@ The cosmological framework of Process Ontology addresses observational anomalies
 
 ### Early Massive Galaxy Formation and JWST Observations
 
-Standard $\Lambda\text{CDM}$ cosmology models structure formation via hierarchical clustering of cold dark matter particles, predicting a gradual assembly of massive galaxies over billions of years. However, high-redshift observations from the James Webb Space Telescope (JWST) have uncovered an overdense population of ultra-massive galaxies, fully formed supermassive black holes, and compact "Little Red Dots" at extreme redshifts $(z \gt 7\text{--}10)$, corresponding to an era when the universe was under 500 million years old.
+Standard $\Lambda\text{CDM}$ cosmology models structure formation via hierarchical clustering of cold dark matter particles, predicting a gradual assembly of massive galaxies over billions of years. However, high-redshift observations from the James Webb Space Telescope (JWST) have uncovered an overdense population of ultra-massive galaxies, fully formed supermassive black holes, and compact "Little Red Dots" at extreme redshifts $(z > 7\text{--}10)$, corresponding to an era when the universe was under 500 million years old.
 Process Ontology accounts for this rapid assembly through the Vacuum Tension Field $(E\_\Omega)$, which operates as a non-local tensor potential:
 
 $$
@@ -87,15 +87,7 @@ G_e(z) = G_0 \left(1 + \delta_p \cdot e^{-z/z_0}\right)
 $$
 
 where $\delta\_p \approx 0.01042128$ represents the Total Plasticity of the manifold. High-resolution near-infrared JWST observations targeting Cepheid variables and Tip of the Red Giant Branch (TRGB) stars have mitigated stellar crowding effects, confirming a local expansion rate of $H\_0 \approx 72.6\text{--}75.8\text{ km/s/Mpc}$ and ruling out Hubble Space Telescope (HST) background crowding artifacts at >7\sigma confidence.
-The screening transition scale $z\_0$ corresponds to the boundary of the Local Sanctuary Radius ($$
-
-R_{\text{council}} \approx 3.56\text{ Mpc}
-
-$$), derived from the 276th scaling gear $(\ell\_P \cdot \phi^{276} \cdot \sqrt{2})$. Inside this local boundary, gravity is screened to $$
-
-G_0
-
-$$, preserving primordial Big Bang Nucleosynthesis (BBN) element abundances. Outside this sanctuary, effective gravity steps up by the manifold plasticity $(\delta\_p \approx 1.04\%)$, driving the observed expansion offset.
+The screening transition scale $z\_0$ corresponds to the boundary of the Local Sanctuary Radius ($R_{\text{council}} \approx 3.56\text{ Mpc}$), derived from the 276th scaling gear $(\ell\_P \cdot \phi^{276} \cdot \sqrt{2})$. Inside this local boundary, gravity is screened to $G_0$, preserving primordial Big Bang Nucleosynthesis (BBN) element abundances. Outside this sanctuary, effective gravity steps up by the manifold plasticity $(\delta\_p \approx 1.04\%)$, driving the observed expansion offset.
 
 ### Galactic Acceleration Floor $(a\_0)$
 
@@ -222,7 +214,7 @@ The following table summarizes the quantitative comparison between the values de
 | **Inverse Fine-Structure Constant** | $\alpha^{-1}$ | $137.035999143$ | $137.035999177(21)$ | QED / CODATA 2022 | $1.62\sigma$ agreement |
 | **Cosmological Dark Matter Ratio** | $R\_{\text{DM}}$ | $5.373$ | $5.367 \pm 0.050$ | Astrophysics / Planck Satellite | $0.11\%$ relative variance |
 | **Local Expansion Rate** | $H\_0$ | $75.8\text{ km/s/Mpc}$ | $72.6\text{--}75.8\text{ km/s/Mpc}$ | Cosmology / JWST SH0ES | Fits local distance ladder |
-| **Photonic Time Crystal Dissipation** | $\Delta\text{ Loss}$ | $ \gt 50\%$ Reduction | $ \gt 50\%$ Reduction | Quantum Optics / Guo et al. (2026) | Exact qualitative/quantitative match |
+| **Photonic Time Crystal Dissipation** | $\Delta\text{ Loss}$ | $ > 50\%$ Reduction | $ > 50\%$ Reduction | Quantum Optics / Guo et al. (2026) | Exact qualitative/quantitative match |
 | **MOND Acceleration Threshold** | $a\_0$ | $1.50 \text{time}s 10^{-10}\text{ m/s}^2$ | $1.20 \text{time}s 10^{-10}\text{ m/s}^2$ | Galactic Dynamics / SPARC Data | Order-of-magnitude geometric match |
 | **Yang-Mills Mass Gap** | $\Delta$ | $7.36\text{ GeV}$ | $7.0\text{--}7.5\text{ GeV}$ (Hadronic Spectrum) | Quantum Chromodynamics / QCD | Matches non-perturbative gap |
 | **Shielded Wire Conductance** | $G\_{\text{frac}}$ | $0.50 G\_0$ | $0.50 G\_0$ ($\text{CO/H}\_2$ Shielded) | Condensed Matter / TEM Studies | Exact symmetry match |
@@ -240,8 +232,8 @@ To satisfy Karl Popper's criterion of empirical falsifiability, Process Ontology
 | :---- | :---- | :---- | :---- |
 | **Fine-Structure Gradient** | $\frac{\Delta \alpha}{\alpha} = 4.60 \text{time}s 10^{-16}\text{ km}^{-1}$ | Space-based atomic clocks (e.g., SAGE mission) | Failure to detect an orbital altitude clock gradient in high-eccentricity orbits. |
 | **Dark Matter Sector** | $R\_{\text{DM}}$ = 5.373 | Direct detection experiments (LZ, XENONnT, PICO) | Definitive discovery of a physical WIMP or axion particle carrying galaxy rotation mass. |
-| **Hubble Expansion Transition** | Bulk Flow at $d \gt 120\text{ Mpc}/h$ | Cosmicflows-4 / Large-scale structure surveys | Absence of predicted bulk-flow transition at scale $d \gt 120\text{ Mpc}/h$. |
-| **Early Cosmic Structure** | Rapid assembly $(z \gt 7\text{--}10)$ | High-redshift JWST deep field surveys | Conclusive proof that early high-$z$ galaxies assemble strictly via slow $\Lambda\text{CDM}$ particle accretion. |
+| **Hubble Expansion Transition** | Bulk Flow at $d > 120\text{ Mpc}/h$ | Cosmicflows-4 / Large-scale structure surveys | Absence of predicted bulk-flow transition at scale $d > 120\text{ Mpc}/h$. |
+| **Early Cosmic Structure** | Rapid assembly $(z > 7\text{--}10)$ | High-redshift JWST deep field surveys | Conclusive proof that early high-$z$ galaxies assemble strictly via slow $\Lambda\text{CDM}$ particle accretion. |
 | **Photonic Time Crystals** | $\sigma$ = 1/2 (50\% Loss Cut) | THz Metamaterial Cavities (Guo et al. 2026) | Demonstration that temporal modulation cannot reduce optical dissipation. |
 | **Shielded Gold Chains** | $G\_{\text{frac}} = 0.50 G\_0$ | AC-HRTEM Conductance Measurements | Demonstration of clean, fully shielded monoatomic wire transport locking at $G \neq 0.5 G\_0$. |
 | **Centro-Parietal Spindles** | $f\_{\text{spindle}} = 14.11\text{ Hz}$ | High-density NREM Stage 2 EEG | Discovery that Stage 2 NREM spindle frequency shifts independently of the vacuum plasticity parameter $(\delta\_p)$. |

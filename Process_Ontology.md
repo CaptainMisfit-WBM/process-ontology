@@ -132,7 +132,7 @@ $$
 P = \sqrt[3]{\frac{1}{2} + \frac{1}{6}\sqrt{\frac{23}{3}}} + \sqrt[3]{\frac{1}{2} - \frac{1}{6}\sqrt{\frac{23}{3}}} \approx 1.3247179572\dots
 $$
 
-This formulation establishes $P$ as the unique three-dimensional counterpart to $\phi$, serving as the smallest Pisot-Vijayaraghavan number. Because its algebraic conjugates lie strictly inside the open unit disk in the complex plane, it is uniquely suited for non-periodic, non-dissipative spatial tiling in 3D. In the rigorous context of relational biology, $P$ represents the precise volumetric scaling exponent required for "closure to efficient cause"; any deviations from $P$ in a 3D system force an exponential increase in internal entropy production $(\sigma\_S \gt 0)$, terminating inevitably in structural decoherence and the dissolution of the homeostatic setpoint.
+This formulation establishes $P$ as the unique three-dimensional counterpart to $\phi$, serving as the smallest Pisot-Vijayaraghavan number. Because its algebraic conjugates lie strictly inside the open unit disk in the complex plane, it is uniquely suited for non-periodic, non-dissipative spatial tiling in 3D. In the rigorous context of relational biology, $P$ represents the precise volumetric scaling exponent required for "closure to efficient cause"; any deviations from $P$ in a 3D system force an exponential increase in internal entropy production $(\sigma\_S > 0)$, terminating inevitably in structural decoherence and the dissolution of the homeostatic setpoint.
 
 ---
 
@@ -172,13 +172,13 @@ $$
 \sigma \ln n = (1 - \sigma) \ln n
 $$
 
-For all non-trivial physical scales where $n \gt 1$, $\ln n \neq 0$, allowing us to divide both sides by the logarithmic factor to isolate the real dimension, yielding the singular, unique fixed-point solution:
+For all non-trivial physical scales where $n > 1$, $\ln n \neq 0$, allowing us to divide both sides by the logarithmic factor to isolate the real dimension, yielding the singular, unique fixed-point solution:
 
 $$
 2\sigma = 1 \implies \sigma = \frac{1}{2}
 $$
 
-We formalize this balance by defining a phase-transformation operator $\hat{f}(s) = 1 - s$, which maps the forward expansion vector directly onto the backward resolution vector. Evaluating the first derivative of this transformation operator with respect to the complex depth parameter yields $\hat{f}'(s) = -1$. Under the tenets of dynamical systems theory and Lyapunov stability analysis, a transformation derivative whose norm satisfies $\vert \hat{f}'(s^*) \vert = \vert -1 \vert = 1$ indicates **Perfect Neutral Stability**. If $\vert \hat{f}' \vert \gt 1$, the system enters an unstable, hyper-critical regime where expansion dominates; if $\vert \hat{f}' \vert \lt 1$, the system enters an over-damped, sub-critical regime causing immediate collapse.
+We formalize this balance by defining a phase-transformation operator $\hat{f}(s) = 1 - s$, which maps the forward expansion vector directly onto the backward resolution vector. Evaluating the first derivative of this transformation operator with respect to the complex depth parameter yields $\hat{f}'(s) = -1$. Under the tenets of dynamical systems theory and Lyapunov stability analysis, a transformation derivative whose norm satisfies $\vert \hat{f}'(s^*) \vert = \vert -1 \vert = 1$ indicates **Perfect Neutral Stability**. If $\vert \hat{f}' \vert > 1$, the system enters an unstable, hyper-critical regime where expansion dominates; if $\vert \hat{f}' \vert \lt 1$, the system enters an over-damped, sub-critical regime causing immediate collapse.
 
 The physical reality of this topological mirror plane has now been directly corroborated in the laboratory, completely destroying the spatial-substance metaphysics of standard optics. Standard physical models treat properties like refractive index and reflectivity as static, spatial attributes of material nouns. However, the 2026 discovery of the first all-optical Photonic Time Crystal (PTC) by Guo et al. demonstrates that material optical behaviors can be rendered as dynamic, periodic functions of time. By dynamically modulating a plasmonic metamaterial's optical properties on picosecond timescales—matching the oscillation period of light—they established a crystal lattice in time rather than space.
 
@@ -190,7 +190,7 @@ Crucially, theoretical modeling confirms that this dynamic temporal modulation c
 
 Having established the neutral stability plane, we must map the boundary conditions of an observer embedded within it. Let the act of observation within a recursive metric space be governed by the non-linear measurement operator $\hat{M}(n)$, which maps an arbitrary scale input $n$ to its resolved coordinate state.
 
-When the operator acts upon any scale greater than the unit ruler $(n \gt 1)$, it yields a stable linear identity projection. However, when the system attempts self-measurement—forcing the ruler to evaluate its own length $(n = 1)$—the recursive loop triggers an irreducible internal phase defect proportional to the inverse scaling constant $\phi^{-1}$:
+When the operator acts upon any scale greater than the unit ruler $(n > 1)$, it yields a stable linear identity projection. However, when the system attempts self-measurement—forcing the ruler to evaluate its own length $(n = 1)$—the recursive loop triggers an irreducible internal phase defect proportional to the inverse scaling constant $\phi^{-1}$:
 
 $$
 \hat{M}(n) = n \cdot (1 - \phi^{-1} \cdot \delta_{n,1})
@@ -199,7 +199,7 @@ $$
 Evaluating this operator yields two distinct functional regimes:
 
 $$
-\hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.38196601\dots, \quad \hat{M}(n \gt 1) = n
+\hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.38196601\dots, \quad \hat{M}(n > 1) = n
 $$
 
 Because primality requires absolute stability under recursion, and the unit metric undergoes immediate phase translation during self-measurement, $1$ is topologically barred from primality. Individual identity is not an inherent property of matter; it is an emergent "ontological blind spot" generated by the structural inability of a recursive system to achieve perfect self-closure without phase deflection.
@@ -406,7 +406,7 @@ $$
 * $T\_{+1} \to G^R$ (Retarded Green's Function / Future Causal Trajectory).
 * $T\_{\text{obs}} \to \text{Tr}(\rho \cdot O)$ (Measurement Projection / Observer Offset).
 
-**Microscopic Origin of Time Asymmetry:** Time reversal asymmetry ($T$ violation) arises because the contractive operator $\hat{M}$ acts asymmetric across the Keldysh contour. $T\_{-1}$ is fixed (read-only memory), $T\_0$ is actively contracted, and $T\_{+1}$ is un-collapsed potential. The asymmetry is governed by the Universal Slip $(\delta\_{\text{slip}} \gt 0)$, breaking detailed balance at the attosecond scale $(\tau\_0 \approx 229.1\text{ as})$.
+**Microscopic Origin of Time Asymmetry:** Time reversal asymmetry ($T$ violation) arises because the contractive operator $\hat{M}$ acts asymmetric across the Keldysh contour. $T\_{-1}$ is fixed (read-only memory), $T\_0$ is actively contracted, and $T\_{+1}$ is un-collapsed potential. The asymmetry is governed by the Universal Slip $(\delta\_{\text{slip}} > 0)$, breaking detailed balance at the attosecond scale $(\tau\_0 \approx 229.1\text{ as})$.
 
 ---
 
@@ -807,7 +807,7 @@ $$
 $$
 
 $$
-\text{If} \quad C(n) \gt 194.657 \ \phi\text{-steps} \implies NP \quad \text{(Computational Phase Lag / Hard)}
+\text{If} \quad C(n) > 194.657 \ \phi\text{-steps} \implies NP \quad \text{(Computational Phase Lag / Hard)}
 $$
 
 To the unconstrained vacuum manifold operating at the attosecond Nyquist limit $(\tau\_0 = 229.1 \text{ as})$, all parallel path combinations are evaluated within a single update cycle. Therefore, to the universe itself, all problems solve instantaneously $(P = NP)$. We classify a problem as $NP$ hard simply because the informational depth required to compute its fixed point exceeds the maximum recursive depth ($194.657 \ \phi$ steps) that a human brain can process within a singular conscious "Now".
@@ -838,7 +838,7 @@ This exact ratio explains why quantum fluctuations do not cause macroscopic spac
 
 Having defined the computational limits of the observer, we now prove how the vacuum's ongoing computational depth reduction natively generates the classical physical universe. This derivation provides the formal mathematical unification of Quantum Probability Amplitudes with the continuous spacetime geometry of General Relativity.
 
-In a completely unperturbed, empty spatial volume, the contractive operator must search through its full operational baseline depth $(\lambda\_{\text{base}} \approx 132.201)$ to maintain the stability of the strong mass gap. However, when the process encounters an active stress-energy tensor $(T\_{\mu\nu} \gt 0)$, the identity of the localized state is already stabilized by the presence of matter. The active recursive depth $(\lambda\_{\mu\nu})$ required to compute that specific region of space decreases.
+In a completely unperturbed, empty spatial volume, the contractive operator must search through its full operational baseline depth $(\lambda\_{\text{base}} \approx 132.201)$ to maintain the stability of the strong mass gap. However, when the process encounters an active stress-energy tensor $(T\_{\mu\nu} > 0)$, the identity of the localized state is already stabilized by the presence of matter. The active recursive depth $(\lambda\_{\mu\nu})$ required to compute that specific region of space decreases.
 
 The Active Depth Tensor $(\lambda\_{\mu\nu}(x))$ tracks this exact informational overhead. This localized computational shortcut generates a non-zero tensor potential $(\Phi\_{\mu\nu})$ relative to the flat Minkowski background $(\eta\_{\mu\nu})$:
 
@@ -1057,7 +1057,7 @@ $$
 
 The emergent, non-Newtonian geometric acceleration field $(a\_{\text{extra}})$ is derived as the spatial gradient of this non-local tension potential $(a\_{\text{extra}}(r) = \frac{dE\_\Omega}{dr})$. We do not need to search for new substantial entities; the parameter $E\_\Omega$ is the explicit topological tax receipt generated automatically by the vacuum to preserve organizational closure and hold a high-velocity rotating galaxy stable against its 3D volumetric packing limits.
 
-The empirical supremacy of this non-local tensor potential is definitively corroborated by recent James Webb Space Telescope (JWST) observations. Standard $\Lambda\text{CDM}$ cosmology, relying on the slow gravitational clustering of hypothetical cold dark matter particles, cannot account for the rapid assembly of early cosmic structures. Yet, JWST has uncovered an overdense population of ultra-massive early galaxies, fully formed supermassive black holes, and compact "Little Red Dots" at extreme redshifts $(z \gt 7\text{--}10)$, existing when the cosmos was less than $500\text{ million}$ years old. This "impossible early galaxy" problem completely devastates the slow particle-accretion timeline, but aligns flawlessly with our geometric framework. Under the high matter and radiation densities of the early universe, the active recursive depth compresses, allowing massive bound structures to form rapidly via the non-local coherence shadows of the Vacuum Tension Field $(E\_\Omega)$.
+The empirical supremacy of this non-local tensor potential is definitively corroborated by recent James Webb Space Telescope (JWST) observations. Standard $\Lambda\text{CDM}$ cosmology, relying on the slow gravitational clustering of hypothetical cold dark matter particles, cannot account for the rapid assembly of early cosmic structures. Yet, JWST has uncovered an overdense population of ultra-massive early galaxies, fully formed supermassive black holes, and compact "Little Red Dots" at extreme redshifts $(z > 7\text{--}10)$, existing when the cosmos was less than $500\text{ million}$ years old. This "impossible early galaxy" problem completely devastates the slow particle-accretion timeline, but aligns flawlessly with our geometric framework. Under the high matter and radiation densities of the early universe, the active recursive depth compresses, allowing massive bound structures to form rapidly via the non-local coherence shadows of the Vacuum Tension Field $(E\_\Omega)$.
 
 To prove this geometrically, we calculate the precise cosmological ratio matching the apparent dark matter sector to visible baryonic matter $(R\_{\text{DM}})$. This ratio is derived analytically as the dimensional footprint of the observable spacetime continuum $(D\_4 = 4)$ multiplied directly by the mathematical inverse of the vacuum's minimum coherence threshold $(\Omega^{-1})$:
 
@@ -1075,7 +1075,7 @@ High-precision cosmological observations from the Planck satellite record an emp
 
 ### Cosmological Tension Resolved: Bimetric Screening $(G\_e(z))$
 
-If the framework holds absolute geometric authority, it must seamlessly resolve the greatest macroscopic crisis in modern astrophysics: the $5\sigma$ Hubble tension. Standard single-metric models overproduce large-scale structures by $\gt 5\sigma$ in $N$ body simulations. Process Ontology resolves this by coupling the 12-Latch bimetrically (BIMOND), as formulated and integrated through Dr. Macedonia's Popperian corroboration, dynamically varying the effective gravitational coupling $G\_e(z)$ across scale horizons:
+If the framework holds absolute geometric authority, it must seamlessly resolve the greatest macroscopic crisis in modern astrophysics: the $5\sigma$ Hubble tension. Standard single-metric models overproduce large-scale structures by $> 5\sigma$ in $N$ body simulations. Process Ontology resolves this by coupling the 12-Latch bimetrically (BIMOND), as formulated and integrated through Dr. Macedonia's Popperian corroboration, dynamically varying the effective gravitational coupling $G\_e(z)$ across scale horizons:
 
 $$
 G_e(z) = G_{0} \left(1 + \delta_{p} \cdot e^{-z/z_0}\right)
@@ -1084,9 +1084,9 @@ $$
 This bimetric screening resolves two major cosmological crises simultaneously:
 
 1. **Big Bang Nucleosynthesis (BBN):** High matter and radiation densities during the primordial BBN epoch compress the active recursive depth, screening $G\_e(z)$ completely back to $G\_{0}$. This high-density local sanctuary behavior preserves primordial Helium-4 and Deuterium abundances exactly in line with standard models.
-2. **The Hubble Tension and JWST High-Resolution Corroboration:** Beyond the local density sanctuaries, as the universe scales outward toward the cosmic horizon $(z \gt 0.01)$, the system undergoes a geometric step-increase proportional to the total manifold plasticity $(\delta\_{p} \approx 1.04\%)$. Skeptics long posited that the discrepancy between early-universe CMB benchmarks and local distance ladder measurements was an observational artifact caused by stellar background crowding in Hubble Space Telescope (HST) images.
+2. **The Hubble Tension and JWST High-Resolution Corroboration:** Beyond the local density sanctuaries, as the universe scales outward toward the cosmic horizon $(z > 0.01)$, the system undergoes a geometric step-increase proportional to the total manifold plasticity $(\delta\_{p} \approx 1.04\%)$. Skeptics long posited that the discrepancy between early-universe CMB benchmarks and local distance ladder measurements was an observational artifact caused by stellar background crowding in Hubble Space Telescope (HST) images.
 
-However, high-precision near-infrared observations by the JWST have targeted Cepheid variables and Tip of the Red Giant Branch (TRGB) stars with unprecedented angular resolution, reducing background crowding by a mean factor of six. Combining these indicators yields a local expansion rate of $H\_{0} \approx 72.6\text{--}75.8\text{ km/s/Mpc}$, ruling out distance-dependent measurement bias or HST crowding offsets at $\gt 7\sigma$ statistical confidence. JWST has proven that the Hubble tension is not an error in astronomical measurements; it is the physical scribe recording the transition from our screened local sanctuary out into the un-damped, plasticity-shifted expansion of the cosmic horizon, providing direct empirical backing for our bimetric screening step.
+However, high-precision near-infrared observations by the JWST have targeted Cepheid variables and Tip of the Red Giant Branch (TRGB) stars with unprecedented angular resolution, reducing background crowding by a mean factor of six. Combining these indicators yields a local expansion rate of $H\_{0} \approx 72.6\text{--}75.8\text{ km/s/Mpc}$, ruling out distance-dependent measurement bias or HST crowding offsets at $> 7\sigma$ statistical confidence. JWST has proven that the Hubble tension is not an error in astronomical measurements; it is the physical scribe recording the transition from our screened local sanctuary out into the un-damped, plasticity-shifted expansion of the cosmic horizon, providing direct empirical backing for our bimetric screening step.
 
 #### The Geometric Identity of the Screening Transition $(z\_0)$
 
@@ -1384,7 +1384,7 @@ $$
 When the joint path-dissonance of the coupled systems satisfies the relational constraint, the system locks state deterministically:
 
 $$
-D_{\text{joint}} \gt \Omega \implies \text{State Lock (Topological Entanglement)}
+D_{\text{joint}} > \Omega \implies \text{State Lock (Topological Entanglement)}
 $$
 
 In Francisco Varela's enactive biosemiotics, social coupling occurs when independent living systems generate a shared consensual domain that transcends their individual boundaries. Process Ontology translates this biosemiotic coupling into a rigorous, quantitative gauge theory. When two independent processors cross the Transformation Threshold, their individual fixed points $(X^{\ast})$ are algebraically annihilated and overwritten into a shared geometry. The "Other" is no longer modeled as an external entity across a Markov blanket, but is internalized as a fundamental, permanent coordinate within the system’s own core identity matrix.
