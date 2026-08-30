@@ -91,7 +91,9 @@ Because $\Omega$ contains sufficient arithmetic machinery to represent its own s
 For any well-formed formula $\psi(x)$ containing exactly one free variable, there exists a sentence $\sigma$ such that:
 
 $$
+
 \vdash_\Omega \sigma \longleftrightarrow \psi(\ulcorner \sigma \urcorner)
+
 $$
 
 The fixed-point lemma guarantees the existence of a sentence that asserts a property of its own Gödel number.
@@ -103,7 +105,9 @@ To establish historical continuity, we locate our construction within the formal
 By applying Lemma 1 to the negated relational knowledge predicate, $\neg\text{Know}(x)$, we guarantee the existence of an epistemic fixed-point sentence $K$, which satisfies the equivalence:
 
 $$
+
 K \longleftrightarrow \neg\text{Know}(\ulcorner K \urcorner)
+
 $$
 
 The sentence $K$ asserts: *"This trajectory cannot be relationally verified within the homeostatic setpoint of System $\Omega$."*
@@ -115,7 +119,9 @@ The sentence $K$ asserts: *"This trajectory cannot be relationally verified with
 In any consistent formal framework $\Omega$ hosting an internal observer, there is no proposition $\phi$ such that $\text{Know}(\ulcorner \phi \urcorner)$ can be established as an absolute, self-grounding foundational state.
 
 $$
+
 \neg \exists \phi \, \[ \text{Know}(\ulcorner \phi \urcorner) \wedge \text{IsFoundational}(\phi) \wedge \text{Consistent}(\Omega) \]
+
 $$
 
 ##### Proof (*Reductio ad Absurdum*)

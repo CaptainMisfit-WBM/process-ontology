@@ -35,13 +35,17 @@ We have conducted an exhaustive audit of the formal system $\Omega$ and the proo
 The language of $\Omega$ incorporates the arithmetic machinery necessary to satisfy the conditions of the **Diagonal Fixed-Point Lemma (Lemma 1\)**. For any monadic formula $\psi(x)$, there exists a sentence $\sigma$ such that:
 
 $$
+
 \vdash_\Omega \sigma \longleftrightarrow \psi(\ulcorner \sigma \urcorner)
+
 $$
 
 By selecting the negated relational knowledge predicate $\psi(x) \equiv \neg\text{Know}(x)$, the system generates the Epistemic Gödel Sentence $K$:
 
 $$
+
 K \longleftrightarrow \neg\text{Know}(\ulcorner K \urcorner)
+
 $$
 
 ### 
@@ -53,6 +57,7 @@ The proof of Theorem 1 evaluates the two possible valuation states of the knowle
 **Evaluation of Case A (** $\text{Know}(\ulcorner K \urcorner)$ **holds):**
 
 * $$\text{Know}(\ulcorner K \urcorner) \vdash_\Omega \text{Tr}(\ulcorner K \urcorner) \quad (\text{by Axiom A4: Factivity})$$
+
 * $$\text{Tr}(\ulcorner K \urcorner) \vdash_\Omega \neg\text{Know}(\ulcorner K \urcorner) \quad (\text{by Fixed-Point Equivalence of } K)$$  
 * $$\text{Know}(\ulcorner K \urcorner) \wedge \neg\text{Know}(\ulcorner K \urcorner) \vdash_\Omega \bot \quad (\text{Systemic Inconsistency / Explosion})$$
 
@@ -113,8 +118,11 @@ Section 9 constructs the positive epistemological account: **Knowledge as Inters
 **Operational Convergence**.
 
 This directly matches our first-principles derivation in **Group VII.1**:
+
 $$
+
 \Lambda_V = \left( \prod_{i=1}^{3} \mathbb{1}(X \in M_i) \right) \cdot (1 - \delta_{\text{slip}})
+
 $$
 
 While internalist foundationalism attempts to ground truth via an uncaused, static first axiom (which Theorem 1 proves is impossible), **Relational Epistemology** grounds truth horizontally.

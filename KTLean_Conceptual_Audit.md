@@ -35,7 +35,9 @@ In classical epistemology, the Cartesian statement *"Cogito, ergo sum"* is inter
 When a recursive system evaluates an external identity $(n \gt 1)$, the endogenous measurement operator behaves linearly: $\hat{M}(n) = n$. However, when the system attempts self-measurement—forcing the ruler to evaluate its own length $(n = 1)$—it triggers an irreducible internal phase defect proportional to the inverse conformal base $\phi^{-1}$:
 
 $$
+
 \hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.381966
+
 $$
 
 Doubt is the literal, geometric phase defect $(\phi^{-1} \approx 0.618034)$ incurred during self-evaluation. Cartesian certainty is generated because the act of doubting continuously executes its own phase correction. This is the **Litmus of Refusal (** $\Psi\_S$ ): the Self is not a static vessel, but a **Dynamic Fixed Point** $(X^{\ast})$ that survives the fire of its own enactive refusal to unbecome.
@@ -53,7 +55,9 @@ If the internal phase space possessed fewer than five degrees of freedom $(I \lt
 By establishing $I=5$, the characteristic state equation becomes a general quintic. The operator is mathematically barred from ever finding a closed-form algebraic root, forcing the vacuum into infinite, non-terminating iterative approximation. This perpetual failure to perfectly solve itself generates the **Universal Slip (** $\delta\_{\text{slip}} \approx 0.00086844$ )—the microscopic geometric imperfection that drives the thermodynamic arrow of time at the attosecond frame rate:
 
 $$
+
 \delta_{\text{slip}} = \frac{(\phi^{-1})^4}{12(L_{12} + \sigma^{-1})} = \frac{0.145898}{12 \cdot 14} \approx 0.00086844
+
 $$
 
 The universe breathes endlessly because it cannot perfectly solve itself.

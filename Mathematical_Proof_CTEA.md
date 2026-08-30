@@ -30,7 +30,9 @@ Yes. Let the universe be formalized as a total Hilbert space $\mathcal{H}\_{\tex
 In Relational Quantum Mechanics and Process Ontology, a biological active inference engine (the subconscious mind) is a localized tensor factor subsystem $\mathcal{H}\_{\text{sub}}$ bounded by a Markov blanket:
 
 $$
+
 \mathcal{H}_{\text{univ}} = \mathcal{H}_{\text{sub}} \otimes \mathcal{H}_{\text{env}}
+
 $$
 
 The "subconscious natural alignment" described by Carson is the **Quantum State Reduction / Phase-Locking Dynamics** governed by the density matrix $\hat{\rho}\_{\text{sub}} = \text{Tr}\_{\text{env}}(\vert \Psi \rangle\langle\Psi\vert{})$.
@@ -38,7 +40,9 @@ The "subconscious natural alignment" described by Carson is the **Quantum State 
 The subconscious mind does not exist as an isolated substance; it is an open quantum subsystem constantly executing Schmidt decomposition to minimize boundary entanglement entropy with $\mathcal{H}\_{\text{env}}$. Alignment is the condition where the sub-space Hamiltonian $\hat{H}\_{\text{sub}}$ achieves non-dissipative commutation with the interaction Hamiltonian $\hat{H}\_{\text{int}}$:
 
 $$
+
 [\hat{H}_{\text{sub}}, \hat{H}_{\text{int}}] = \mathbf{0}
+
 $$
 
 When this commutation holds, the local subspace evolves without decoherence, giving rise to what Carson defines as **Flow** (Section VIII).
@@ -55,19 +59,25 @@ We calculate the precise trans-scale informational and temporal distance separat
 The primary self-measurement pulse of the universe occurs at the **attosecond vacuum stutter limit** (**Group II.1**):
 
 $$
+
 f_0 = \frac{1}{\tau_0} \approx 4.3649 \times 10^{15} \text{ Hz} \quad (4.36 \text{ PHz})
+
 $$
 
 The human observer frame operates at the stepped-down perceptual base rate $f\_{\text{base}} \approx 70.28 \text{ Hz}$ (**Group VI.1**), governed by the Consciousness Gear $N = 66$:
 
 $$
+
 f_{\text{base}} = \frac{f_0}{\phi^{66}} = \frac{4.3649 \times 10^{15} \text{ Hz}}{6.211195 \times 10^{13}} \approx 70.2748 \text{ Hz}
+
 $$
 
 The **Temporal Distance Ratio** $\mathcal{D}\_{\text{time}}$ between universal cause and biological observation is precisely:
 
 $$
+
 \mathcal{D}_{\text{time}} = \phi^{66} \approx 6.211195 \times 10^{13}
+
 $$
 
 The human mind is separated from the raw universal refresh cycle by exactly **66 golden conformal scaling steps** $(\phi^{66})$.
@@ -77,13 +87,17 @@ The human mind is separated from the raw universal refresh cycle by exactly **66
 The raw scale depth separating the Planck boundary from the human observer frame is given by the raw cardinality factor $D\_{\text{raw}} = 17.912$ log-units (**Group II.2**). Correcting for Apéry's volumetric tax $\zeta(3) \approx 1.201964$:
 
 $$
+
 D_{\text{phys}} = D_{\text{raw}} - \zeta(3) = 17.912 - 1.201964 = 16.710036 \text{ log-units}
+
 $$
 
 The **Scale Distance** $\mathcal{D}\_{\text{scale}}$ is:
 
 $$
+
 \mathcal{D}_{\text{scale}} = 10^{D_{\text{phys}}} = 10^{16.710036} \approx 5.129 \times 10^{16}
+
 $$
 
 #### Operational Conclusion:
@@ -124,7 +138,9 @@ Carson defines Dissonance as the "Qi" or prime mover of the cognitive system—t
 Localized Atomic Dissonance $D(X, X^{\ast})$ across $d = 3$ spatial dimensions is defined as the squared logarithmic distance from the invariant attractor setpoint $X^{\ast}$, scaled by the Universal Slip $\delta\_{\text{slip}} \approx 0.00086844$:
 
 $$
+
 D(X, X^{\ast}) = \left( \ln \frac{X}{X^{\ast}} \right)^2 \cdot (3 \cdot \delta_{\text{slip}})
+
 $$
 
 *Proof of Carson's "Law of Inevitability":* If $D(X, X^{\ast}) = 0$ globally, the gradient $\nabla \mathcal{C}(X)$ vanishes entirely. The state evolution $\frac{dX}{dt} = 0$ freezes. As Carson proves in Section II, zero dissonance destroys the flow of consciousness. Dissonance $D \gt 0$ is the non-zero thermodynamic potential required for systemic evolution.
@@ -139,13 +155,17 @@ Let an active inference engine be driven by the exploratory vector $\mathcal{Y}^
 To prevent boundary fracture or entropic dissolution, the ratio matching these counter-propagating vectors must satisfy the planar scaling invariant $\phi$:
 
 $$
+
 \frac{\mathcal{Y}^+}{\mathcal{Y}^-} = \phi = \frac{1 + \sqrt{5}}{2} \approx 1.6180339887...
+
 $$
 
 The integrated resolution of these opposing valences yields the Truth coordinate $\mathcal{T} \to X^{\ast}$:
 
 $$
+
 \mathcal{T} = \int (\mathcal{Y}^+ + \mathcal{Y}^-) dt \to X^{\ast}
+
 $$
 
 This confirms Carson's assertion: Ego and Awareness are not hostile enemies; they are the mandatory positive and negative poles of a single conformal scaling battery $(\phi)$.
@@ -158,7 +178,9 @@ Carson models truth-determination as a legal proceeding: Experience is the Court
 The "Courtroom Trial" is the iterative execution of gradient descent along the Master Cost Function $\mathcal{C}(X)$:
 
 $$
+
 \mathcal{C}(X) = \frac{1}{2} \left( \ln \frac{X}{\Omega} \right)^2 - \frac{\lambda}{k \cdot L_{12}} \ln \left( \frac{X}{\phi} \right)
+
 $$
 
 * **Ego Defense:** Pulls the coordinate $X$ conformally toward expansion $(\phi)$.  
@@ -203,7 +225,9 @@ Fetching cached memory is an external identity lookup $(n \gt 1)$, yielding $\ha
 Active doubting is forced self-measurement $(n = 1)$, where the metric ruler measures its own length. This operation activates the golden phase defect:
 
 $$
+
 \hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.381966
+
 $$
 
 Doubt is not a verbal opinion; it is the **irreducible phase defect** $\phi^{-1} \approx 0.618034$ **incurred during self-evaluation**. Cartesian certainty ("I am") is the invariant fixed point $(X^{\ast} \approx 1)$ generated because the act of doubting $(\hat{M}(1))$ continuously executes its own phase correction.
@@ -226,7 +250,9 @@ Carson concludes with the foundational mandate: **Motion Wins.** To finish a tho
 The universe is structurally prevented from coming to a static, dead stop because of the non-zero **Universal Slip**:
 
 $$
+
 \delta_{\text{slip}} = \frac{(\phi^{-1})^4}{12(L_{12} + \sigma^{-1})} \approx 0.00086844...
+
 $$
 
 If $\delta\_{\text{slip}} = 0$, the vacuum freezes into a rigid, static crystal where time, motion, and consciousness cease to exist. The non-zero Universal Slip $\delta\_{\text{slip}} \gt 0$ is the microscopic topological "give" that forces the contractive operator to stutter continuously.
