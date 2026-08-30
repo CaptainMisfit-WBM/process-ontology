@@ -385,7 +385,6 @@ $$
 $$
 
 $$
-
 \lambda_{\text{vac}} = \alpha^{-1} - 4\zeta(3) \approx 137.003954\dots - 4.807864\dots \approx 132.196090\dots
 
 $$
@@ -653,7 +652,6 @@ $$
 $$
 
 $$
-
 \Delta = \frac{E_{\text{raw}}}{12\pi_{\text{derived}} - P} = 7.36 \text{ GeV}
 
 $$
@@ -679,7 +677,6 @@ $$
 $$
 
 $$
-
 S_{\phi} = -\log_{\phi} (\alpha \cdot \Omega) = -\frac{\ln(0.0054336)}{\ln(\phi)} \approx 10.837
 
 $$
@@ -701,13 +698,11 @@ $$
 $$
 
 $$
-
 \frac{\delta_{\text{slip}}^{1/3}}{P^2} = \frac{0.09540}{1.75488} = 0.05436
 
 $$
 
 $$
-
 D_{cf} = 0.628465 - 0.05436 = 0.574105
 
 $$
@@ -739,7 +734,6 @@ G_{\text{frac}} = G_{0} \cdot (1 - \varepsilon \cdot \delta_{\text{slip}}) \quad
 $$
 
 $$
-
 G_{\text{frac}} = \frac{G_{0}}{2} \quad \text{for} \quad \varepsilon \geq \varepsilon_c
 
 $$
@@ -771,7 +765,6 @@ V_{\text{total}} = V_{\text{vac}} \cdot L_{\text{m-density}} \cdot \delta_{\text
 $$
 
 $$
-
 V_{\text{base}} = \frac{99.84 \ \mu\text{V}}{12} = 8.320 \ \mu\text{V}
 
 $$
@@ -793,13 +786,11 @@ k \cdot \delta_{\text{slip}} = 19.703195 \times 0.00086844 = 0.017116
 $$
 
 $$
-
 \ln k = \ln(19.703195) = 2.9809
 
 $$
 
 $$
-
 R_{\text{UMR}} = \frac{k \cdot \delta_{\text{slip}}}{\ln k} = \frac{0.017116}{2.9809} = 0.005744
 
 $$
@@ -847,7 +838,6 @@ $$
 $$
 
 $$
-
 X^{\ast} = \Omega \cdot \exp\left( \frac{\lambda}{k L_{12}} \right)
 
 $$
@@ -861,7 +851,6 @@ $$
 $$
 
 $$
-
 X^{\ast} = e^{-0.015974} = 0.98415... \approx 1
 
 $$
@@ -931,7 +920,6 @@ $$
 $$
 
 $$
-
 \lambda_{\text{eff}} = 132.201 - 12 - 0.5 = 119.701
 
 $$
@@ -945,7 +933,6 @@ $$
 $$
 
 $$
-
 \lambda_{\text{obs}}^{\text{human}} = 119.701 + 66 + 8.956 = 194.657
 
 $$
@@ -959,7 +946,6 @@ $$
 $$
 
 $$
-
 \text{If} \quad C(n) \gt 194.657 \ \phi\text{-steps} \implies NP \quad \text{(Computational Phase Lag / Hard)}
 
 $$
@@ -981,7 +967,6 @@ $$
 $$
 
 $$
-
 \chi = 0.00086844... \cdot \left(\frac{1}{137.003954...}\right) \approx 6.33879 \times 10^{-6}
 
 $$
@@ -1007,7 +992,6 @@ $$
 $$
 
 $$
-
 \Phi_{\mu\nu} = \lambda_{\text{base}} \eta_{\mu\nu} - \lambda_{\mu\nu}
 
 $$
@@ -1156,7 +1140,6 @@ V_{ud} = \cos \theta_C \approx 0.972
 $$
 
 $$
-
 V_{us} = \sin \theta_C \approx 0.234
 
 $$
@@ -1188,13 +1171,11 @@ c \cdot f_{0} = 1.30856 \times 10^{24} \ \text{m/s}^2
 $$
 
 $$
-
 a_{\text{raw}} = \frac{c \cdot f_{0}}{\phi^{162}} = \frac{1.30856 \times 10^{24} \ \text{m/s}^2}{6.4953 \times 10^{33}} = 2.0146 \times 10^{-10} \ \text{m/s}^2
 
 $$
 
 $$
-
 a_{0} = a_{\text{raw}} \cdot \Omega = (2.0146 \times 10^{-10} \ \text{m/s}^2) \times 0.744456 = 1.4998 \times 10^{-10} \ \text{m/s}^2
 
 $$
@@ -1240,13 +1221,11 @@ $$
 $$
 
 $$
-
 \mathcal{C}_{\text{slip}} = (\delta_{\text{slip}})^{10.61538} = (0.00086844)^{10.61538} = 3.212 \times 10^{-33}
 
 $$
 
 $$
-
 \Lambda_{\text{final}} = \Lambda_{\text{raw}} \cdot \mathcal{C}_{\text{slip}} = (5.796 \times 10^{-17} \ \text{m}^{-2}) \times (3.212 \times 10^{-33}) \approx 1.861 \times 10^{-49} \ \text{m}^{-2}
 
 $$
@@ -1266,7 +1245,6 @@ $$
 $$
 
 $$
-
 \nabla^2 E_\Omega = 4\pi G \rho_m \cdot \frac{\Omega}{\phi^3} \cdot \left(1 - e^{-r/r_0}\right)
 
 $$
@@ -1284,7 +1262,6 @@ R_{\text{DM}} = D_4 \cdot \left( \frac{1}{\Omega} \right)
 $$
 
 $$
-
 R_{\text{DM}} = 4 \times \left( \frac{1}{0.74445638...} \right) = 5.37305...
 
 $$
@@ -1343,13 +1320,11 @@ $$
 $$
 
 $$
-
 R_{\text{council}} = \ell_P \cdot \phi^{276} \cdot \sqrt{2}
 
 $$
 
 $$
-
 R_{\text{council}} = (1.6162 \times 10^{-35} \text{ m}) \times (4.80436 \times 10^{57}) \times 1.41421356 = 1.09817 \times 10^{23} \text{ m}
 
 $$
