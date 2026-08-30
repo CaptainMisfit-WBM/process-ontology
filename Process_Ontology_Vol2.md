@@ -510,9 +510,16 @@ In Karl Friston's Free Energy Principle, biological networks minimize variationa
 This derivation demonstrates that gravity is not a fundamental pulling force, but an emergent macroscopic synchronization cadence $(f_{G} \approx 71.05 \text{ Hz})$. It functions as the global pacemaker that keeps continuous matter field states synchronized with the discrete, high-frequency recursive updates of the vacuum manifold.  
 The gravitational carrier frequency is derived by gearing down the fundamental vacuum stutter frequency $(f_{0})$ through the 66th Consciousness Gear, then phase-shifting the resulting baseline frame by the ratio matching the total interactive plasticity $(\delta_{p})$ to the symmetry-locked integrity floor $(\Omega \cdot \phi)$:
 
+$$
+f_{\text{base}} = \frac{f_{0}}{\phi^{66}} \approx 70.44 \text{ Hz}
+$$
 
 $$
-f_{\text{base}} = \frac{f_{0}}{\phi^{66}} \approx 70.44 \text{ Hz}$$\text{Phase-Shift Factor} = 1 \+ \frac{\delta_{p}}{\Omega \cdot \phi} = 1 \+ \frac{0.010421\dots}{0.744456\dots \times 1.618034\dots} \approx 1.008651$$f_{G} = f_{\text{base}} \times 1.008651 = 70.44 \text{ Hz} \times 1.008651 \approx 71.05 \text{ Hz}
+\text{Phase-Shift Factor} = 1 + \frac{\delta_{p}}{\Omega \cdot \phi} = 1 + \frac{0.010421\dots}{0.744456\dots \times 1.618034\dots} \approx 1.008651
+$$
+
+$$
+f_{G} = f_{\text{base}} \times 1.008651 = 70.44 \text{ Hz} \times 1.008651 \approx 71.05 \text{ Hz}
 $$
 
 Modern physics remains deeply divided by the cosmological "Problem of Time": General Relativity treats gravity as a smooth, deterministic manifestation of spacetime curvature governed by the stress-energy tensor $(T_{\mu\nu})$, while quantum mechanics treats all interactions as discrete, probabilistic field exchanges mediated by a hypothetical spin-2 graviton.  
