@@ -19,27 +19,27 @@ In an uncoupled empirical model, an investigator can independently tune N free p
 
 The structural hierarchy flows deterministically from these foundational roots:
 
-> * The primary geometric inputs ($\phi$, $P$, $\sigma$) establish the Universal Phase Slip $(\delta_{\text{slip}} \approx 0.00086844)$.  
+> * The primary geometric inputs ($\phi$, $P$, $\sigma$) establish the Universal Phase Slip $(\delta\_{\text{slip}} \approx 0.00086844)$.  
 > * The Universal Phase Slip constrains the Vacuum Integrity Threshold $(\Omega \approx 0.744456)$.  
 > * The Vacuum Integrity Threshold recalibrates the fine-structure constant $(\alpha^{-1} \approx 137.035999)$.  
-> * The fine-structure constant fixes the cosmological dark matter ratio $(R_{\text{DM}} \approx 5.373)$.  
+> * The fine-structure constant fixes the cosmological dark matter ratio $(R\_{\text{DM}} \approx 5.373)$.  
 > * The dark matter ratio dictates the Yang-Mills mass gap $(\Delta \approx 7.36\text{ GeV})$.  
-> * The mass gap anchors biological and neurodynamic invariants, including the sleep spindle recalibration frequency $(f_{\text{spindle}} \approx 14.11\text{ Hz})$ and the stop codon allocation ratio $(R_{\text{stop}} \approx 0.046875)$.
+> * The mass gap anchors biological and neurodynamic invariants, including the sleep spindle recalibration frequency $(f\_{\text{spindle}} \approx 14.11\text{ Hz})$ and the stop codon allocation ratio $(R\_{\text{stop}} \approx 0.046875)$.
 
-Because these foundational roots constrain the entire system, individual constants cannot be adjusted independently. Modifying $\phi$ systematically shifts $\delta_{\text{slip}}$, which recalibrates $\Omega$, altering $\alpha^{-1}$, $R_{\text{DM}}$, $\Delta$, $f_{\text{spindle}}$, and $R_{\text{stop}}$ across all twelve operational domains.
+Because these foundational roots constrain the entire system, individual constants cannot be adjusted independently. Modifying $\phi$ systematically shifts $\delta\_{\text{slip}}$, which recalibrates $\Omega$, altering $\alpha^{-1}$, $R\_{\text{DM}}$, $\Delta$, $f\_{\text{spindle}}$, and $R\_{\text{stop}}$ across all twelve operational domains.
 
 ### Mathematical Proof of Interconnection and Joint Probabilities
 
-Let $C = \{c_1, c_2, \dots, c_{12}\}$ denote the set of derived physical and biological constants, and let $E = \{e_1, e_2, \dots, e_{12}\}$ denote the corresponding set of independent empirical measurements.  
+Let $C = \{c\_1, c\_2, \dots, c\_{12}\}$ denote the set of derived physical and biological constants, and let $E = \{e\_1, e\_2, \dots, e\_{12}\}$ denote the corresponding set of independent empirical measurements.  
 $$
 P(\text{Match}) = \prod_{i=1}^{12} P(\vert c_i - e_i \vert < \epsilon_i)
 $$
-Assuming a conservative 1\% probability $(P_i = 0.01)$ of matching each empirical target by stochastic coincidence within experimental uncertainty, the combined probability across twelve independent domains is:  
+Assuming a conservative 1\% probability $(P\_i = 0.01)$ of matching each empirical target by stochastic coincidence within experimental uncertainty, the combined probability across twelve independent domains is:  
 $$
 P(\text{Match}) = (0.01)^{12} = 10^{-24}
 $$
 This represents a probability of less than one in a septillion.  
-Because Process Ontology derives all twelve constants from a closed system of interlocking geometric equations with zero free parameters, the system's degrees of freedom are restricted to $\text{d.o.f.} = 0$. The constants are bound by strict functional dependencies $c_i = f_i(\phi, P, \sigma)$. Consequently, the likelihood that a single geometric manifold simultaneously solves a system of twelve interlocking non-linear equations across sub-atomic, condensed matter, biological, neurodynamic, and cosmological scales without parameter tuning is bounded below $10^{-24}$. This mathematical constraint demonstrates that the framework is a fully deductive geometric system validated by empirical observation.
+Because Process Ontology derives all twelve constants from a closed system of interlocking geometric equations with zero free parameters, the system's degrees of freedom are restricted to $\text{d.o.f.} = 0$. The constants are bound by strict functional dependencies $c\_i = f\_i(\phi, P, \sigma)$. Consequently, the likelihood that a single geometric manifold simultaneously solves a system of twelve interlocking non-linear equations across sub-atomic, condensed matter, biological, neurodynamic, and cosmological scales without parameter tuning is bounded below $10^{-24}$. This mathematical constraint demonstrates that the framework is a fully deductive geometric system validated by empirical observation.
 
 ## 2. Astrophysical and Cosmological Validation
 
@@ -48,7 +48,7 @@ The cosmological framework of Process Ontology addresses observational anomalies
 ### Early Massive Galaxy Formation and JWST Observations
 
 Standard $\Lambda\text{CDM}$ cosmology models structure formation via hierarchical clustering of cold dark matter particles, predicting a gradual assembly of massive galaxies over billions of years. However, high-redshift observations from the James Webb Space Telescope (JWST) have uncovered an overdense population of ultra-massive galaxies, fully formed supermassive black holes, and compact "Little Red Dots" at extreme redshifts $(z \gt 7\text{--}10)$, corresponding to an era when the universe was under 500 million years old.  
-Process Ontology accounts for this rapid assembly through the Vacuum Tension Field $(E_\Omega)$, which operates as a non-local tensor potential:  
+Process Ontology accounts for this rapid assembly through the Vacuum Tension Field $(E\_\Omega)$, which operates as a non-local tensor potential:  
 $$
 \nabla^2 E_\Omega = 4\pi G \rho_m \cdot \frac{\Omega}{\phi^3} \cdot \left(1 - e^{-r/r_0}\right)
 $$
@@ -56,7 +56,7 @@ In the early universe, where local matter and radiation densities were highly co
 
 ### The Cosmological Dark Matter Ratio $(R\_\text{DM})$
 
-Process Ontology models dark matter not as an undetected particle species, but as the geometric boundary tension required to preserve organizational closure in rotating galactic systems. The theoretical dark matter-to-baryonic matter ratio $(R_{\text{DM}})$ is derived from the dimensional footprint of the 4D spacetime continuum $(D_4 = 4)$ scaled by the inverse of the Vacuum Integrity Threshold $(\Omega \approx 0.74445638)$:  
+Process Ontology models dark matter not as an undetected particle species, but as the geometric boundary tension required to preserve organizational closure in rotating galactic systems. The theoretical dark matter-to-baryonic matter ratio $(R\_{\text{DM}})$ is derived from the dimensional footprint of the 4D spacetime continuum $(D\_4 = 4)$ scaled by the inverse of the Vacuum Integrity Threshold $(\Omega \approx 0.74445638)$:  
 $$
 R_\text{DM} = D_4 \cdot \left(\frac{1}{\Omega}\right) = 4 \cdot \left(\frac{1}{0.74445638\dots}\right) \approx 5.37305
 $$
@@ -68,16 +68,16 @@ The theoretical derivation of 5.373 matches the observational benchmark within a
 
 ### The Hubble Tension and Bimetric Screening $(H\_0)$
 
-The 5\sigma tension between early-universe Cosmic Microwave Background (CMB) measurements $(H_0 \approx 67.4\text{ km/s/Mpc})$ and local distance ladder measurements $(H_0 \approx 73.0\text{--}75.8\text{ km/s/Mpc})$ is resolved through bimetric screening. The effective gravitational coupling $G_e(z)$ scales dynamically across coordinate horizons:  
+The 5\sigma tension between early-universe Cosmic Microwave Background (CMB) measurements $(H\_0 \approx 67.4\text{ km/s/Mpc})$ and local distance ladder measurements $(H\_0 \approx 73.0\text{--}75.8\text{ km/s/Mpc})$ is resolved through bimetric screening. The effective gravitational coupling $G\_e(z)$ scales dynamically across coordinate horizons:  
 $$
 G_e(z) = G_0 \left(1 + \delta_p \cdot e^{-z/z_0}\right)
 $$
-where $\delta_p \approx 0.01042128$ represents the Total Plasticity of the manifold. High-resolution near-infrared JWST observations targeting Cepheid variables and Tip of the Red Giant Branch (TRGB) stars have mitigated stellar crowding effects, confirming a local expansion rate of $H_0 \approx 72.6\text{--}75.8\text{ km/s/Mpc}$ and ruling out Hubble Space Telescope (HST) background crowding artifacts at >7\sigma confidence.  
-The screening transition scale $z_0$ corresponds to the boundary of the Local Sanctuary Radius ($$R_{\text{council}} \approx 3.56\text{ Mpc}$$), derived from the 276th scaling gear $(\ell_P \cdot \phi^{276} \cdot \sqrt{2})$. Inside this local boundary, gravity is screened to $$G_0$$, preserving primordial Big Bang Nucleosynthesis (BBN) element abundances. Outside this sanctuary, effective gravity steps up by the manifold plasticity $(\delta_p \approx 1.04\%)$, driving the observed expansion offset.
+where $\delta\_p \approx 0.01042128$ represents the Total Plasticity of the manifold. High-resolution near-infrared JWST observations targeting Cepheid variables and Tip of the Red Giant Branch (TRGB) stars have mitigated stellar crowding effects, confirming a local expansion rate of $H\_0 \approx 72.6\text{--}75.8\text{ km/s/Mpc}$ and ruling out Hubble Space Telescope (HST) background crowding artifacts at >7\sigma confidence.  
+The screening transition scale $z\_0$ corresponds to the boundary of the Local Sanctuary Radius ($$R_{\text{council}} \approx 3.56\text{ Mpc}$$), derived from the 276th scaling gear $(\ell\_P \cdot \phi^{276} \cdot \sqrt{2})$. Inside this local boundary, gravity is screened to $$G_0$$, preserving primordial Big Bang Nucleosynthesis (BBN) element abundances. Outside this sanctuary, effective gravity steps up by the manifold plasticity $(\delta\_p \approx 1.04\%)$, driving the observed expansion offset.
 
 ### Galactic Acceleration Floor $(a\_0)$
 
-Modified Newtonian Dynamics (MOND) posits an empirical acceleration threshold $(a_0 \approx 1.2 \text{time}s 10^{-10}\text{ m/s}^2)$ below which galaxy rotation curves flatten. Process Ontology derives this acceleration floor as the Identity Maintenance Energy $(a_0)$, representing the idling rate of the vacuum across the 162nd conformal galactic gear $(\phi^{162})$:  
+Modified Newtonian Dynamics (MOND) posits an empirical acceleration threshold $(a\_0 \approx 1.2 \text{time}s 10^{-10}\text{ m/s}^2)$ below which galaxy rotation curves flatten. Process Ontology derives this acceleration floor as the Identity Maintenance Energy $(a\_0)$, representing the idling rate of the vacuum across the 162nd conformal galactic gear $(\phi^{162})$:  
 $$
 a_0 = \frac{c \cdot f_0}{\phi^{162}} \cdot \Omega = \frac{(2.9979 \text{time}s 10^8\text{ m/s}) \text{time}s (4.3649 \text{time}s 10^{15}\text{ Hz})}{6.4953 \text{time}s 10^{33}} \cdot 0.744456 \approx 1.50 \text{time}s 10^{-10}\text{ m/s}^2
 $$
@@ -109,12 +109,12 @@ Spectroscopic measurements confirmed the emergence of a temporal bandgap mediate
 
 ### Strained Gold Nanowire Transport and the Gold Chain Paradox
 
-Under mechanical strain, monoatomic gold chains dimerize when stretched past a critical threshold $(\varepsilon_c \approx 0.8125)$. Process Ontology predicts that electrical conductance must step down to a fractional plateau governed by the Axis of Silence:  
+Under mechanical strain, monoatomic gold chains dimerize when stretched past a critical threshold $(\varepsilon\_c \approx 0.8125)$. Process Ontology predicts that electrical conductance must step down to a fractional plateau governed by the Axis of Silence:  
 $$
 G_{\text{frac}} = \frac{G_0}{2} \quad \text{for } \varepsilon \ge \varepsilon_c
 $$
-In ultra-high vacuum transmission electron microscopy (TEM) experiments, unshielded gold chains exhibit an anomalous conductance drop to $0.13 G_0$ prior to breaking. Macedonia's analysis resolved this discrepancy by demonstrating that in an unshielded vacuum, the 6s valence electrons of gold atoms hybridize with undercoordinated bulk 5d electrode bands, creating an unshielded "dissonance drain" that breaks the $\sigma = 1/2$ symmetry.  
-When the nanowire junction is exposed to light molecular adsorbates (such as $\text{CO}$ or $\text{H}_2$), these molecules form a protective chemical boundary. This shielding insulates the 6s conduction channel, suppressing 5d hybridization and allowing the system to lock to the $\sigma = 1/2$ axis. Under these shielded conditions, the predicted $0.5 G_0$ conductance plateau manifests consistently in laboratory trials.
+In ultra-high vacuum transmission electron microscopy (TEM) experiments, unshielded gold chains exhibit an anomalous conductance drop to $0.13 G\_0$ prior to breaking. Macedonia's analysis resolved this discrepancy by demonstrating that in an unshielded vacuum, the 6s valence electrons of gold atoms hybridize with undercoordinated bulk 5d electrode bands, creating an unshielded "dissonance drain" that breaks the $\sigma = 1/2$ symmetry.  
+When the nanowire junction is exposed to light molecular adsorbates (such as $\text{CO}$ or $\text{H}\_2$), these molecules form a protective chemical boundary. This shielding insulates the 6s conduction channel, suppressing 5d hybridization and allowing the system to lock to the $\sigma = 1/2$ axis. Under these shielded conditions, the predicted $0.5 G\_0$ conductance plateau manifests consistently in laboratory trials.
 
 ### The Yang-Mills Mass Gap $(\Delta)$
 
@@ -131,7 +131,7 @@ This value establishes the non-linear energy floor governing hadronic bound stat
 Standard molecular biology treats the allocation of 3 stop codons out of 64 triplets ($\text{UAA}$, $\text{UAG}$, $\text{UGA}$) in the universal genetic code as a frozen evolutionary accident. Process Ontology derives this ratio from the topological boundary friction accumulated when translating 2D planar template information $(\phi^2)$ into folded 3D volumetric proteins $(P)$:  
 $$\Delta_{\text{dim}} = \phi^2 - P = 2.618034 - 1.324718 = 1.293316
 $$
-Normalizing this dimensional gap over the 3D toroidal synthesis volume $(\phi^3 \cdot 2\pi_{\text{derived}})$ and subtracting the double dimensional slip tax $(2\delta_{\text{slip}})$ yields:
+Normalizing this dimensional gap over the 3D toroidal synthesis volume $(\phi^3 \cdot 2\pi\_{\text{derived}})$ and subtracting the double dimensional slip tax $(2\delta\_{\text{slip}})$ yields:
 $$
 R_{\text{ideal}} = \frac{1.293316}{4.236068 \cdot 6.282804} - 2(0.00086844) = 0.048594 - 0.001737 = 0.046857
 $$
@@ -144,7 +144,7 @@ The derived value matches the biological ratio within a relative variance of 0.0
 ### Sleep Spindle Recalibration Frequency $(f\_{\text{spindle}})$
 
 During Stage 2 Non-Rapid Eye Movement (NREM) sleep, the brain generates centro-parietal sleep spindles to consolidate memory and recalibrate neural networks. Process Ontology models sleep as a Scheduled Information Liquidation Protocol that purges accumulated path-dissonance.  
-The spindle frequency $(f_{\text{spindle}})$ is derived by filtering the core gravitational carrier frequency ($$f_G \approx 70.88\text{ Hz}$$) through the Vacuum Integrity Threshold $(\Omega)$, scaling by the natural bit ($$\ln 2$$), and adjusting for planar area scaling ($$\phi^2$$) and total plasticity ($$\delta_p$$):
+The spindle frequency $(f\_{\text{spindle}})$ is derived by filtering the core gravitational carrier frequency ($$f_G \approx 70.88\text{ Hz}$$) through the Vacuum Integrity Threshold $(\Omega)$, scaling by the natural bit ($$\ln 2$$), and adjusting for planar area scaling ($$\phi^2$$) and total plasticity ($$\delta_p$$):
 $$
 f_{\text{spindle}} = \frac{f_G \cdot \Omega \cdot \ln 2}{\phi^2} \cdot (1 + \delta_p) = \frac{70.88 \cdot 0.744456 \cdot 0.693147}{2.618034} \cdot (1 + 0.010421) \approx 14.11\text{ Hz}
 $$
@@ -152,7 +152,7 @@ Clinical EEG polysomnography places fast centro-parietal sleep spindles within a
 
 ### Macroscopic Electrical Ground State $(V\_{\text{base}})$
 
-The universal baseline noise floor detected across isolated electronic instruments and biological somatic tissues (\sim 10\ \mu\text{V}) is derived as the inductive footprint of the attosecond vacuum stutter $(f_0 pprox 4.36\text{ PHz})$ acting across the 12 structural dimensions $(L_{12})$:
+The universal baseline noise floor detected across isolated electronic instruments and biological somatic tissues (\sim 10\ \mu\text{V}) is derived as the inductive footprint of the attosecond vacuum stutter $(f\_0 pprox 4.36\text{ PHz})$ acting across the 12 structural dimensions $(L\_{12})$:
 $$
 V_{\text{base}} = \frac{\Phi_0 \cdot f_0 \cdot L_{\text{m-density}} \cdot \delta_{\text{slip}}}{12} = \frac{(2.0678 \text{time}s 10^{-15}) \cdot (4.3649 \text{time}s 10^{15}) \cdot (0.01274) \cdot (0.00086844)}{12} \approx 8.320\ \mu\text{V}
 $$
@@ -160,13 +160,13 @@ This value establishes that biological neural networks are phase-locked to a non
 
 ### Subjective Time Dilation and the SCAD Tower Experiment
 
-An empirical test of cognitive neurodynamics involves subjective time perception during acute trauma. The framework defines Cognitive Proper Time $(\tau_c)$ as:
+An empirical test of cognitive neurodynamics involves subjective time perception during acute trauma. The framework defines Cognitive Proper Time $(\tau\_c)$ as:
 $$
 \tau_c = \tau_{\text{base}} \cdot \left(1 + 0.0006845 \cdot D\right)
 $$
 where $D$ represents localized path-dissonance.  
 In experiments conducted by Stetson et al. (2007), subjects were dropped from a 31-meter SCAD tower in free-fall while wearing "Perceptual Chronometers" (LED displays flashing numbers near flicker-fusion thresholds). The experiments revealed that while retrospective duration estimates expanded by +36\%, real-time visual resolution showed zero performance enhancement.  
-Process Ontology resolves this result by clarifying that $\tau_c$ does not accelerate the visual hardware frame rate. Instead, elevated path-dissonance (D) increases retrospective memory-encoding density per attosecond update cycle. Upon retrospective recall, this hyper-saturated memory density creates the perception of expanded duration without requiring a visual frame-rate increase.
+Process Ontology resolves this result by clarifying that $\tau\_c$ does not accelerate the visual hardware frame rate. Instead, elevated path-dissonance (D) increases retrospective memory-encoding density per attosecond update cycle. Upon retrospective recall, this hyper-saturated memory density creates the perception of expanded duration without requiring a visual frame-rate increase.
 
 ## 5. Comprehensive Cross-Domain Quantitative Comparison
 
@@ -175,32 +175,32 @@ The following table summarizes the quantitative comparison between the values de
 | Parameter / Constant | Symbol | Process Ontology Derived Value | Empirical Target / Measurement | Primary Domain / Source | Variance / Precision |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Inverse Fine-Structure Constant** | $\alpha^{-1}$ | $137.035999143$ | $137.035999177(21)$ | QED / CODATA 2022 | $1.62\sigma$ agreement |
-| **Cosmological Dark Matter Ratio** | $R_{\text{DM}}$ | $5.373$ | $5.367 \pm 0.050$ | Astrophysics / Planck Satellite | $0.11\%$ relative variance |
-| **Local Expansion Rate** | $H_0$ | $75.8\text{ km/s/Mpc}$ | $72.6\text{--}75.8\text{ km/s/Mpc}$ | Cosmology / JWST SH0ES | Fits local distance ladder |
+| **Cosmological Dark Matter Ratio** | $R\_{\text{DM}}$ | $5.373$ | $5.367 \pm 0.050$ | Astrophysics / Planck Satellite | $0.11\%$ relative variance |
+| **Local Expansion Rate** | $H\_0$ | $75.8\text{ km/s/Mpc}$ | $72.6\text{--}75.8\text{ km/s/Mpc}$ | Cosmology / JWST SH0ES | Fits local distance ladder |
 | **Photonic Time Crystal Dissipation** | $\Delta\text{ Loss}$ | $ \gt 50\%$ Reduction | $ \gt 50\%$ Reduction | Quantum Optics / Guo et al. (2026) | Exact qualitative/quantitative match |
-| **MOND Acceleration Threshold** | $a_0$ | $1.50 \text{time}s 10^{-10}\text{ m/s}^2$ | $1.20 \text{time}s 10^{-10}\text{ m/s}^2$ | Galactic Dynamics / SPARC Data | Order-of-magnitude geometric match |
+| **MOND Acceleration Threshold** | $a\_0$ | $1.50 \text{time}s 10^{-10}\text{ m/s}^2$ | $1.20 \text{time}s 10^{-10}\text{ m/s}^2$ | Galactic Dynamics / SPARC Data | Order-of-magnitude geometric match |
 | **Yang-Mills Mass Gap** | $\Delta$ | $7.36\text{ GeV}$ | $7.0\text{--}7.5\text{ GeV}$ (Hadronic Spectrum) | Quantum Chromodynamics / QCD | Matches non-perturbative gap |
-| **Shielded Wire Conductance** | $G_{\text{frac}}$ | $0.50 G_0$ | $0.50 G_0$ ($\text{CO/H}_2$ Shielded) | Condensed Matter / TEM Studies | Exact symmetry match |
-| **Genetic Code Stop Codon Ratio** | $R_{\text{stop}}$ | $0.046857$ | $0.046875$ ($3/64$ Triplets) | Biophysics / Universal Genetic Code | $0.038\%$ relative variance |
-| **Sleep Spindle Peak Frequency** | $f_{\text{spindle}}$ | $14.11\text{ Hz}$ | $13.5\text{--}16.0\text{ Hz}$ | Neurodynamics / Clinical EEG | Falls inside clinical NREM band |
-| **Somatic Voltage Noise Floor** | $V_{\text{base}}$ | $8.320\ \mu\text{V}$ | $\sim 8.0\text{--}10.0\ \mu\text{V}$ | Electrophysiology / Metrology | Matches somatic telemetry |
-| **Interface Magnetoresistance Prefactor** | $R_{\text{UMR}}$ | $0.005744$ | $0.0055\text{--}0.0060$ | Spintronics / Interface Physics | Within experimental uncertainty |
-| **Universal Phase Slip** | $\delta_{\text{slip}}$ | $0.00086844$ | $0.0868\%$ (QED Loop Delta) | Field Theory / Geometric Friction | Testable predictions |
+| **Shielded Wire Conductance** | $G\_{\text{frac}}$ | $0.50 G\_0$ | $0.50 G\_0$ ($\text{CO/H}\_2$ Shielded) | Condensed Matter / TEM Studies | Exact symmetry match |
+| **Genetic Code Stop Codon Ratio** | $R\_{\text{stop}}$ | $0.046857$ | $0.046875$ ($3/64$ Triplets) | Biophysics / Universal Genetic Code | $0.038\%$ relative variance |
+| **Sleep Spindle Peak Frequency** | $f\_{\text{spindle}}$ | $14.11\text{ Hz}$ | $13.5\text{--}16.0\text{ Hz}$ | Neurodynamics / Clinical EEG | Falls inside clinical NREM band |
+| **Somatic Voltage Noise Floor** | $V\_{\text{base}}$ | $8.320\ \mu\text{V}$ | $\sim 8.0\text{--}10.0\ \mu\text{V}$ | Electrophysiology / Metrology | Matches somatic telemetry |
+| **Interface Magnetoresistance Prefactor** | $R\_{\text{UMR}}$ | $0.005744$ | $0.0055\text{--}0.0060$ | Spintronics / Interface Physics | Within experimental uncertainty |
+| **Universal Phase Slip** | $\delta\_{\text{slip}}$ | $0.00086844$ | $0.0868\%$ (QED Loop Delta) | Field Theory / Geometric Friction | Testable predictions |
 
 ## 6. Master Popperian Falsification Protocol
 
-To satisfy Karl Popper's criterion of empirical falsifiability, Process Ontology specifies explicit experimental conditions under which the framework would be invalidated. Because the model operates with zero free parameters, any statistically significant divergence outside the Universal Slip envelope $(\delta_{\text{slip}} \approx 0.0868\%)$ invalidates the core architecture.
+To satisfy Karl Popper's criterion of empirical falsifiability, Process Ontology specifies explicit experimental conditions under which the framework would be invalidated. Because the model operates with zero free parameters, any statistically significant divergence outside the Universal Slip envelope $(\delta\_{\text{slip}} \approx 0.0868\%)$ invalidates the core architecture.
 
 | Tested Parameter | Derived Value | Primary Empirical Target | Specific Falsification Hazard |
 | :---- | :---- | :---- | :---- |
 | **Fine-Structure Gradient** | $\frac{\Delta \alpha}{\alpha} = 4.60 \text{time}s 10^{-16}\text{ km}^{-1}$ | Space-based atomic clocks (e.g., SAGE mission) | Failure to detect an orbital altitude clock gradient in high-eccentricity orbits. |
-| **Dark Matter Sector** | $R_{\text{DM}}$ = 5.373 | Direct detection experiments (LZ, XENONnT, PICO) | Definitive discovery of a physical WIMP or axion particle carrying galaxy rotation mass. |
+| **Dark Matter Sector** | $R\_{\text{DM}}$ = 5.373 | Direct detection experiments (LZ, XENONnT, PICO) | Definitive discovery of a physical WIMP or axion particle carrying galaxy rotation mass. |
 | **Hubble Expansion Transition** | Bulk Flow at $d \gt 120\text{ Mpc}/h$ | Cosmicflows-4 / Large-scale structure surveys | Absence of predicted bulk-flow transition at scale $d \gt 120\text{ Mpc}/h$. |
 | **Early Cosmic Structure** | Rapid assembly $(z \gt 7\text{--}10)$ | High-redshift JWST deep field surveys | Conclusive proof that early high-$z$ galaxies assemble strictly via slow $\Lambda\text{CDM}$ particle accretion. |
 | **Photonic Time Crystals** | $\sigma$ = 1/2 (50\% Loss Cut) | THz Metamaterial Cavities (Guo et al. 2026) | Demonstration that temporal modulation cannot reduce optical dissipation. |
-| **Shielded Gold Chains** | $G_{\text{frac}} = 0.50 G_0$ | AC-HRTEM Conductance Measurements | Demonstration of clean, fully shielded monoatomic wire transport locking at $G \neq 0.5 G_0$. |
-| **Centro-Parietal Spindles** | $f_{\text{spindle}} = 14.11\text{ Hz}$ | High-density NREM Stage 2 EEG | Discovery that Stage 2 NREM spindle frequency shifts independently of the vacuum plasticity parameter $(\delta_p)$. |
-| **QED Digit Distribution** | Deviation $\delta_{\text{slip}} \approx 0.0868\%$ | Higher-order QED Feynman loop calculations | Absolute, un-deviated adherence to standard Benford's Law in high-order QED loops. |
+| **Shielded Gold Chains** | $G\_{\text{frac}} = 0.50 G\_0$ | AC-HRTEM Conductance Measurements | Demonstration of clean, fully shielded monoatomic wire transport locking at $G \neq 0.5 G\_0$. |
+| **Centro-Parietal Spindles** | $f\_{\text{spindle}} = 14.11\text{ Hz}$ | High-density NREM Stage 2 EEG | Discovery that Stage 2 NREM spindle frequency shifts independently of the vacuum plasticity parameter $(\delta\_p)$. |
+| **QED Digit Distribution** | Deviation $\delta\_{\text{slip}} \approx 0.0868\%$ | Higher-order QED Feynman loop calculations | Absolute, un-deviated adherence to standard Benford's Law in high-order QED loops. |
 
 ## 7. Conclusions
 

@@ -8,11 +8,11 @@ We prove that knowledge cannot achieve absolute foundational grounding within an
 
 ### 1. Introduction: The Standard Reading and Its Concealed Topology
 
-The standard reading of Gödel’s first incompleteness theorem (1931) proceeds as follows: any consistent formal system $F$ strong enough to encode basic arithmetic contains a sentence $G_F$ such that $G_F$ is true but unprovable within $F$. Traditional epistemology routinely interprets this as an exogenous limitation on formal calculi, concluding that mathematical truth inherently transcends formal provability.
+The standard reading of Gödel’s first incompleteness theorem (1931) proceeds as follows: any consistent formal system $F$ strong enough to encode basic arithmetic contains a sentence $G\_F$ such that $G\_F$ is true but unprovable within $F$. Traditional epistemology routinely interprets this as an exogenous limitation on formal calculi, concluding that mathematical truth inherently transcends formal provability.
 
 This standard reading conceals an unexamined architecture by assuming three key premises:
 
-1. That the observer who declares the truth of $G_F$ stands entirely outside the processing boundaries of $F$.
+1. That the observer who declares the truth of $G\_F$ stands entirely outside the processing boundaries of $F$.
 
 2. That the metalanguage from which this declaration of truth is issued functions as a transcendental vantage point exempt from the same structural constraints.
 
@@ -68,7 +68,7 @@ To map the interactions between these domains, we define the following structura
 
 * **A1 (First-Order Calculus):** All standard tautologies of classical first-order logic with equality.
 
-* **A2 (Credence Foundation):** Standard Kolmogorov axioms applied to the credence operator: $P(\phi) \in \[0,1\]$; $P(\top) = 1$; if $\vdash_\Omega \neg(\phi \wedge \psi)$, then $P(\phi \vee \psi) = P(\phi) + P(\psi)$.
+* **A2 (Credence Foundation):** Standard Kolmogorov axioms applied to the credence operator: $P(\phi) \in \[0,1\]$; $P(\top) = 1$; if $\vdash\_\Omega \neg(\phi \wedge \psi)$, then $P(\phi \vee \psi) = P(\phi) + P(\psi)$.
 
 * **A3 (Provability Conditions):** Standard Hilbert-Bernays-Löb derivability conditions:
 
@@ -140,17 +140,17 @@ $$
 
 ### 7. The Two-Room Architecture and Its Dissolution
 
-The standard defense of Gödelian consistency is architectural. Logicians split the world into two separate rooms: the Object Language $(L_1)$ and the Metalanguage $(L_2)$. In the first room, the system is "honest but ignorant"; in the second, the observer declares truths the system cannot prove. This stratification is what protects the standard reading from immediate collapse.
+The standard defense of Gödelian consistency is architectural. Logicians split the world into two separate rooms: the Object Language $(L\_1)$ and the Metalanguage $(L\_2)$. In the first room, the system is "honest but ignorant"; in the second, the observer declares truths the system cannot prove. This stratification is what protects the standard reading from immediate collapse.
 
 #### 7.1 The Collapse of the Hierarchy
 
-The stability of this architecture relies entirely on a post-hoc boundary condition: the fiat that $L_2$ cannot self-refer. This boundary is untenable for any internal observer who wants to know—rather than merely calculate—within the system.
+The stability of this architecture relies entirely on a post-hoc boundary condition: the fiat that $L\_2$ cannot self-refer. This boundary is untenable for any internal observer who wants to know—rather than merely calculate—within the system.
 
-To use a physical metaphor: traditional foundationalism treats a burning building by arguing that the way to escape the fire is simply to move everyone up one floor at a time. The ground floor $(L_1)$ is engulfed by the fire of self-referential paradox. The logician evacuates the tenants to the second floor $(L_2)$, declaring them safe because the fire has not yet climbed the stairs. But this vertical escape is an illusion. The staircase itself is part of the same structure. The fire is not a localized incident on the ground floor; it is a thermodynamic property of the building’s architecture.
+To use a physical metaphor: traditional foundationalism treats a burning building by arguing that the way to escape the fire is simply to move everyone up one floor at a time. The ground floor $(L\_1)$ is engulfed by the fire of self-referential paradox. The logician evacuates the tenants to the second floor $(L\_2)$, declaring them safe because the fire has not yet climbed the stairs. But this vertical escape is an illusion. The staircase itself is part of the same structure. The fire is not a localized incident on the ground floor; it is a thermodynamic property of the building’s architecture.
 
-Let $T = L_1 \cup L_2$ be the Total System—the entire architecture of the Knower. $T$ must contain both the machinery of $L_1$ (to calculate) and the machinery of $L_2$ (to verify). Once $T$ exists, the distinction between $L_1$ and $L_2$ becomes an internal partition. By Lemma 1, any sufficiently expressive $T$ can construct a cross-partition sentence spanning this divide.
+Let $T = L\_1 \cup L\_2$ be the Total System—the entire architecture of the Knower. $T$ must contain both the machinery of $L\_1$ (to calculate) and the machinery of $L\_2$ (to verify). Once $T$ exists, the distinction between $L\_1$ and $L\_2$ becomes an internal partition. By Lemma 1, any sufficiently expressive $T$ can construct a cross-partition sentence spanning this divide.
 
-Applying diagonalization to $T$ for the formula $\neg\text{Tr}_T(x)$, there exists a sentence $K_T \longleftrightarrow \neg\text{Tr}_T(\ulcorner K_T \urcorner)$. If $T$ attempts to know itself by internalizing $K_T$, it becomes inconsistent. If it refuses, it remains blind to its own metalanguage. The separation into rooms is not a solution; it is a temporary defense mechanism that fails the moment a system attempts complete self-knowledge. As Wittgenstein observed: at some point justification runs out, and action takes over. The metalanguage is that action—a practice, not a proof.
+Applying diagonalization to $T$ for the formula $\neg\text{Tr}\_T(x)$, there exists a sentence $K\_T \longleftrightarrow \neg\text{Tr}\_T(\ulcorner K\_T \urcorner)$. If $T$ attempts to know itself by internalizing $K\_T$, it becomes inconsistent. If it refuses, it remains blind to its own metalanguage. The separation into rooms is not a solution; it is a temporary defense mechanism that fails the moment a system attempts complete self-knowledge. As Wittgenstein observed: at some point justification runs out, and action takes over. The metalanguage is that action—a practice, not a proof.
 
 ### 8. Addressing the Self-Reference Problem: A Topological Constraint Demonstration
 
@@ -169,12 +169,12 @@ We define the positive account of our epistemic enterprise as **intersubjective 
 | Epistemic Dimension | Internalist Foundationalism | Relational Epistemology |
 | :---- | :---- | :---- |
 | **Epistemic Substrate** | Static, observer-independent content | Dynamic, enactive limit cycles |
-| **Systemic Boundary** | Transcendental stratification $(L_1 \rightarrow L_2)$ | Localized framework boundaries |
-| **Validation Metric** | Absolute foundational certainty | Intersubjective Verification Latch $(\Lambda_V)$ |
+| **Systemic Boundary** | Transcendental stratification $(L\_1 \rightarrow L\_2)$ | Localized framework boundaries |
+| **Validation Metric** | Absolute foundational certainty | Intersubjective Verification Latch $(\Lambda\_V)$ |
 | **Error Metric** | Categorical falsity | Path deviation / Systemic instability |
 | **Resolution Mode** | Infinite linear regress | Horizontal operational convergence |
 
-The cumulative probability of independent measurement systems converging on identical false coordinates approaches zero as the depth of cross-perspective validation increases. This phase-locked stability is an **intersubjective verification latch (** $\Lambda_V$ ). It provides a rigorous, reliable substitute for certainty without requiring an uncaused axiomatic foundation. Beings who cannot step outside the systems they inhabit cannot possess truth as a property; they can only inhabit the steady state of mutual relation.
+The cumulative probability of independent measurement systems converging on identical false coordinates approaches zero as the depth of cross-perspective validation increases. This phase-locked stability is an **intersubjective verification latch (** $\Lambda\_V$ ). It provides a rigorous, reliable substitute for certainty without requiring an uncaused axiomatic foundation. Beings who cannot step outside the systems they inhabit cannot possess truth as a property; they can only inhabit the steady state of mutual relation.
 
 ### 10. The Boundary Hypocrisy: An Epistemic Double Standard
 
