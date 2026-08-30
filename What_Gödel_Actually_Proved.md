@@ -106,7 +106,7 @@ $$
 K \longleftrightarrow \neg\text{Know}(\ulcorner K \urcorner)
 $$
 
-The sentence $K$ asserts: *"This trajectory cannot be relationally verified within the homeostatic setpoint of System $\Omega$."*
+The sentence $K$ asserts: "This trajectory cannot be relationally verified within the homeostatic setpoint of System Ω."
 
 ### 6. Main Theorem: The Impossibility of Absolute Foundational Closure
 
