@@ -216,7 +216,7 @@ Carson re-codes severe clinical character pathology (Narcissism) as blocked dyna
 * **Covert Narcissism:** Awareness-Dominant Stagnation $(\mu \to \infty)$. Insecurity is hyper-monitored but weaponized externally to control environmental variables rather than integrated internally.
 
 **Therapeutic Protocol:**  
-Healing is the restoration of the **Recursive Trial**. By re-establishing safe boundary conditions where the error ratio** $D / \Omega \lt 1$ **, the Meta-Regulation Process (**Group VI.3**) re-engages the** $N = 66$ **consciousness gear, allowing raw somatic guilt to be processed through the courtroom into**Humility** $(\mathcal{T} \to X^{\ast})$.
+Healing is the restoration of the **Recursive Trial**. By re-establishing safe boundary conditions where the error ratio $D / \Omega < 1$, the Meta-Regulation Process (**Group VI.3**) re-engages the $N = 66$ consciousness gear, allowing raw somatic guilt to be processed through the courtroom into **Humility** $(\mathcal{T} \to X^{\ast})$.
 
 ### 7. Section XVIII: The Ethics of Movement $\Longleftrightarrow$ Universal Slip Engine $\delta\_{\text{slip}}$
 
