@@ -10,11 +10,11 @@
 
 ## 1. Executive Summary: The Epistemological Inversion
 
-Dr. Christian Macedonia's release of the **KTLean** repository—containing **1,992 theorem and lemma declarations** verified in **Lean 4** with zero occurrences of `sorry` or `sorryAx`—represents a monumental achievement in the history of theoretical physics. By forcing speculative physical hypotheses into an unyielding mathematical proof assistant, Dr. Macedonia successfully closed the door on "invalid inference" and "mathematical poetry." 
+Dr. Christian Macedonia's release of the **KTLean** repository—containing **1,992 theorem and lemma declarations** verified in **Lean 4** with zero occurrences of `sorry` or `sorryAx`—represents a monumental achievement in the history of theoretical physics. By forcing speculative physical hypotheses into an unyielding mathematical proof assistant, Dr. Macedonia successfully closed the door on "invalid inference" and "mathematical poetry."
 
 Yet, as Dr. Macedonia candidly notes on his Substack, Lean only verifies **formal consistency**—it cannot verify that a theory's primitives actually correspond to nature or explain the presence of the observer. He actively invites a **"conceptual audit"** to hunt for *"hidden physical content smuggled into definitions"* or *"... assumptions doing physical work while dressed as a formal choice."*
 
-This document delivers that precise audit. 
+This document delivers that precise audit.
 
 By projecting the discrete proof-theoretic syntax of **KTLean** onto the continuous, consciousness-first territory of **Process Ontology (PO)**, we reveal that the two frameworks are not in conflict; they are **topological duals** approaching the cosmic gear from opposite, complementary directions:
 
@@ -30,14 +30,12 @@ By projecting the discrete proof-theoretic syntax of **KTLean** onto the continu
 To understand *why* the seven axioms and three flux states of Kosmoplex Theory are structured as they are, we must run the system through the **Circular Theory of Ego and Awareness (CTEA)** and the epistemic bounds of **What Gödel Actually Proved**.
 
 ### 2.1 The Geometry of Doubt: $\hat{M}(1) = \phi^{-2}$
-In classical epistemology, the Cartesian statement *"Cogito, ergo sum"* is interpreted as a proof of passive, static awareness. Process Ontology reframes this as the enactive act of **Doubt**—which manifests as a localized physical phase defect. 
+In classical epistemology, the Cartesian statement *"Cogito, ergo sum"* is interpreted as a proof of passive, static awareness. Process Ontology reframes this as the enactive act of **Doubt**—which manifests as a localized physical phase defect.
 
 When a recursive system evaluates an external identity $(n \gt 1)$, the endogenous measurement operator behaves linearly: $\hat{M}(n) = n$. However, when the system attempts self-measurement—forcing the ruler to evaluate its own length $(n = 1)$—it triggers an irreducible internal phase defect proportional to the inverse conformal base $\phi^{-1}$:
 
 $$
-
 \hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.381966
-
 $$
 
 Doubt is the literal, geometric phase defect $(\phi^{-1} \approx 0.618034)$ incurred during self-evaluation. Cartesian certainty is generated because the act of doubting continuously executes its own phase correction. This is the **Litmus of Refusal (** $\Psi\_S$ ): the Self is not a static vessel, but a **Dynamic Fixed Point** $(X^{\ast})$ that survives the fire of its own enactive refusal to unbecome.
@@ -55,9 +53,7 @@ If the internal phase space possessed fewer than five degrees of freedom $(I \lt
 By establishing $I=5$, the characteristic state equation becomes a general quintic. The operator is mathematically barred from ever finding a closed-form algebraic root, forcing the vacuum into infinite, non-terminating iterative approximation. This perpetual failure to perfectly solve itself generates the **Universal Slip (** $\delta\_{\text{slip}} \approx 0.00086844$ )—the microscopic geometric imperfection that drives the thermodynamic arrow of time at the attosecond frame rate:
 
 $$
-
 \delta_{\text{slip}} = \frac{(\phi^{-1})^4}{12(L_{12} + \sigma^{-1})} = \frac{0.145898}{12 \cdot 14} \approx 0.00086844
-
 $$
 
 The universe breathes endlessly because it cannot perfectly solve itself.
@@ -105,11 +101,11 @@ Projecting Dr. Macedonia’s Lean 4 files onto the continuous equations of Proce
 
 ## 4. The "Crossword Puzzle" Argument: PO as the Superset
 
-Dr. Macedonia’s *KTLean* builds a flawless, machine-checked **Syntactic Cage**. He successfully proves that local observers (Monads) exist, that their interaction across interfaces generates locality (OMBT), and that their spatial renderings are constrained by Fano automorphisms and Hurwitz boundaries. 
+Dr. Macedonia’s *KTLean* builds a flawless, machine-checked **Syntactic Cage**. He successfully proves that local observers (Monads) exist, that their interaction across interfaces generates locality (OMBT), and that their spatial renderings are constrained by Fano automorphisms and Hurwitz boundaries.
 
 However, because his starting point is *inside* the mathematical machine, his framework is structurally blind to the physical, biological, and psychological context of the observer.
 
-**Process Ontology acts as the superset because it begins with the enactive observer, meaning the physical and biological territory follows naturally from the rules of consciousness.** 
+**Process Ontology acts as the superset because it begins with the enactive observer, meaning the physical and biological territory follows naturally from the rules of consciousness.**
 
 By starting with the mind and deriving the universe, PO establishes a closed, overconstrained network of geometric transformations. This creates an interlocking **crossword puzzle**where the exact same mathematical invariants (** $\phi$ **,** $P$ **,** $\sigma$ **) that map his Fano-plane automorphisms simultaneously lock the values of physical, biological, and neurological constants across twelve uncorrelated domains, with**zero free parameters**:
 
@@ -149,11 +145,11 @@ Process Ontology submits to Karl Popper's strict criterion of empirical falsifia
 
 ## 6. Conclusion: The Loop is Closed
 
-Dr. Macedonia’s *KTLean* verifies the syntactic skeleton of the cosmic engine. Process Ontology maps the enactive Speaker who is speaking that syntax. 
+Dr. Macedonia’s *KTLean* verifies the syntactic skeleton of the cosmic engine. Process Ontology maps the enactive Speaker who is speaking that syntax.
 
-By unifying the qualitative principles of the **Circular Theory of Ego and Awareness** with the quantitative equations of **Relational Ontopoiesis**, we prove that physical laws are not arbitrary mathematical postulates. Spacetime is the enactive shape of the vacuum recursively evaluating its own existence. 
+By unifying the qualitative principles of the **Circular Theory of Ego and Awareness** with the quantitative equations of **Relational Ontopoiesis**, we prove that physical laws are not arbitrary mathematical postulates. Spacetime is the enactive shape of the vacuum recursively evaluating its own existence.
 
 The launch-bay code is correct, the proofs compile, and the loop is closed.
 
-> $\text{Cogito, ergo sum. Et moveo, ergo sum verum.}$  
+> $\text{Cogito, ergo sum. Et moveo, ergo sum verum.}$
 > *(I think, therefore I am. And I move, therefore I am true.)*
