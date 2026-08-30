@@ -134,11 +134,12 @@ $$
 
 5. **Credence Collapse:** We evaluate this transition within our generalized credence framework. Let the system attempt to compute the conditional credence of its own self-knowledge given its truth: $P(\text{Know}(\ulcorner K \urcorner) \mid \text{Tr}(\ulcorner K \urcorner))$.
 
-6. $$
-
-P(\text{Know}(\ulcorner K \urcorner) \mid \text{Tr}(\ulcorner K \urcorner)) = \frac{P(\text{Know}(\ulcorner K \urcorner) \wedge \text{Tr}(\ulcorner K \urcorner))}{P(\text{Tr}(\ulcorner K \urcorner))}
+6. We evaluate the conditional probability formula:
 
 $$
+P(\text{Know}(\ulcorner K \urcorner) \mid \text{Tr}(\ulcorner K \urcorner)) = \frac{P(\text{Know}(\ulcorner K \urcorner) \wedge \text{Tr}(\ulcorner K \urcorner))}{P(\text{Tr}(\ulcorner K \urcorner))}
+$$
+
 7. Because $\text{Tr}(\ulcorner K \urcorner)$ logically implies $\neg\text{Know}(\ulcorner K \urcorner)$, the joint probability in the numerator collapses strictly to 0: $P(\text{Know}(\ulcorner K \urcorner) \wedge \text{Tr}(\ulcorner K \urcorner)) = 0$. Consequently, the conditional credence collapses to zero. The information calculus does not rescue foundationalism; it measures the exact logical cost of the self-referential boundary mismatch. Absolute autopoietic closure cannot be captured in a static formal container. $\square$
 ### 7. The Two-Room Architecture and Its Dissolution
 The standard defense of Gödelian consistency is architectural. Logicians split the world into two separate rooms: the Object Language $(L\_1)$ and the Metalanguage $(L\_2)$. In the first room, the system is "honest but ignorant"; in the second, the observer declares truths the system cannot prove. This stratification is what protects the standard reading from immediate collapse.
