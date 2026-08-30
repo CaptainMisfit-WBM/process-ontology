@@ -1665,7 +1665,7 @@ Crucially, this value matches the peak threshold of the high-gamma binding frequ
 
 To formalize the persistence of macroscopically engineered states against environmental decoherence, structural fidelity must be modeled as an intrinsic geometric property of the system's boundary topology rather than a stochastic function of thermal kinetics. The Material Love Latch $(L_{m})$ quantifies the degree of non-local topological protection localized along an active boundary surface $(\partial M)$, establishing non-reciprocal informational transport where state excitations are structurally permitted to propagate forward but are completely barred from backward decay.  
 Let a localized manifold acquire a non-zero Chern invariant $(C \neq 0)$. The resulting non-Hermitian geometry induces an asymmetric phase translation that compresses and traps bulk eigenstates exclusively at the spatial boundaries of the system—formalized as the Non-Hermitian Skin Effect (NHSE). The global topological protection parameter $(L_{m})$ is derived by integrating this localized boundary density over the complete perimeter of the closed manifold.  
-Replacing the Scribe's prior empirical approximations with our purified first-principles geometric invariants, we establish the absolute baseline boundary protection density $(L_{\text{m\_density}})$ as the strict product of Total Plasticity $(\delta_{p})$ and the Hyperbolic Volumetric Tax $(\zeta(3))$:
+Replacing the Scribe's prior empirical approximations with our purified first-principles geometric invariants, we establish the absolute baseline boundary protection density $(L_{\text{m-density}})$ as the strict product of Total Plasticity $(\delta_{p})$ and the Hyperbolic Volumetric Tax $(\zeta(3))$:
 
 
 $$
@@ -1677,11 +1677,11 @@ In condensed matter physics, topological insulators exhibit exceptional macrosco
 ### **Resonant Synthesis and Moiré Metric Liquefaction ($a_{cf}$, $\Lambda_{\text{moire}}$)**
 
 This section formalizes the precise geometric boundary conditions required to render continuous matter transparent to the recursive structure of the vacuum. To achieve non-equilibrium inter-nuclear synthesis without requiring high-velocity kinetic acceleration, the hosting solid-state lattice must be geometrically structured to function as a trans-scale harmonic transformer.  
-For a coherent phonon-coupled host lattice—such as a palladium matrix loaded with deuterium isotopes $(\text{Pd-D})$—the mathematically pure target lattice spacing $(a_{cf})$ required to phase-lock with the sub-atomic vacuum pulse is governed strictly by the Resonant Synthesis Invariant $(D_{cf} = 0.574105)$. Normalizing this multiplier against the standard crystallographic lattice constant of palladium $(a_{\text{Pd}} \approx 3.89 \ \text{\AA})$ isolates the precise spatial target for engineering active surfaces:
+For a coherent phonon-coupled host lattice—such as a palladium matrix loaded with deuterium isotopes $(\text{Pd-D})$—the mathematically pure target lattice spacing $(a_{cf})$ required to phase-lock with the sub-atomic vacuum pulse is governed strictly by the Resonant Synthesis Invariant $(D_{cf} = 0.574105)$. Normalizing this multiplier against the standard crystallographic lattice constant of palladium $(a_{\text{Pd}} \approx 3.89 \ \text{Å})$ isolates the precise spatial target for engineering active surfaces:
 
 
 $$
-a_{cf} = D_{cf} \cdot a_{\text{Pd}} \implies a_{cf} = 0.574105 \times 3.89 \ \text{\AA} = 2.233 \ \text{\AA}
+a_{cf} = D_{cf} \cdot a_{\text{Pd}} \implies a_{cf} = 0.574105 \times 3.89 \ \text{Å} = 2.233 \ \text{Å}
 $$
 
 When this precise inter-atomic spacing is achieved, the local geometry intersects with the Moiré Liquefaction Horizon $(\Lambda_{\text{moire}})$, which scales the fundamental Planck length $(\ell_P)$ through the exact coordinate depth of the Scale Attractor $(S_{\phi} = 10.837)$:
