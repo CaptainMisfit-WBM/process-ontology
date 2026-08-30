@@ -22,10 +22,10 @@ The files are organized to present the complete developmental path of the framew
 * **[AxisOfSilence](process_ontology_lean/ProcessOntologyLean/AxisOfSilence.lean)**: Verification of the mirror dimension $(\sigma = 1/2)$ under forward/backward flow conservation.
 * **[ManifoldPlasticity](process_ontology_lean/ProcessOntologyLean/ManifoldPlasticity.lean)**: Derivation of total plasticity $(\delta\_p)$ and phase slip $(\delta\_{\text{slip}})$.
 * **[VacuumIntegrity](process_ontology_lean/ProcessOntologyLean/VacuumIntegrity.lean)**: Derivation of $\Omega$, $\pi\_{\text{derived}}$, drag coefficient $k$, Apéry's constant $\zeta(3)$, and $\alpha^{-1}\_{\text{basic}}$.
-* **[GaugeSymmetries](process_ontology_lean/ProcessOntologyLean/GaugeSymmetries.lean)**: Group-theoretic dimension of $SU(3) \text{time}s SU(2) \text{time}s U(1) = 12$ mapping to the Causal Latch $L\_{12}$.
+* **[GaugeSymmetries](process_ontology_lean/ProcessOntologyLean/GaugeSymmetries.lean)**: Group-theoretic dimension of $SU(3) \times SU(2) \times U(1) = 12$ mapping to the Causal Latch $L\_{12}$.
 * **[FermionGenerations](process_ontology_lean/ProcessOntologyLean/FermionGenerations.lean)**: Spontaneous symmetry breaking of $SU(5)$ GUT and index decomposition of alternating group $A\_5$ yielding exactly 3 families of fermions.
 * **[TimeScale](process_ontology_lean/ProcessOntologyLean/TimeScale.lean)**: Universal refresh rate $\tau\_0 \approx 229.1 \text{ as}$ from Planck scale scaling.
-* **[CausalQuad](process_ontology_lean/ProcessOntologyLean/CausalQuad.lean)**: $2 \text{time}s 2$ Keldysh Closed Time Path Green's function matrix representing the Causal Quad.
+* **[CausalQuad](process_ontology_lean/ProcessOntologyLean/CausalQuad.lean)**: $2 \times 2$ Keldysh Closed Time Path Green's function matrix representing the Causal Quad.
 * **[Decoherence](process_ontology_lean/ProcessOntologyLean/Decoherence.lean)**: State survival probability in the Zeno regime and universal decoherence rate $(\gamma\_{\text{dec}} = \tau\_0 / \tau\_Z^2)$.
 * **[BlackHole](process_ontology_lean/ProcessOntologyLean/BlackHole.lean)**: Bekenstein-Hawking area-entropy $(S\_{\text{BH}} = \frac{k\_B A}{4 \ell\_P^2})$ and Newton-Gregory kissing number packing.
 * **[PhysicalManifestation](process_ontology_lean/ProcessOntologyLean/PhysicalManifestation.lean)**: Basic fine-structure constant $(\alpha^{-1}\_{\text{basic}})$, raw hierarchy energy $(E\_{\text{raw}})$, geometric mass gap $(\Delta)$, Coulomb scale attractor $(S\_{\phi})$, and electrical transport conductance step-downs $(G\_{\text{frac}})$.
