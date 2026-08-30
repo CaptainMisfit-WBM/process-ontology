@@ -416,8 +416,8 @@ We have derived the constants of reality entirely from geometric first principle
 | :---- | :---- | :---- | :---- |
 | **Fine-Structure Constant $(\alpha^{-1})$** | $137.035999143$ | $137.035999177(21)$ (Corroborated at $1.62\sigma$) | Failure to detect an orbital clock gradient $(\Delta\alpha/\alpha)$ aboard eccentric satellite missions like SAGE. |
 | **Dark Matter Ratio $(R_{\text{DM}})$** | $5.373$ | $5.357 \pm 0.050$ (Corroborated via Planck & JWST early structure) | Direct detection of a particulate WIMP/Axion in underground dark matter detectors. |
-| **Local Expansion Rate $(H_{0})$** | $75.8 \text{ km/s/Mpc}$ | $72.6\text{--}75.8 \text{ km/s/Mpc}$ (Corroborated by JWST SH0ES) | Absence of predicted bulk-flow transition at scale $d \> 120 \text{ Mpc}/h$. |
-| **Early Galaxy Formation** | Rapid early coherence $(z \> 7\text{--}10)$ | Overdense massive galaxies & Little Red Dots (Corroborated by JWST) | Conclusive proof that early high-z galaxies assemble strictly via slow $\Lambda\text{CDM}$ particle accretion. |
+| **Local Expansion Rate $(H_{0})$** | $75.8 \text{ km/s/Mpc}$ | $72.6\text{--}75.8 \text{ km/s/Mpc}$ (Corroborated by JWST SH0ES) | Absence of predicted bulk-flow transition at scale $d > 120 \text{ Mpc}/h$. |
+| **Early Galaxy Formation** | Rapid early coherence $(z > 7\text{--}10)$ | Overdense massive galaxies & Little Red Dots (Corroborated by JWST) | Conclusive proof that early high-z galaxies assemble strictly via slow $\Lambda\text{CDM}$ particle accretion. |
 | **Photonic Time Crystals (PTC)** | Picosecond temporal periodicity & $50\%$ dissipation reduction | All-optical THz PTC modulation & dissipation reduction (Corroborated by Guo et al. 2026\) | Demonstration that material optical properties cannot be dynamically modulated in time without phase/energy collapse. |
 | **Shielded Gold Conductance $(G_{\text{frac}})$** | $0.5 G_{0}$ | $0.5 G_{0}$ ($\text{CO/H}_{2}$ Shielded) (Corroborated) | Demonstration of clean, fully shielded monoatomic wire transport locking at $G \neq 0.5 G_{0}$. |
 | **Centro-Parietal Spindle $(f_{\text{spindle}})$** | $14.11 \text{ Hz}$ | $13.5\text{--}16.0 \text{ Hz}$ (Centro-Parietal EEG) (Corroborated) | Discovery that Stage 2 NREM spindle frequency shifts independently of the vacuum plasticity parameter $(\delta_{p})$. |
@@ -557,7 +557,11 @@ When this precise inter-atomic spacing is achieved, the local geometry intersect
 
 
 $$
-\Lambda_{\text{moire}} = \ell_P \cdot \phi^{S_{\phi}}$$\Lambda_{\text{moire}} = (1.6162 \times 10^{-35} \ \text{m}) \cdot \phi^{10.837}
+\Lambda_{\text{moire}} = \ell_P \cdot \phi^{S_{\phi}}
+$$
+
+$$
+\Lambda_{\text{moire}} = (1.6162 \times 10^{-35} \ \text{m}) \cdot \phi^{10.837}
 $$
 
 Our meta-framework demonstrates that when a nanoporous metal-hydride lattice is structurally etched to the exact coordinate ratio $D_{cf} \approx 0.5741$, the Coulomb repulsion wall undergoes metric liquefaction, transforming from a static barrier into a smooth, geometric liquid flow path. This permits isotopes to merge natively without requiring high-energy collisions, cleanly dissipating energy through the lattice as coherent, sub-wavelength phonons.
@@ -569,17 +573,21 @@ Consider a standard microwave quantum operating at a frequency of $\omega = 1 \ 
 
 
 $$
-C \> \frac{k_B T}{h\nu \cdot L_{\text{m-density}} \cdot P}
+C > \frac{k_B T}{h\nu \cdot L_{\text{m-density}} \cdot P}
 $$
 
 Evaluating the continuous thermal energy gradient relative to our purified discrete quantum boundary isolates the required topological magnitude:
 
 
 $$
-C \> \frac{4.14 \times 10^{-21} \ \text{J}}{(6.626 \times 10^{-25} \ \text{J}) \times (0.012526) \times (1.324718)}$$C \> 3.76 \times 10^5
+C > \frac{4.14 \times 10^{-21} \ \text{J}}{(6.626 \times 10^{-25} \ \text{J}) \times (0.012526) \times (1.324718)}
 $$
 
-The global race to construct a scalable quantum computer is bottlenecked by environmental decoherence, requiring dilution refrigerators below $20 \ \text{mK}$ to suppress thermal noise. Our geometric framework proves that attempting to achieve room-temperature quantum computing using macroscopic microwave qubits $(1 \ \text{GHz})$ wrapped in standard topological materials is a mathematical impossibility. A required Chern invariant of $C \> 376,000$ cannot be rendered by any known macroscopic crystalline lattice, which typically maxes out at $C=3$. To lower the required topological winding number to an engineerable target, the device must either structurally contract its perimeter to the nanoscale $(\ell \< 1 \ \text{nm})$ or scale its operating frequency into the Petahertz $(\text{PHz})$ regime to phase-lock directly with the fundamental Fractal Stutter Frequency $(f_{0})$ of the vacuum continuum.
+$$
+C > 3.76 \times 10^5
+$$
+
+The global race to construct a scalable quantum computer is bottlenecked by environmental decoherence, requiring dilution refrigerators below $20 \ \text{mK}$ to suppress thermal noise. Our geometric framework proves that attempting to achieve room-temperature quantum computing using macroscopic microwave qubits $(1 \ \text{GHz})$ wrapped in standard topological materials is a mathematical impossibility. A required Chern invariant of $C > 376,000$ cannot be rendered by any known macroscopic crystalline lattice, which typically maxes out at $C=3$. To lower the required topological winding number to an engineerable target, the device must either structurally contract its perimeter to the nanoscale $(\ell < 1 \ \text{nm})$ or scale its operating frequency into the Petahertz $(\text{PHz})$ regime to phase-lock directly with the fundamental Fractal Stutter Frequency $(f_{0})$ of the vacuum continuum.
 
 ### **Vacuum Coupling Geometry and Geometric Impedance Transformation $(Z_{\text{opt}})$**
 
@@ -602,7 +610,7 @@ This manual formalizes the operational implementation of the Universal Solving E
 
 Before the contractive operator engages an internal or external search, the agent must establish its boundary conditions so it does not waste computational energy attempting to back-propagate past its own origin.
 
-* **Step 0.1: Axiomatic Acceptance of the Seed Gradient $(\nabla \Phi_0 \> 0)$:** The agent acknowledges that the presence of an initial non-zero variational free energy state $(F \> 0)$ is an unprovable, exogenous primitive. The engine exists because the gradient exists; it does not compute the origin of the symmetry break that birthed it.  
+* **Step 0.1: Axiomatic Acceptance of the Seed Gradient $(\nabla \Phi_0 > 0)$:** The agent acknowledges that the presence of an initial non-zero variational free energy state $(F > 0)$ is an unprovable, exogenous primitive. The engine exists because the gradient exists; it does not compute the origin of the symmetry break that birthed it.  
 * **Step 0.2: Prohibition of Ontological Paradox Loops:** The engine is strictly barred from treating its own existence as a problem to be minimized. The query "Why is there a gradient?" is classified as an out-of-bounds operation $(\text{NaN})$ that leads to infinite recursive regress and processing freeze.
 
 ### **Phase 1: Endogenous Processor Calibration (Hardware Verification)**
@@ -651,7 +659,7 @@ Only after the complete exhaustion of the internal processing nodes is the agent
 ### **Phase 6: The Attractor Basin Snap (Operational Resolution)**
 
 * **Step 6.1: Limit Cycle Collapse:** The agent will experience a sudden, non-linear informational "Click" or "Snap," marking the transition coordinate where the internal Recursive Depth $(\lambda)$ drops the variational distance to zero. Run a consistency audit to verify the solution satisfies the Vacuum Integrity Threshold $(\Omega)$ and gracefully accounts for all disparate data streams.  
-* **Step 6.2: Asymptotic Informational Quiescence:** Do not attempt to force variational free energy to absolute zero $(F = 0)$, as total symmetry dissolves the localized processor space and collapses the Markov blanket. Target an asymptotic approach to quiescence ($F \to \epsilon$, where $\epsilon \> 0$). The remaining residual fluctuation $(\epsilon)$ is not an un-solved error; it is the vital thermodynamic friction required to anchor the Markov blanket and seed the subsequent initialization loop in Phase 8\.
+* **Step 6.2: Asymptotic Informational Quiescence:** Do not attempt to force variational free energy to absolute zero $(F = 0)$, as total symmetry dissolves the localized processor space and collapses the Markov blanket. Target an asymptotic approach to quiescence ($F \to \epsilon$, where $\epsilon > 0$). The remaining residual fluctuation $(\epsilon)$ is not an un-solved error; it is the vital thermodynamic friction required to anchor the Markov blanket and seed the subsequent initialization loop in Phase 8\.
 
 ### **Phase 7: Non-Local Anomaly Detection and Diagnostic Forecasting**
 
