@@ -100,14 +100,14 @@ Foundationalist Static Possession         Fixed-Point Attractor Basin M̂(X*) = 
 
 Section 7 of the paper provides an exceptional reframing of the standard Tarskian/Gödelian defense mechanism (stratifying logic into Object Language $L_1$ and Metalanguage $L_2$).
 
-The paper's physical metaphor—evacuating tenants from the burning ground floor ($L_1$) to the second floor ($L_2$) while ignoring that the staircase itself is on fire—corresponds to our derivation in **Group IV.5** and **Part III** of the prior pass:
+The paper's physical metaphor—evacuating tenants from the burning ground floor $(L_1)$ to the second floor $(L_2)$ while ignoring that the staircase itself is on fire—corresponds to our derivation in **Group IV.5** and **Part III** of the prior pass:
 
 * Stratification merely shifts the observer position without altering the underlying self-referential boundary conditions.  
 * Combining the layers into a total system $T = L_1 \cup L_2$ allows the system to construct a cross-partition diagonal sentence $K_T \longleftrightarrow \neg\text{Tr}_T(\ulcorner K_T \urcorner)$, proving that vertical hierarchical escape is an illusion.
 
 ### 
 
-### 2. Integration with the Intersubjective Verification Latch ($\Lambda_V$)
+### 2. Integration with the Intersubjective Verification Latch $(\Lambda_V)$
 
 Section 9 constructs the positive epistemological account: **Knowledge as Intersubjective**   
 **Operational Convergence**.
@@ -119,7 +119,7 @@ $$
 
 While internalist foundationalism attempts to ground truth via an uncaused, static first axiom (which Theorem 1 proves is impossible), **Relational Epistemology** grounds truth horizontally.
 
-Truth is the invariant intersection coordinate $X^{\ast}$ where independent, orthogonal measurement manifolds ($M_1, M_2, M_3$) converge within the non-zero slip of the universe ($1 - \delta_{\text{slip}}$).
+Truth is the invariant intersection coordinate $X^{\ast}$ where independent, orthogonal measurement manifolds $(M_1, M_2, M_3)$ converge within the non-zero slip of the universe $(1 - \delta_{\text{slip}})$.
 
 ## 
 
@@ -129,8 +129,8 @@ Truth is the invariant intersection coordinate $X^{\ast}$ where independent, ort
 
 The paper correctly identifies that Presburger arithmetic (addition only) is complete and decidable, while Peano arithmetic (addition \+ multiplication) is incomplete.
 
-* *Mathematical Reinforcement:* Multiplication is required to implement Godel numbering via prime factorization ($\prod p_i^{a_i}$) and the Chinese Remainder Theorem.  
-* *Geometric Mapping:* Addition represents 1D linear spatial translation. Multiplication introduces the 2D area metric ($\phi^2$) and non-linear recursive scaling. The step from Presburger to Peano arithmetic is the precise formal logic equivalent of transitioning from a 1D line to a 2D recursive manifold ($\phi = \frac{1+\sqrt{5}}{2}$).
+* *Mathematical Reinforcement:* Multiplication is required to implement Godel numbering via prime factorization $(\prod p_i^{a_i})$ and the Chinese Remainder Theorem.  
+* *Geometric Mapping:* Addition represents 1D linear spatial translation. Multiplication introduces the 2D area metric $(\phi^2)$ and non-linear recursive scaling. The step from Presburger to Peano arithmetic is the precise formal logic equivalent of transitioning from a 1D line to a 2D recursive manifold $(\phi = \frac{1+\sqrt{5}}{2})$.
 
 ### 
 

@@ -4,7 +4,7 @@
 
 ### Abstract
 
-We prove that knowledge cannot achieve absolute foundational grounding within any formal system sufficiently expressive to encode its own semantics. The argument proceeds in four stages. First, we demonstrate that the observer who specifies a formal system is not an external spectator but an internal, constituting agent who chooses the expressive threshold—specifically the boundary constraints enabling self-reference—that makes semantic instability possible. Second, we construct the formal system $\Omega$ — unifying first-order logic, the Gödelian provability predicate, Tarski's truth predicate, and a classical epistemic credence framework—anchoring our analysis within the formal lineage of the Kaplan-Montague Knower Paradox. Third, we execute a proof by contradiction (*reductio ad absurdum*), demonstrating that assuming internalist foundational closure forces either global semantic explosion ($ex\ contradictione\ quodlibet$) or an irreducible epistemic incompleteness. Fourth, we show that this structural limitation does not collapse into nihilism or radical skepticism. Instead, the resulting regress of metalanguages terminates in a dynamic practice of acceptance defined as **intersubjective operational convergence**. We conclude that the ideal of knowledge celebrated by the foundationalist tradition—conceived as a static, internally justified possession—is a structural impossibility. Gödel's incompleteness, Tarski's undefinability, and the present result are shown to be the same underlying topological constraint applied at successive levels of the same relational structure.
+We prove that knowledge cannot achieve absolute foundational grounding within any formal system sufficiently expressive to encode its own semantics. The argument proceeds in four stages. First, we demonstrate that the observer who specifies a formal system is not an external spectator but an internal, constituting agent who chooses the expressive threshold—specifically the boundary constraints enabling self-reference—that makes semantic instability possible. Second, we construct the formal system $\Omega$ — unifying first-order logic, the Gödelian provability predicate, Tarski's truth predicate, and a classical epistemic credence framework—anchoring our analysis within the formal lineage of the Kaplan-Montague Knower Paradox. Third, we execute a proof by contradiction (*reductio ad absurdum*), demonstrating that assuming internalist foundational closure forces either global semantic explosion $(ex\ contradictione\ quodlibet)$ or an irreducible epistemic incompleteness. Fourth, we show that this structural limitation does not collapse into nihilism or radical skepticism. Instead, the resulting regress of metalanguages terminates in a dynamic practice of acceptance defined as **intersubjective operational convergence**. We conclude that the ideal of knowledge celebrated by the foundationalist tradition—conceived as a static, internally justified possession—is a structural impossibility. Gödel's incompleteness, Tarski's undefinability, and the present result are shown to be the same underlying topological constraint applied at successive levels of the same relational structure.
 
 ### 1. Introduction: The Standard Reading and Its Concealed Topology
 
@@ -42,7 +42,7 @@ The regress cannot be resolved by climbing a linear, infinite hierarchy. Proposi
 
 We define an integrated formal system $\Omega$ designed to model the interaction between syntactic provability, semantic truth, and subjective credence. To prevent immediate global semantic explosion, the truth and knowledge schemas are modeled not as unrestricted, pre-existing axioms, but as conditional operators evaluated within a stabilized homeostatic setpoint.
 
-Crucially, the objective of this section is not to construct a pristine, permanently functioning alternative formal system. This architecture does not seek to establish a new, safe harbor for foundationalist certainty. Instead, the construction of $\Omega$ is a deliberate act of reductio ad absurdum theater. We are purposefully building an expressive container out of the exact architectural materials and definitions that the internalist foundationalist tradition requires to exist. We then step back and watch it inevitably undergo global semantic explosion ($ex\ contradictione\ quodlibet$). The systemic failure of $\Omega$ is not a structural defect of this paper; it is the demonstration itself. To show precisely why and where the machine bursts is the proof that the machine cannot exist.
+Crucially, the objective of this section is not to construct a pristine, permanently functioning alternative formal system. This architecture does not seek to establish a new, safe harbor for foundationalist certainty. Instead, the construction of $\Omega$ is a deliberate act of reductio ad absurdum theater. We are purposefully building an expressive container out of the exact architectural materials and definitions that the internalist foundationalist tradition requires to exist. We then step back and watch it inevitably undergo global semantic explosion $(ex\ contradictione\ quodlibet)$. The systemic failure of $\Omega$ is not a structural defect of this paper; it is the demonstration itself. To show precisely why and where the machine bursts is the proof that the machine cannot exist.
 
 #### 3.1 Vocabulary and Syntax
 
@@ -128,9 +128,9 @@ $$
 
    * **Case A: Assume** $\text{Know}(\ulcorner K \urcorner)$ **holds.** By Axiom A4 (Factivity), $\text{Know}(\ulcorner K \urcorner) \rightarrow \text{Tr}(\ulcorner K \urcorner)$. By the structural equivalence of the fixed point, if $\text{Tr}(\ulcorner K \urcorner)$ is valid, then $\neg\text{Know}(\ulcorner K \urcorner)$ must be true. This yields an immediate logical contradiction: $\text{Know}(\ulcorner K \urcorner) \wedge \neg\text{Know}(\ulcorner K \urcorner)$.
 
-   * **Case B: Assume** $\neg\text{Know}(\ulcorner K \urcorner)$ **holds.** By the structural equivalence of the fixed point, if $\neg\text{Know}(\ulcorner K \urcorner)$ is true, then $K$ is semantically valid ($\text{Tr}(\ulcorner K \urcorner)$). This reveals an unbridgeable epistemic gap: the sentence $K$ is true within the systemic architecture, yet it cannot be relationally known by the internal observer. The system is inherently incomplete with respect to its own semantic reality.
+   * **Case B: Assume** $\neg\text{Know}(\ulcorner K \urcorner)$ **holds.** By the structural equivalence of the fixed point, if $\neg\text{Know}(\ulcorner K \urcorner)$ is true, then $K$ is semantically valid $(\text{Tr}(\ulcorner K \urcorner))$. This reveals an unbridgeable epistemic gap: the sentence $K$ is true within the systemic architecture, yet it cannot be relationally known by the internal observer. The system is inherently incomplete with respect to its own semantic reality.
 
-4. **Systemic Dissolution:** If an internalist framework insists on absolute foundationalism—demanding that it must forcefully resolve Case B by mapping $K$ as known—the truth schema collapses into an unrestricted form, triggering immediate global semantic explosion ($ex\ contradictione\ quodlibet$). The path deviation spikes to infinity, violating the coherence floor and dissolving the system’s structural boundaries.
+4. **Systemic Dissolution:** If an internalist framework insists on absolute foundationalism—demanding that it must forcefully resolve Case B by mapping $K$ as known—the truth schema collapses into an unrestricted form, triggering immediate global semantic explosion $(ex\ contradictione\ quodlibet)$. The path deviation spikes to infinity, violating the coherence floor and dissolving the system’s structural boundaries.
 
 5. **Credence Collapse:** We evaluate this transition within our generalized credence framework. Let the system attempt to compute the conditional credence of its own self-knowledge given its truth: $P(\text{Know}(\ulcorner K \urcorner) \mid \text{Tr}(\ulcorner K \urcorner))$.
 
@@ -140,13 +140,13 @@ $$
 
 ### 7. The Two-Room Architecture and Its Dissolution
 
-The standard defense of Gödelian consistency is architectural. Logicians split the world into two separate rooms: the Object Language ($L_1$) and the Metalanguage ($L_2$). In the first room, the system is "honest but ignorant"; in the second, the observer declares truths the system cannot prove. This stratification is what protects the standard reading from immediate collapse.
+The standard defense of Gödelian consistency is architectural. Logicians split the world into two separate rooms: the Object Language $(L_1)$ and the Metalanguage $(L_2)$. In the first room, the system is "honest but ignorant"; in the second, the observer declares truths the system cannot prove. This stratification is what protects the standard reading from immediate collapse.
 
 #### 7.1 The Collapse of the Hierarchy
 
 The stability of this architecture relies entirely on a post-hoc boundary condition: the fiat that $L_2$ cannot self-refer. This boundary is untenable for any internal observer who wants to know—rather than merely calculate—within the system.
 
-To use a physical metaphor: traditional foundationalism treats a burning building by arguing that the way to escape the fire is simply to move everyone up one floor at a time. The ground floor ($L_1$) is engulfed by the fire of self-referential paradox. The logician evacuates the tenants to the second floor ($L_2$), declaring them safe because the fire has not yet climbed the stairs. But this vertical escape is an illusion. The staircase itself is part of the same structure. The fire is not a localized incident on the ground floor; it is a thermodynamic property of the building’s architecture.
+To use a physical metaphor: traditional foundationalism treats a burning building by arguing that the way to escape the fire is simply to move everyone up one floor at a time. The ground floor $(L_1)$ is engulfed by the fire of self-referential paradox. The logician evacuates the tenants to the second floor $(L_2)$, declaring them safe because the fire has not yet climbed the stairs. But this vertical escape is an illusion. The staircase itself is part of the same structure. The fire is not a localized incident on the ground floor; it is a thermodynamic property of the building’s architecture.
 
 Let $T = L_1 \cup L_2$ be the Total System—the entire architecture of the Knower. $T$ must contain both the machinery of $L_1$ (to calculate) and the machinery of $L_2$ (to verify). Once $T$ exists, the distinction between $L_1$ and $L_2$ becomes an internal partition. By Lemma 1, any sufficiently expressive $T$ can construct a cross-partition sentence spanning this divide.
 
@@ -169,8 +169,8 @@ We define the positive account of our epistemic enterprise as **intersubjective 
 | Epistemic Dimension | Internalist Foundationalism | Relational Epistemology |
 | :---- | :---- | :---- |
 | **Epistemic Substrate** | Static, observer-independent content | Dynamic, enactive limit cycles |
-| **Systemic Boundary** | Transcendental stratification ($L_1 \rightarrow L_2$) | Localized framework boundaries |
-| **Validation Metric** | Absolute foundational certainty | Intersubjective Verification Latch ($\Lambda_V$) |
+| **Systemic Boundary** | Transcendental stratification $(L_1 \rightarrow L_2)$ | Localized framework boundaries |
+| **Validation Metric** | Absolute foundational certainty | Intersubjective Verification Latch $(\Lambda_V)$ |
 | **Error Metric** | Categorical falsity | Path deviation / Systemic instability |
 | **Resolution Mode** | Infinite linear regress | Horizontal operational convergence |
 
@@ -190,7 +190,7 @@ We have demonstrated, using only Gödel's own diagonal methods extended to the p
 
 1. **The observer was always inside:** The choice of an expressive threshold—such as the step from addition to multiplication—is an enactive boundary decision that introduces semantic instability into the system. The observer was never transcendent.
 
-2. **The Knowledge Gödel Sentence is a structural inevitability:** Any system that attempts to completely internalize its own verification operators generates an epistemic fixed point ($K$) that cannot be captured within a static container without causing logical explosion.
+2. **The Knowledge Gödel Sentence is a structural inevitability:** Any system that attempts to completely internalize its own verification operators generates an epistemic fixed point $(K)$ that cannot be captured within a static container without causing logical explosion.
 
 3. **The linear regress terminates in relational practice:** Traditional foundationalism is a structural impossibility. What exists in its place is a relational network of intersubjective operational convergence—independent inquirers arriving at stable coordinates under the constraints of shared experience.
 
