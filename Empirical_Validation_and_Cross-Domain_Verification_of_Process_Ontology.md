@@ -185,7 +185,7 @@ Clinical EEG polysomnography places fast centro-parietal sleep spindles within a
 
 ### Macroscopic Electrical Ground State $(V\_{\text{base}})$
 
-The universal baseline noise floor detected across isolated electronic instruments and biological somatic tissues ($\sim 10\ \mu\text{V}$) is derived as the inductive footprint of the attosecond vacuum stutter $(f\_0 \approx 4.36\text{ PHz})$ acting across the 12 structural dimensions $(L\_{12})$:
+The universal baseline noise floor detected across isolated electronic instruments and biological somatic tissues ($\sim 10\ \mu\text{V}$) is derived as the inductive footprint of the attosecond vacuum stutter $(f\_0 \approx 4.36\text{ PHz})$ acting across the 12 structural dimensions $(L\_{12})$:
 
 $$
 V_{\text{base}} = \frac{\Phi_0 \cdot f_0 \cdot L_{\text{m-density}} \cdot \delta_{\text{slip}}}{12} = \frac{(2.0678 \times 10^{-15}) \cdot (4.3649 \times 10^{15}) \cdot (0.01274) \cdot (0.00086844)}{12} \approx 8.320\ \mu\text{V}
