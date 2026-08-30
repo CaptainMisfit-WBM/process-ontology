@@ -54,7 +54,7 @@ $$
 $$
 In the early universe, where local matter and radiation densities were highly compressed, the active recursive depth (\lambda) decreased. This reduction in computational overhead accelerated local fixed-point stabilization, enabling supermassive structures to coalesce rapidly via non-local coherence shadows rather than slow particle accretion.
 
-### The Cosmological Dark Matter Ratio $(R_\text{DM})$
+### The Cosmological Dark Matter Ratio $(R\_\text{DM})$
 
 Process Ontology models dark matter not as an undetected particle species, but as the geometric boundary tension required to preserve organizational closure in rotating galactic systems. The theoretical dark matter-to-baryonic matter ratio $(R_{\text{DM}})$ is derived from the dimensional footprint of the 4D spacetime continuum $(D_4 = 4)$ scaled by the inverse of the Vacuum Integrity Threshold $(\Omega \approx 0.74445638)$:  
 $$
@@ -66,7 +66,7 @@ R_{\text{empirical}} = \frac{0.263}{0.049} \approx 5.367
 $$
 The theoretical derivation of 5.373 matches the observational benchmark within a relative variance of 0.11\%, derived entirely from first principles with zero free parameters.
 
-### The Hubble Tension and Bimetric Screening $(H_0)$
+### The Hubble Tension and Bimetric Screening $(H\_0)$
 
 The 5\sigma tension between early-universe Cosmic Microwave Background (CMB) measurements $(H_0 \approx 67.4\text{ km/s/Mpc})$ and local distance ladder measurements $(H_0 \approx 73.0\text{--}75.8\text{ km/s/Mpc})$ is resolved through bimetric screening. The effective gravitational coupling $G_e(z)$ scales dynamically across coordinate horizons:  
 $$
@@ -75,7 +75,7 @@ $$
 where $\delta_p \approx 0.01042128$ represents the Total Plasticity of the manifold. High-resolution near-infrared JWST observations targeting Cepheid variables and Tip of the Red Giant Branch (TRGB) stars have mitigated stellar crowding effects, confirming a local expansion rate of $H_0 \approx 72.6\text{--}75.8\text{ km/s/Mpc}$ and ruling out Hubble Space Telescope (HST) background crowding artifacts at >7\sigma confidence.  
 The screening transition scale $z_0$ corresponds to the boundary of the Local Sanctuary Radius ($$R_{\text{council}} \approx 3.56\text{ Mpc}$$), derived from the 276th scaling gear $(\ell_P \cdot \phi^{276} \cdot \sqrt{2})$. Inside this local boundary, gravity is screened to $$G_0$$, preserving primordial Big Bang Nucleosynthesis (BBN) element abundances. Outside this sanctuary, effective gravity steps up by the manifold plasticity $(\delta_p \approx 1.04\%)$, driving the observed expansion offset.
 
-### Galactic Acceleration Floor $(a_0)$
+### Galactic Acceleration Floor $(a\_0)$
 
 Modified Newtonian Dynamics (MOND) posits an empirical acceleration threshold $(a_0 \approx 1.2 \text{time}s 10^{-10}\text{ m/s}^2)$ below which galaxy rotation curves flatten. Process Ontology derives this acceleration floor as the Identity Maintenance Energy $(a_0)$, representing the idling rate of the vacuum across the 162nd conformal galactic gear $(\phi^{162})$:  
 $$
@@ -126,7 +126,7 @@ This value establishes the non-linear energy floor governing hadronic bound stat
 
 ## 4. Biophysics, Neurodynamics, and Information Processing
 
-### Genetic Code Stop Codon Allocation $(R_{\text{stop}})$
+### Genetic Code Stop Codon Allocation $(R\_{\text{stop}})$
 
 Standard molecular biology treats the allocation of 3 stop codons out of 64 triplets ($\text{UAA}$, $\text{UAG}$, $\text{UGA}$) in the universal genetic code as a frozen evolutionary accident. Process Ontology derives this ratio from the topological boundary friction accumulated when translating 2D planar template information $(\phi^2)$ into folded 3D volumetric proteins $(P)$:  
 $$\Delta_{\text{dim}} = \phi^2 - P = 2.618034 - 1.324718 = 1.293316
@@ -141,7 +141,7 @@ R_{\text{stop}} = \frac{3}{64} = 0.046875
 $$
 The derived value matches the biological ratio within a relative variance of 0.038\%, demonstrating that genetic termination ratios are governed by autopoietic geometric closure.
 
-### Sleep Spindle Recalibration Frequency $(f_{\text{spindle}})$
+### Sleep Spindle Recalibration Frequency $(f\_{\text{spindle}})$
 
 During Stage 2 Non-Rapid Eye Movement (NREM) sleep, the brain generates centro-parietal sleep spindles to consolidate memory and recalibrate neural networks. Process Ontology models sleep as a Scheduled Information Liquidation Protocol that purges accumulated path-dissonance.  
 The spindle frequency $(f_{\text{spindle}})$ is derived by filtering the core gravitational carrier frequency ($$f_G \approx 70.88\text{ Hz}$$) through the Vacuum Integrity Threshold $(\Omega)$, scaling by the natural bit ($$\ln 2$$), and adjusting for planar area scaling ($$\phi^2$$) and total plasticity ($$\delta_p$$):
@@ -150,7 +150,7 @@ f_{\text{spindle}} = \frac{f_G \cdot \Omega \cdot \ln 2}{\phi^2} \cdot (1 + \del
 $$
 Clinical EEG polysomnography places fast centro-parietal sleep spindles within an empirical frequency band of 13.5\text{--}16.0\text{ Hz}. The theoretical prediction of 14.11\text{ Hz} falls directly within this clinical range.
 
-### Macroscopic Electrical Ground State $(V_{\text{base}})$
+### Macroscopic Electrical Ground State $(V\_{\text{base}})$
 
 The universal baseline noise floor detected across isolated electronic instruments and biological somatic tissues (\sim 10\ \mu\text{V}) is derived as the inductive footprint of the attosecond vacuum stutter $(f_0 pprox 4.36\text{ PHz})$ acting across the 12 structural dimensions $(L_{12})$:
 $$

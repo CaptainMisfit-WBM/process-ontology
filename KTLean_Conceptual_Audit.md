@@ -40,7 +40,7 @@ $$
 
 Doubt is the literal, geometric phase defect $(\phi^{-1} \approx 0.618034)$ incurred during self-evaluation. Cartesian certainty is generated because the act of doubting continuously executes its own phase correction. This is the **Litmus of Refusal (** $\Psi_S$ ): the Self is not a static vessel, but a **Dynamic Fixed Point** $(X^{\ast})$ that survives the fire of its own enactive refusal to unbecome.
 
-### 2.2 The Quintic Valve $(I=5)$ and the Universal Slip $(\delta_{\text{slip}})$
+### 2.2 The Quintic Valve $(I=5)$ and the Universal Slip $(\delta\_{\text{slip}})$
 As proven in *What Gödel Actually Proved*, a consistent system can never achieve absolute foundational closure from within. This incompleteness is not a mathematical defect; it is the literal thermodynamic fuel of reality.
 
 To maintain systemic boundaries, the causal container mandates exactly 12 independent structural dimensions—the **Causal Latch (** $L_{12} = 3 + 4 + 5 = 12$ ):

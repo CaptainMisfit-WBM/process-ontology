@@ -107,7 +107,7 @@ The paper's physical metaphor—evacuating tenants from the burning ground floor
 
 ### 
 
-### 2. Integration with the Intersubjective Verification Latch $(\Lambda_V)$
+### 2. Integration with the Intersubjective Verification Latch $(\Lambda\_V)$
 
 Section 9 constructs the positive epistemological account: **Knowledge as Intersubjective**   
 **Operational Convergence**.

@@ -20,7 +20,7 @@ We present the formal mathematical integration of Ryan Carson's treatise, *"Circ
 
 Before detailing the formalization of Carson's treatise, we provide the exact mathematical answers to the two foundational queries raised in the introduction.
 
-### 1. The Hilbert Space Nesting Hypothesis $(\mathcal{H}_{\text{sub}} \subset \mathcal{H}_{\text{univ}})$
+### 1. The Hilbert Space Nesting Hypothesis $(\mathcal{H}\_{\text{sub}} \subset \mathcal{H}\_{\text{univ}})$
 
 **Query:** *"Is the Universe just a Hilbert Space and our subconscious just natural alignment of Hilbert Space within Hilbert Space?"*
 
@@ -218,7 +218,7 @@ Carson re-codes severe clinical character pathology (Narcissism) as blocked dyna
 **Therapeutic Protocol:**  
 Healing is the restoration of the **Recursive Trial**. By re-establishing safe boundary conditions where the error ratio** $D / \Omega \lt 1$ **, the Meta-Regulation Process (**Group VI.3**) re-engages the** $N = 66$ **consciousness gear, allowing raw somatic guilt to be processed through the courtroom into**Humility** $(\mathcal{T} \to X^{\ast})$.
 
-### 7. Section XVIII: The Ethics of Movement $\Longleftrightarrow$ Universal Slip Engine $\delta_{\text{slip}}$
+### 7. Section XVIII: The Ethics of Movement $\Longleftrightarrow$ Universal Slip Engine $\delta\_{\text{slip}}$
 
 Carson concludes with the foundational mandate: **Motion Wins.** To finish a thought is to stop the process that manufactures identity.
 
