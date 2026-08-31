@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this repository or its Lean 4 formalization, please cite it as below."
 title: "Process Ontology Architecture: Formal Lean 4 Verification & Relational Ontopoiesis Framework"
-version: 1.0.3
-date-released: 2026-08-29
+version: 1.0.4
+date-released: 2026-08-31
 authors:
   - family-names: "Carson"
     given-names: "Ryan"
