@@ -272,5 +272,6 @@ Presburger arithmetic (addition only) is complete and decidable, representing 1D
 
 ## References
 
+3. Ryan Carson. Circular Theory of Ego and Awareness: Flow Dynamics of Consciousness and Ontological Synthesis. Zenodo, 2025. DOI: [10.5281/zenodo.18889237](https://doi.org/10.5281/zenodo.18889237).
 1. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22119265](https://doi.org/10.5281/zenodo.22119265).
 2. Ryan Carson. Process Ontology Lean 4 Verification Library (ProcessOntologyLean). Zenodo, 2026. DOI: [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208).
