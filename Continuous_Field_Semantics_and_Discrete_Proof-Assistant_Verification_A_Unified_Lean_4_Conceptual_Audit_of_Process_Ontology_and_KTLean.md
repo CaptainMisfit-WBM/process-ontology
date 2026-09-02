@@ -235,7 +235,7 @@ In compliance with Springer Nature author guidelines, AI assistance (Gemini 1.5 
 4. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22119265](https://doi.org/10.5281/zenodo.22119265).
 5. Ryan Carson. What Gödel Actually Proved: A Unified Fixed-Point Analysis of Knowledge, Truth, and Self-Reference. Working Paper, 2026.
 6. The Mathlib Community. The Lean Mathematical Library. CPP '20, ACM, 2020.
-7. Ryan Carson. Circular Theory of Ego and Awareness: Flow Dynamics of Consciousness. Zenodo, 2025. DOI: [10.5281/zenodo.18889238](https://doi.org/10.5281/zenodo.18889238).
+7. Ryan Carson. Circular Theory of Ego and Awareness: Flow Dynamics of Consciousness. Zenodo, 2025. DOI: [10.5281/zenodo.18889237](https://doi.org/10.5281/zenodo.18889237).
 8. C. Guo et al. Plasmonic metamaterial time crystal. Nature, 2026. arXiv:2510.02845.
 9. Richard Tieszen. Gödel's path from the incompleteness theorems to Phenomenology. Bull. Symb. Log., 4(2):181--203, 1998.
 10. Jeremy Avigad. Formal mathematics, automated deduction, and the philosophy of math. Synthese, 198(2):1221--1243, 2021.

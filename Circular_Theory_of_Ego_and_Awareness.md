@@ -5,7 +5,7 @@
 **Subject:** Cognitive Dynamics / Process Philosophy / Existential Mechanics / Consciousness / Cognitive Dissonance / Ego-Awareness Duality / Flow Dynamics / Affective Processing
 
 ![ORCID iD icon][image1] [https://orcid.org/0009-0009-7818-3517](https://orcid.org/0009-0009-7818-3517)
-DOI: [https://doi.org/10.5281/zenodo.18889238](https://doi.org/10.5281/zenodo.18889238)
+DOI: [https://doi.org/10.5281/zenodo.18889237](https://doi.org/10.5281/zenodo.18889237)
 
 ## I. Executive Summary: The Axiom of Flow
 
