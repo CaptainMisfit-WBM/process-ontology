@@ -1,7 +1,7 @@
 # Empirical Validation and Cross-Domain Verification of Process Ontology
 
 **Author:** Ryan Carson | **ORCID:** [0009-0009-7818-3517](https://orcid.org/0009-0009-7818-3517)  
-**Theoretical Monograph Reference:** *Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime* (DOI: [10.5281/zenodo.22260395](https://doi.org/10.5281/zenodo.22260395))  
+**Theoretical Monograph Reference:** *Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime* (DOI: [10.5281/zenodo.22262413](https://doi.org/10.5281/zenodo.22260395))  
 
 ## Executive Summary & Theoretical Context
 

@@ -10,6 +10,7 @@
 | **What Gödel Actually Proved: A Unified Fixed-Point Analysis of Knowledge, Truth, and Self-Reference** | [`10.5281/zenodo.22256372`](https://doi.org/10.5281/zenodo.22256372) | Epistemic Boundary Proof & System $\Omega$ Reductio Theater |
 | **The Circular Theory of Ego and Awareness** | [`10.5281/zenodo.18889237`](https://doi.org/10.5281/zenodo.18889237) | Cognitive Dynamics & Ontological Synthesis |
 | **Continuous Field Semantics and Discrete Proof-Assistant Verification** | [`10.5281/zenodo.22119264`](https://doi.org/10.5281/zenodo.22119264) | Formal Audit & KTLean Theoretical Mechanics |
+| **Empirical Validation and Cross-Domain Verification of Process Ontology** | [`10.5281/zenodo.22262413`](https://doi.org/10.5281/zenodo.22262413) | Quantitative Verification Suite & Popperian Falsification Protocol |
 | **CaptainMisfit-WBM/process-ontology Repository** | [`10.5281/zenodo.22116086`](https://doi.org/10.5281/zenodo.22116086) | Lean 4 Verification Suite & Code Base |
 
 ---
