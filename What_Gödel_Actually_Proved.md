@@ -272,6 +272,11 @@ Presburger arithmetic (addition only) is complete and decidable, representing 1D
 
 ## References
 
-3. Ryan Carson. Circular Theory of Ego and Awareness: Flow Dynamics of Consciousness and Ontological Synthesis. Zenodo, 2025. DOI: [10.5281/zenodo.18889237](https://doi.org/10.5281/zenodo.18889237).
-1. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22119265](https://doi.org/10.5281/zenodo.22119265).
-2. Ryan Carson. Process Ontology Lean 4 Verification Library (ProcessOntologyLean). Zenodo, 2026. DOI: [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208).
+1. Kurt Gödel. Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. *Monatshefte für Mathematik und Physik*, 38(1):173–198, 1931.
+2. Alfred Tarski. Der Wahrheitsbegriff in den formalisierten Sprachen. *Studia Philosophica*, 1:261–405, 1936.
+3. R. C. Simpson. A Logic of Knowledge. *Mind*, 69(274):218–221, 1960.
+4. David Kaplan and Richard Montague. A Correction to Simpson's Logic of Knowledge. *Journal of Symbolic Logic*, 25(1):79–80, 1960.
+5. Richmond H. Thomason. A Note on Syntactical Treatments of Modality. *Synthese*, 44(3):391–395, 1980.
+6. Ryan Carson. Circular Theory of Ego and Awareness: Flow Dynamics of Consciousness and Ontological Synthesis. Zenodo, 2025. DOI: [10.5281/zenodo.18889237](https://doi.org/10.5281/zenodo.18889237).
+7. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22119265](https://doi.org/10.5281/zenodo.22119265).
+8. Ryan Carson. Process Ontology Lean 4 Verification Library (ProcessOntologyLean). Zenodo, 2026. DOI: [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208).
