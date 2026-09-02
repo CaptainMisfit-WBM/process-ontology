@@ -6,7 +6,7 @@
 **ORCID:** [0009-0009-7818-3517](https://orcid.org/0009-0009-7818-3517)  
 **Date:** August 31, 2026  
 **Target Journal:** *Journal of Automated Reasoning* (Springer Nature)  
-**Archived Preprint DOI:** [10.5281/zenodo.22119265](https://doi.org/10.5281/zenodo.22119265)  
+**Archived Preprint DOI:** [10.5281/zenodo.22260396](https://doi.org/10.5281/zenodo.22260396)  
 **Lean 4 Codebase DOI:** [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208)
 
 ---
@@ -232,7 +232,7 @@ In compliance with Springer Nature author guidelines, AI assistance (Gemini 1.5 
 1. Christian R. Macedonia. KTLean: A 1,992 Theorem Lean 4 Proof-Assistant Library for Kosmoplex Theory. GitHub, 2026. [https://github.com/KosmoNexus/KTLean](https://github.com/KosmoNexus/KTLean).
 2. Leonardo de Moura and Sebastian Ullrich. The Lean 4 Theorem Prover and Programming Language. CADE 28, LNCS 12699:625--635, Springer, 2021.
 3. Ryan Carson. Process Ontology Lean 4 Verification Library (ProcessOntologyLean). Zenodo, 2026. DOI: [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208).
-4. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22119265](https://doi.org/10.5281/zenodo.22119265).
+4. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22260396](https://doi.org/10.5281/zenodo.22260396).
 5. Ryan Carson. What Gödel Actually Proved: A Unified Fixed-Point Analysis of Knowledge, Truth, and Self-Reference. Working Paper, 2026.
 6. The Mathlib Community. The Lean Mathematical Library. CPP '20, ACM, 2020.
 7. Ryan Carson. Circular Theory of Ego and Awareness: Flow Dynamics of Consciousness. Zenodo, 2025. DOI: [10.5281/zenodo.18889237](https://doi.org/10.5281/zenodo.18889237).

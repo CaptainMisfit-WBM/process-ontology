@@ -1,7 +1,7 @@
 # Process Ontology: The Dynamic Observer Runtime
 
 **Code Repository DOI:** [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208)
-**Associated Paper DOI:** [10.5281/zenodo.22119265](https://doi.org/10.5281/zenodo.22119265)
+**Associated Paper DOI:** [10.5281/zenodo.22260396](https://doi.org/10.5281/zenodo.22260396)
 **Environment:** Lean 4 (v4.33.1) with Mathlib
 
 ---
