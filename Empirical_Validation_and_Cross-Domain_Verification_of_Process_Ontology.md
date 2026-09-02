@@ -186,7 +186,7 @@ The derived value matches the biological ratio within a relative variance of 0.0
 ### Sleep Spindle Recalibration Frequency $(f\_{\text{spindle}})$
 
 During Stage 2 Non-Rapid Eye Movement (NREM) sleep, the brain generates centro-parietal sleep spindles to consolidate memory and recalibrate neural networks. Process Ontology models sleep as a Scheduled Information Liquidation Protocol that purges accumulated path-dissonance.
-The spindle frequency $(f\_{\text{spindle}})$ is derived by filtering the core gravitational carrier frequency ($f\_G \approx 70.88\text{ Hz}$) through the Vacuum Integrity Threshold $(\Omega)$, scaling by the natural bit (\ln 2), and adjusting for planar area scaling (\phi^2) and total plasticity (\delta_p):
+The spindle frequency $(f\_{\text{spindle}})$ is derived by filtering the core gravitational carrier frequency ($f\_G \approx 70.88\text{ Hz}$) through the Vacuum Integrity Threshold $(\Omega)$, scaling by the natural bit ($\ln 2$), and adjusting for planar area scaling (\phi^2) and total plasticity (\delta_p):
 
 $$
 f_{\text{spindle}} = \frac{f_G \cdot \Omega \cdot \ln 2}{\phi^2} \cdot (1 + \delta_p) = \frac{70.88 \cdot 0.744456 \cdot 0.693147}{2.618034} \cdot (1 + 0.010421) \approx 14.11\text{ Hz}
