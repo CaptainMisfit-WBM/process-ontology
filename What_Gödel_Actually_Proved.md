@@ -2,7 +2,7 @@
 
 **Author:** Ryan Carson  
 **ORCID:** [0009-0009-7818-3517](https://orcid.org/0009-0009-7818-3517)  
-**DOI:** [10.5281/zenodo.22256373](https://doi.org/10.5281/zenodo.22256373)  
+**DOI:** [10.5281/zenodo.22256372](https://doi.org/10.5281/zenodo.22256372)  
 **Original Composition:** November 2025 | **Updated Pre-Print Version:** September 2026  
 **Subject Classification:** Mathematical Logic / Epistemology / Formal Semantics / Process Ontology / Proof Theory
 
@@ -278,5 +278,5 @@ Presburger arithmetic (addition only) is complete and decidable, representing 1D
 4. David Kaplan and Richard Montague. A Correction to Simpson's Logic of Knowledge. *Journal of Symbolic Logic*, 25(1):79–80, 1960.
 5. Richmond H. Thomason. A Note on Syntactical Treatments of Modality. *Synthese*, 44(3):391–395, 1980.
 6. Ryan Carson. Circular Theory of Ego and Awareness: Flow Dynamics of Consciousness and Ontological Synthesis. Zenodo, 2025. DOI: [10.5281/zenodo.18889237](https://doi.org/10.5281/zenodo.18889237).
-7. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22260396](https://doi.org/10.5281/zenodo.22260396).
-8. Ryan Carson. Process Ontology Lean 4 Verification Library (ProcessOntologyLean). Zenodo, 2026. DOI: [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208).
+7. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22260395](https://doi.org/10.5281/zenodo.22260395).
+8. Ryan Carson. Process Ontology Lean 4 Verification Library (ProcessOntologyLean). Zenodo, 2026. DOI: [10.5281/zenodo.22116086](https://doi.org/10.5281/zenodo.22116086).

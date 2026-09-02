@@ -300,5 +300,5 @@ Because $\delta\_{\text{slip}} > 0$, the vacuum state cannot freeze into a stati
 
 ## References
 
-1. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22260396](https://doi.org/10.5281/zenodo.22260396).
-2. Ryan Carson. Process Ontology Lean 4 Verification Library (ProcessOntologyLean). Zenodo, 2026. DOI: [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208).
+1. Ryan Carson. Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime. Zenodo, 2026. DOI: [10.5281/zenodo.22260395](https://doi.org/10.5281/zenodo.22260395).
+2. Ryan Carson. Process Ontology Lean 4 Verification Library (ProcessOntologyLean). Zenodo, 2026. DOI: [10.5281/zenodo.22116086](https://doi.org/10.5281/zenodo.22116086).

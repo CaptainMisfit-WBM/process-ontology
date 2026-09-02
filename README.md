@@ -1,7 +1,23 @@
+# Process Ontology: Formal Verification & Theoretical Architecture
+
+**Author:** Ryan Carson | **ORCID:** [0009-0009-7818-3517](https://orcid.org/0009-0009-7818-3517)  
+
+## 🌐 Master Publication Directory & Concept DOI Registry
+
+| Monograph / Asset | Concept DOI | Primary Focus / Status |
+| :--- | :--- | :--- |
+| **Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime** | [`10.5281/zenodo.22260395`](https://doi.org/10.5281/zenodo.22260395) | Unified Master Monograph & Physical Cosmology |
+| **What Gödel Actually Proved: A Unified Fixed-Point Analysis of Knowledge, Truth, and Self-Reference** | [`10.5281/zenodo.22256372`](https://doi.org/10.5281/zenodo.22256372) | Epistemic Boundary Proof & System $\Omega$ Reductio Theater |
+| **The Circular Theory of Ego and Awareness** | [`10.5281/zenodo.18889237`](https://doi.org/10.5281/zenodo.18889237) | Cognitive Dynamics & Ontological Synthesis |
+| **Continuous Field Semantics and Discrete Proof-Assistant Verification** | [`10.5281/zenodo.22119264`](https://doi.org/10.5281/zenodo.22119264) | Formal Audit & KTLean Theoretical Mechanics |
+| **CaptainMisfit-WBM/process-ontology Repository** | [`10.5281/zenodo.22116086`](https://doi.org/10.5281/zenodo.22116086) | Lean 4 Verification Suite & Code Base |
+
+---
+
 # Process Ontology: The Dynamic Observer Runtime
 
-**Code Repository DOI:** [10.5281/zenodo.22116208](https://doi.org/10.5281/zenodo.22116208)
-**Associated Paper DOI:** [10.5281/zenodo.22260396](https://doi.org/10.5281/zenodo.22260396)
+**Code Repository DOI:** [10.5281/zenodo.22116086](https://doi.org/10.5281/zenodo.22116086)
+**Associated Paper DOI:** [10.5281/zenodo.22260395](https://doi.org/10.5281/zenodo.22260395)
 **Environment:** Lean 4 (v4.33.1) with Mathlib
 
 ---
