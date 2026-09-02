@@ -264,4 +264,6 @@ The empirical validation of key predictions—such as the over 50\% loss reducti
 
 3\. Plasmonic metamaterial time crystal - PubMed, https://pubmed.ncbi.nlm.nih.gov/42527596/?utm_source=FeedFetcher\&utm_medium=rss\&utm_campaign=None\&utm_content=1vICqKETsACsk9wtdnzv-f8ZmhLzbpENzbeB4RjIb5torr0Qed\&fc=None\&ff=20260730131345\&v=2.20.0.post5+40e1b98 
 
-4\. Plasmonic metamaterial time crystal - arXiv, https://arxiv.org/html/2510.02845v2 5\. Structure and conductance of a gold atomic chain - ResearchGate, https://www.researchgate.net/publication/235538027_Structure_and_conductance_of_a_gold_atomic_chain
+4\. Plasmonic metamaterial time crystal - arXiv, https://arxiv.org/html/2510.02845v2 
+
+5\. Structure and conductance of a gold atomic chain - ResearchGate, https://www.researchgate.net/publication/235538027_Structure_and_conductance_of_a_gold_atomic_chain
