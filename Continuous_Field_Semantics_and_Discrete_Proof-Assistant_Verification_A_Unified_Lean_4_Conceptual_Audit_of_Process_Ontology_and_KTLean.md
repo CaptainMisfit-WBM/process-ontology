@@ -37,23 +37,19 @@ We demonstrate that *KTLean* and *Process Ontology* are topological duals [1]. *
 
 ### 2.1 The Master Postulate of Relational Ontopoiesis
 Process Ontology models reality as an endogenous, non-equilibrium self-measurement process occurring within an open metric space $(\mathcal{M}, d)$ [4]. Every observable structural invariance manifests as a stable invariant attractor basin (Eigenform) $X^*$ under an endogenous contractive measurement operator $\hat{M} : \mathcal{M} \to \mathcal{M}$ [3, 4]:
-
 $$\hat{M}(X^*) = X^*$$
 
 By Banach's Fixed-Point Theorem, if $\hat{M}$ is a contraction mapping on a complete metric space $\mathcal{M}$, then $X^*$ exists, is unique, and is iteratively approachable from any initial state $x\_0 \in \mathcal{M}$ [3, 4].
 
 ### 2.2 Conformal Scaling ($\phi$) and Volumetric Packing ($P$)
 To execute continuous multi-scale expansion without inducing metric disequilibrium or informational dissipation, a 2D boundary interface must partition its state space according to the golden ratio ($\phi$) [4]:
-
 $$\phi^2 - \phi - 1 = 0 \implies \phi = \frac{1 + \sqrt{5}}{2} \approx 1.6180339887$$
 
 Extending this recursive closure into 3D spatial volumes introduces a cubic degree of freedom. Optimal non-periodic, non-dissipative 3D spatial tiling requires the Plastic Constant ($P$), derived as the unique real root of [4]:
-
 $$P^3 - P - 1 = 0 \implies P \approx 1.3247179572$$
 
 ### 2.3 The Axis of Silence ($\sigma = 1/2$) and Lyapunov Neutral Stability
 To prevent unconstrained spatial divergence or immediate over-damped collapse, forward expansion flows $E(n) = n^{\sigma + it}$ and backward resolution flows $R(n) = n^{1-\sigma - it}$ must maintain magnitude equilibrium across scales [4]:
-
 $$|E(n)| = |R(n)| \implies n^\sigma = n^{1-\sigma} \implies \sigma = \frac{1}{2}$$
 
 Defining the phase transformation operator $\hat{f}(s) = 1 - s$ yields a derivative norm $|\hat{f}'(s^*)| = |-1| = 1$, formally proving perfect neutral Lyapunov stability along the $\sigma = 1/2$ mirror plane [4].
@@ -67,7 +63,6 @@ An embedded active observer requires 12 independent structural degrees of freedo
 If $I < 5$, the characteristic polynomial governing state evolution would be solvable in radicals by the Abel-Ruffini theorem. The contractive operator $\hat{M}$ would compute the exact algebraic root, dropping path-dissonance to zero ($D=0$) and causing the system to collapse into a static "Crystalline Freeze" [4].
 
 By forcing $I=5$, the general quintic structure prevents closed-form algebraic solution in radicals [4]. The system is forced into continuous, non-terminating iterative approximation [4]. This perpetual failure to perfectly solve itself generates an irreducible mathematical remainder---the Universal Slip ($\delta\_{\text{slip}}$) [3, 4]:
-
 $$\delta\_{\text{slip}} = \frac{(\phi^{-1})^4}{L\_{\text{interactive}} \cdot L\_{12}} = \frac{(\phi^{-1})^4}{14 \times 12} = \frac{\phi^{-4}}{168} \approx 0.00086844$$
 
 This non-zero slip ($\delta\_{\text{slip}} > 0$) prevents detailed balance at the attosecond frame rate ($\tau\_0 \approx 229.1\text{ as}$), providing the microscopic geometric engine that drives the thermodynamic arrow of time [3, 4].
@@ -180,7 +175,6 @@ By projecting Macedonia's 1,992-theorem *KTLean* library onto *Process Ontology*
 
 ### 4.3 Monad Consensus and the Intersubjective Verification Latch ($\Lambda\_V$)
 In `OMBTLocalityGeneration.lean`, *KTLean* proves that classical physical locality is generated through consensus among localized processing units (Monads) [1]. Process Ontology formalizes this as the Intersubjective Verification Latch ($\Lambda\_V$), where anchoring a unique coordinate in 3D space requires $n=3$ orthogonal observation streams [7, 1]:
-
 $$\Lambda\_V = \left( \prod\_{i=1}^{3} \mathbb{1}(X \in M\_i) \right) \cdot (1 - \delta\_{\text{slip}})$$
 
 ---
