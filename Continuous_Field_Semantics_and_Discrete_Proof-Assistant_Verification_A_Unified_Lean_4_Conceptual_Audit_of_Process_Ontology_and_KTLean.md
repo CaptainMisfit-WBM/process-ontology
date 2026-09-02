@@ -13,7 +13,7 @@
 
 ## Abstract
 
-We present a machine-checked formalization and conceptual audit bridging discrete proof-assistant syntax with continuous field semantics. Operating in Lean 4 (v4.33.1) with Mathlib, we verify the core mathematical foundations of Process Ontology---a zero-free-parameter theoretical framework that formalizes the enactive observer and derives fundamental geometric constants. We formally prove Banach's fixed-point contraction for the Master Postulate ($\hat{M}(X^*) = X^*$), the neutral Lyapunov stability of the Axis of Silence ($\sigma = 1/2$), the strict positivity of the Universal Slip ($\delta_{\text{slip}} = \phi^{-4}/168 > 0$), the topological equivalence of the Standard Model Lie algebra total dimension to the 3D Newton-Gregory kissing number ($\dim(SU(3)) + \dim(SU(2)) + \dim(U(1)) = 12$), and first-row CKM matrix unitarity ($V_{ud}^2 + V_{us}^2 = 1$). Furthermore, we project these continuous derivations onto Dr. Christian Macedonia’s 1,992-theorem *KTLean* repository, establishing a 1-to-1 file-level structural isomorphism between discrete proof-assistant constructs and continuous field equations. This duality demonstrates how discrete formal systems and continuous field models achieve intersubjective operational convergence ($\Lambda_V$) without introducing hidden physical parameters.
+We present a machine-checked formalization and conceptual audit bridging discrete proof-assistant syntax with continuous field semantics. Operating in Lean 4 (v4.33.1) with Mathlib, we verify the core mathematical foundations of Process Ontology---a zero-free-parameter theoretical framework that formalizes the enactive observer and derives fundamental geometric constants. We formally prove Banach's fixed-point contraction for the Master Postulate ($\hat{M}(X^*) = X^*$), the neutral Lyapunov stability of the Axis of Silence ($\sigma = 1/2$), the strict positivity of the Universal Slip ($\delta\_{\text{slip}} = \phi^{-4}/168 > 0$), the topological equivalence of the Standard Model Lie algebra total dimension to the 3D Newton-Gregory kissing number ($\dim(SU(3)) + \dim(SU(2)) + \dim(U(1)) = 12$), and first-row CKM matrix unitarity ($V\_{ud}^2 + V\_{us}^2 = 1$). Furthermore, we project these continuous derivations onto Dr. Christian Macedonia’s 1,992-theorem *KTLean* repository, establishing a 1-to-1 file-level structural isomorphism between discrete proof-assistant constructs and continuous field equations. This duality demonstrates how discrete formal systems and continuous field models achieve intersubjective operational convergence ($\Lambda\_V$) without introducing hidden physical parameters.
 
 **Keywords:** Lean 4, Proof Assistants, Process Ontology, Automated Theorem Proving, Epistemic Logic, Mathematical Physics
 
@@ -29,7 +29,7 @@ This paper delivers that conceptual audit [1]. We introduce the formal Lean 4 ve
 
 We explicitly establish that our formalization does not replace discrete proof assistants, but rather supplies their semantic boundary conditions [1].
 
-We demonstrate that *KTLean* and *Process Ontology* are topological duals [1]. *KTLean* provides the discrete, machine-checked syntax, while *Process Ontology* supplies the continuous field semantics and biological observer framework [1]. By establishing a file-by-file mapping between Macedonia's 1,992 discrete theorems and our continuous field derivations, we show that discrete theorem provers and continuous field models converge on identical structural invariants, satisfying the Intersubjective Verification Latch ($\Lambda_V$) [5, 1].
+We demonstrate that *KTLean* and *Process Ontology* are topological duals [1]. *KTLean* provides the discrete, machine-checked syntax, while *Process Ontology* supplies the continuous field semantics and biological observer framework [1]. By establishing a file-by-file mapping between Macedonia's 1,992 discrete theorems and our continuous field derivations, we show that discrete theorem provers and continuous field models converge on identical structural invariants, satisfying the Intersubjective Verification Latch ($\Lambda\_V$) [5, 1].
 
 ---
 
@@ -40,7 +40,7 @@ Process Ontology models reality as an endogenous, non-equilibrium self-measureme
 
 $$\hat{M}(X^*) = X^*$$
 
-By Banach's Fixed-Point Theorem, if $\hat{M}$ is a contraction mapping on a complete metric space $\mathcal{M}$, then $X^*$ exists, is unique, and is iteratively approachable from any initial state $x_0 \in \mathcal{M}$ [3, 4].
+By Banach's Fixed-Point Theorem, if $\hat{M}$ is a contraction mapping on a complete metric space $\mathcal{M}$, then $X^*$ exists, is unique, and is iteratively approachable from any initial state $x\_0 \in \mathcal{M}$ [3, 4].
 
 ### 2.2 Conformal Scaling ($\phi$) and Volumetric Packing ($P$)
 To execute continuous multi-scale expansion without inducing metric disequilibrium or informational dissipation, a 2D boundary interface must partition its state space according to the golden ratio ($\phi$) [4]:
@@ -58,19 +58,19 @@ $$|E(n)| = |R(n)| \implies n^\sigma = n^{1-\sigma} \implies \sigma = \frac{1}{2}
 
 Defining the phase transformation operator $\hat{f}(s) = 1 - s$ yields a derivative norm $|\hat{f}'(s^*)| = |-1| = 1$, formally proving perfect neutral Lyapunov stability along the $\sigma = 1/2$ mirror plane [4].
 
-### 2.4 The Quintic Valve ($I=5$) and the Universal Slip ($\delta_{\text{slip}}$)
-An embedded active observer requires 12 independent structural degrees of freedom ($L_{12} = 3 + 4 + 5 = 12$) to achieve causal anti-aliasing [3, 4]:
+### 2.4 The Quintic Valve ($I=5$) and the Universal Slip ($\delta\_{\text{slip}}$)
+An embedded active observer requires 12 independent structural degrees of freedom ($L\_{12} = 3 + 4 + 5 = 12$) to achieve causal anti-aliasing [3, 4]:
 1. **Spatial Volumetric Extension ($S=3$):** Three orthogonal spatial dimensions [4].
-2. **Temporal Anti-Aliasing ($T=4$):** The Causal Quad $(T_{-1}, T_0, T_{+1}, T_{\text{obs}})$ [4].
+2. **Temporal Anti-Aliasing ($T=4$):** The Causal Quad $(T\_{-1}, T\_0, T\_{+1}, T\_{\text{obs}})$ [4].
 3. **Internal Phase Asymmetry ($I=5$):** The Quintic Valve [4].
 
 If $I < 5$, the characteristic polynomial governing state evolution would be solvable in radicals by the Abel-Ruffini theorem. The contractive operator $\hat{M}$ would compute the exact algebraic root, dropping path-dissonance to zero ($D=0$) and causing the system to collapse into a static "Crystalline Freeze" [4].
 
-By forcing $I=5$, the general quintic structure prevents closed-form algebraic solution in radicals [4]. The system is forced into continuous, non-terminating iterative approximation [4]. This perpetual failure to perfectly solve itself generates an irreducible mathematical remainder---the Universal Slip ($\delta_{\text{slip}}$) [3, 4]:
+By forcing $I=5$, the general quintic structure prevents closed-form algebraic solution in radicals [4]. The system is forced into continuous, non-terminating iterative approximation [4]. This perpetual failure to perfectly solve itself generates an irreducible mathematical remainder---the Universal Slip ($\delta\_{\text{slip}}$) [3, 4]:
 
-$$\delta_{\text{slip}} = \frac{(\phi^{-1})^4}{L_{\text{interactive}} \cdot L_{12}} = \frac{(\phi^{-1})^4}{14 \times 12} = \frac{\phi^{-4}}{168} \approx 0.00086844$$
+$$\delta\_{\text{slip}} = \frac{(\phi^{-1})^4}{L\_{\text{interactive}} \cdot L\_{12}} = \frac{(\phi^{-1})^4}{14 \times 12} = \frac{\phi^{-4}}{168} \approx 0.00086844$$
 
-This non-zero slip ($\delta_{\text{slip}} > 0$) prevents detailed balance at the attosecond frame rate ($\tau_0 \approx 229.1\text{ as}$), providing the microscopic geometric engine that drives the thermodynamic arrow of time [3, 4].
+This non-zero slip ($\delta\_{\text{slip}} > 0$) prevents detailed balance at the attosecond frame rate ($\tau\_0 \approx 229.1\text{ as}$), providing the microscopic geometric engine that drives the thermodynamic arrow of time [3, 4].
 
 ---
 
@@ -114,7 +114,7 @@ theorem axis_of_silence (n : ℝ) (hn : 1 < n) (σ : ℝ)
 ```
 
 ### 3.3 Verification of Universal Slip Positivity (`ManifoldPlasticity.lean`)
-We prove that the Universal Slip $\delta_{\text{slip}} = \phi^{-4}/168$ is strictly positive [3, 4]:
+We prove that the Universal Slip $\delta\_{\text{slip}} = \phi^{-4}/168$ is strictly positive [3, 4]:
 
 ```lean
 import ProcessOntologyLean.ConformalScaling
@@ -129,7 +129,7 @@ theorem delta_slip_pos : 0 < delta_slip := by
 ```
 
 ### 3.4 Verification of Standard Model Gauge Dimensions (`GaugeSymmetries.lean`)
-We verify that the total dimension of $\mathcal{G}_{\text{SM}} = SU(3) \times SU(2) \times U(1)$ equals the 3D Newton-Gregory kissing number $L_{12} = 12$ [3, 4]:
+We verify that the total dimension of $\mathcal{G}\_{\text{SM}} = SU(3) \times SU(2) \times U(1)$ equals the 3D Newton-Gregory kissing number $L\_{12} = 12$ [3, 4]:
 
 ```lean
 def dim_SU (N : ℕ) : ℕ := N ^ 2 - 1
@@ -141,7 +141,7 @@ theorem total_gauge_dim : dim_SU 3 + dim_SU 2 + dim_U1 = 12 := by
 ```
 
 ### 3.5 Verification of Variational Cost Functional Minimization (`VariationalEngine.lean`)
-The Universal Solving Equation cost functional $\mathcal{C}(X) = \frac{1}{2}\left(\ln \frac{X}{\Omega}\right)^2 - \frac{\lambda}{k L_{12}} \ln\left(\frac{X}{\phi}\right)$ is proved to achieve a critical point at $X^* = \Omega \cdot \exp\left(\frac{\lambda}{k L_{12}}\right)$ [3, 4]:
+The Universal Solving Equation cost functional $\mathcal{C}(X) = \frac{1}{2}\left(\ln \frac{X}{\Omega}\right)^2 - \frac{\lambda}{k L\_{12}} \ln\left(\frac{X}{\phi}\right)$ is proved to achieve a critical point at $X^* = \Omega \cdot \exp\left(\frac{\lambda}{k L\_{12}}\right)$ [3, 4]:
 
 ```lean
 theorem steady_state_is_critical (omega_val : ℝ) 
@@ -178,10 +178,10 @@ By projecting Macedonia's 1,992-theorem *KTLean* library onto *Process Ontology*
 ### 4.2 Reversibility, Photonic Time Crystals, and $\sigma = 1/2$
 *KTLean* verifies bidirectional, non-dissipative state transformations in `CompositionReversibility.lean` [1]. This corresponds to PO's Axis of Silence ($\sigma = 1/2$) [3, 1]. In 2026, Guo et al. experimentally synthesized the first all-optical Photonic Time Crystal (PTC) by modulating a plasmonic metamaterial's carrier mass on sub-optical-cycle timescales, confirming a >50% reduction in plasmonic dissipation [8]. This 50% loss cut provides direct physical evidence of the $\sigma = 1/2$ Lyapunov stability plane verified in `AxisOfSilence.lean` [3, 8, 1].
 
-### 4.3 Monad Consensus and the Intersubjective Verification Latch ($\Lambda_V$)
-In `OMBTLocalityGeneration.lean`, *KTLean* proves that classical physical locality is generated through consensus among localized processing units (Monads) [1]. Process Ontology formalizes this as the Intersubjective Verification Latch ($\Lambda_V$), where anchoring a unique coordinate in 3D space requires $n=3$ orthogonal observation streams [7, 1]:
+### 4.3 Monad Consensus and the Intersubjective Verification Latch ($\Lambda\_V$)
+In `OMBTLocalityGeneration.lean`, *KTLean* proves that classical physical locality is generated through consensus among localized processing units (Monads) [1]. Process Ontology formalizes this as the Intersubjective Verification Latch ($\Lambda\_V$), where anchoring a unique coordinate in 3D space requires $n=3$ orthogonal observation streams [7, 1]:
 
-$$\Lambda_V = \left( \prod_{i=1}^{3} \mathbb{1}(X \in M_i) \right) \cdot (1 - \delta_{\text{slip}})$$
+$$\Lambda\_V = \left( \prod\_{i=1}^{3} \mathbb{1}(X \in M\_i) \right) \cdot (1 - \delta\_{\text{slip}})$$
 
 ---
 
@@ -193,29 +193,29 @@ Process Ontology operates with zero free parameters [3, 4]. Table 1 presents the
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Master Observer Attractor | $\hat{M}(X^*)$ | $X^*$ | Banach Fixed-Point ($X^*$) | `Ontopoiesis.lean` | Verified (`sorry`-free) |
 | Axis of Silence Mirror | $\sigma$ | $1/2$ | Lyapunov Stability ($\sigma = 1/2$) | `AxisOfSilence.lean` | Verified (`sorry`-free) |
-| Universal Phase Slip | $\delta_{\text{slip}}$ | $\phi^{-4}/168 \approx 0.00086844$ | Positivity ($\delta_{\text{slip}} > 0$) | `ManifoldPlasticity.lean` | Verified (`sorry`-free) |
-| Total Gauge Dimension | $\dim(\mathcal{G}_{\text{SM}})$ | $8 + 3 + 1 = 12$ | Kissing Number ($L_{12} = 12$) | `GaugeSymmetries.lean` | Verified (`sorry`-free) |
-| First-Row CKM Unitarity | $V_{ud}^2 + V_{us}^2$ | $1.000$ | Exact Unitarity ($1.000$) | `Solution.lean` | Verified (`sorry`-free) |
+| Universal Phase Slip | $\delta\_{\text{slip}}$ | $\phi^{-4}/168 \approx 0.00086844$ | Positivity ($\delta\_{\text{slip}} > 0$) | `ManifoldPlasticity.lean` | Verified (`sorry`-free) |
+| Total Gauge Dimension | $\dim(\mathcal{G}\_{\text{SM}})$ | $8 + 3 + 1 = 12$ | Kissing Number ($L\_{12} = 12$) | `GaugeSymmetries.lean` | Verified (`sorry`-free) |
+| First-Row CKM Unitarity | $V\_{ud}^2 + V\_{us}^2$ | $1.000$ | Exact Unitarity ($1.000$) | `Solution.lean` | Verified (`sorry`-free) |
 | Inverse Fine-Structure | $\alpha^{-1}$ | $137.035999143$ | $137.035999177(21)$ | CODATA 2022 / `Physical` | $1.62\sigma$ agreement |
 | PTC Dissipation Cut | $\Delta\text{ Loss}$ | $> 50\%$ Reduction | $> 50\%$ Reduction | Guo et al. (Nature, 2026) | Exact match |
-| Shielded Wire Conductance | $G_{\text{frac}}$ | $0.50 G_0$ | $0.50 G_0$ ($\text{CO/H}_2$) | AC-HRTEM TEM / `Physical` | Exact symmetry lock |
+| Shielded Wire Conductance | $G\_{\text{frac}}$ | $0.50 G\_0$ | $0.50 G\_0$ ($\text{CO/H}\_2$) | AC-HRTEM TEM / `Physical` | Exact symmetry lock |
 
 ### 5.1 Extended Scope: Downstream Continuous Projections
 While the primary focus of this formal verification concerns proof-assistant logic, the continuous field equations naturally project into downstream physical and biological domains [4, 7, 8]:
-1. **Autopoietic Stop Codon Allocation:** Derives the $3/64 \approx 0.046875$ stop codon allocation ratio of the universal genetic code from planar-to-volumetric folding friction ($\Delta_{\text{dim}} = \phi^2 - P$).
+1. **Autopoietic Stop Codon Allocation:** Derives the $3/64 \approx 0.046875$ stop codon allocation ratio of the universal genetic code from planar-to-volumetric folding friction ($\Delta\_{\text{dim}} = \phi^2 - P$).
 2. **Sleep Spindle Idle Frequency:** Derives Stage 2 NREM centro-parietal sleep spindles ($14.11\text{ Hz}$) as the brain's scheduled manifold recalibration frequency.
-3. **Macroscopic Dark Matter Ratio:** Derives $R_{\text{DM}} = D_4 \cdot \Omega^{-1} = 5.373$, matching Planck satellite observations ($5.367$) within $0.11\%$ relative variance without assuming undetected particle fields.
+3. **Macroscopic Dark Matter Ratio:** Derives $R\_{\text{DM}} = D\_4 \cdot \Omega^{-1} = 5.373$, matching Planck satellite observations ($5.367$) within $0.11\%$ relative variance without assuming undetected particle fields.
 
 ---
 
 ## 6. Discussion and Limitations
 
 ### 6.1 Epistemic Non-Containment and the Two-Room Collapse
-Standard logicians protect formal systems by stratifying logic into an Object Language ($L_1$) and a Metalanguage ($L_2$) [5, 9]. As established in our formal evaluation of Gödelian self-reference, this vertical separation fails for an embedded observer [5, 9]. When combining the systems into $T = L_1 \cup L_2$, the system constructs a cross-partition diagonal sentence $K_T \longleftrightarrow \neg\text{Tr}_T(\ulcorner K_T \urcorner)$, forcing either semantic explosion or an unbridgeable epistemic gap [5, 9]. Process Ontology resolves this by replacing static foundational closure with enactive practice: knowledge is sustained as a dynamic limit cycle via the Intersubjective Verification Latch ($\Lambda_V$) [5, 7, 9].
+Standard logicians protect formal systems by stratifying logic into an Object Language ($L\_1$) and a Metalanguage ($L\_2$) [5, 9]. As established in our formal evaluation of Gödelian self-reference, this vertical separation fails for an embedded observer [5, 9]. When combining the systems into $T = L\_1 \cup L\_2$, the system constructs a cross-partition diagonal sentence $K\_T \longleftrightarrow \neg\text{Tr}\_T(\ulcorner K\_T \urcorner)$, forcing either semantic explosion or an unbridgeable epistemic gap [5, 9]. Process Ontology resolves this by replacing static foundational closure with enactive practice: knowledge is sustained as a dynamic limit cycle via the Intersubjective Verification Latch ($\Lambda\_V$) [5, 7, 9].
 
 ### 6.2 Limitations and Open Formalization Challenges
 While `ProcessOntologyLean` verifies the core algebraic and topological foundations, two specific modules in `Challenge.lean` contain unresolved obligations (`sorry`) [3, 4]:
-1. **Full Non-Linear Variational SDE Unification:** Formalizing the stochastic differential equation $\frac{dX}{d\tau_c} = -\mu^{-1} \nabla \mathcal{C}(X) + \sqrt{2\delta_{\text{slip}}} \xi(\tau_c)$ within Mathlib's measure-theoretic probability framework.
+1. **Full Non-Linear Variational SDE Unification:** Formalizing the stochastic differential equation $\frac{dX}{d\tau\_c} = -\mu^{-1} \nabla \mathcal{C}(X) + \sqrt{2\delta\_{\text{slip}}} \xi(\tau\_c)$ within Mathlib's measure-theoretic probability framework.
 2. **Complete Lie Algebra Volumetric Tiling:** Extending the 3D packing proof of $\dim(SU(3)) + \dim(SU(2)) + \dim(U(1)) = 12$ to full smooth manifold bundle charts.
 
 ---

@@ -87,7 +87,7 @@ G_e(z) = G_0 \left(1 + \delta_p \cdot e^{-z/z_0}\right)
 $$
 
 where $\delta\_p \approx 0.01042128$ represents the Total Plasticity of the manifold. High-resolution near-infrared JWST observations targeting Cepheid variables and Tip of the Red Giant Branch (TRGB) stars have mitigated stellar crowding effects, confirming a local expansion rate of $H\_0 \approx 72.6\text{--}75.8\text{ km/s/Mpc}$ and ruling out Hubble Space Telescope (HST) background crowding artifacts at >7\sigma confidence.
-The screening transition scale $z\_0$ corresponds to the boundary of the Local Sanctuary Radius ($R_{\text{council}} \approx 3.56\text{ Mpc}$), derived from the 276th scaling gear $(\ell\_P \cdot \phi^{276} \cdot \sqrt{2})$. Inside this local boundary, gravity is screened to $G_0$, preserving primordial Big Bang Nucleosynthesis (BBN) element abundances. Outside this sanctuary, effective gravity steps up by the manifold plasticity $(\delta\_p \approx 1.04\%)$, driving the observed expansion offset.
+The screening transition scale $z\_0$ corresponds to the boundary of the Local Sanctuary Radius ($R\_{\text{council}} \approx 3.56\text{ Mpc}$), derived from the 276th scaling gear $(\ell\_P \cdot \phi^{276} \cdot \sqrt{2})$. Inside this local boundary, gravity is screened to $G\_0$, preserving primordial Big Bang Nucleosynthesis (BBN) element abundances. Outside this sanctuary, effective gravity steps up by the manifold plasticity $(\delta\_p \approx 1.04\%)$, driving the observed expansion offset.
 
 ### Galactic Acceleration Floor $(a\_0)$
 
@@ -175,7 +175,7 @@ The derived value matches the biological ratio within a relative variance of 0.0
 ### Sleep Spindle Recalibration Frequency $(f\_{\text{spindle}})$
 
 During Stage 2 Non-Rapid Eye Movement (NREM) sleep, the brain generates centro-parietal sleep spindles to consolidate memory and recalibrate neural networks. Process Ontology models sleep as a Scheduled Information Liquidation Protocol that purges accumulated path-dissonance.
-The spindle frequency $(f_{\text{spindle}})$ is derived by filtering the core gravitational carrier frequency ($f_G \approx 70.88\text{ Hz}$) through the Vacuum Integrity Threshold $(\Omega)$, scaling by the natural bit (\ln 2), and adjusting for planar area scaling (\phi^2) and total plasticity (\delta_p):
+The spindle frequency $(f\_{\text{spindle}})$ is derived by filtering the core gravitational carrier frequency ($f\_G \approx 70.88\text{ Hz}$) through the Vacuum Integrity Threshold $(\Omega)$, scaling by the natural bit (\ln 2), and adjusting for planar area scaling (\phi^2) and total plasticity (\delta_p):
 
 $$
 f_{\text{spindle}} = \frac{f_G \cdot \Omega \cdot \ln 2}{\phi^2} \cdot (1 + \delta_p) = \frac{70.88 \cdot 0.744456 \cdot 0.693147}{2.618034} \cdot (1 + 0.010421) \approx 14.11\text{ Hz}

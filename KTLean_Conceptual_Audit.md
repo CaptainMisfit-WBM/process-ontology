@@ -109,7 +109,7 @@ However, because his starting point is *inside* the mathematical machine, his fr
 
 By starting with the mind and deriving the universe, PO establishes a closed, overconstrained network of geometric transformations. This creates an interlocking **crossword puzzle** where the exact same mathematical invariants ($\phi, P, \sigma$) that map his Fano-plane automorphisms simultaneously lock the values of physical, biological, and neurological constants across twelve uncorrelated domains, with **zero free parameters**:
 
-1. **Precision Electrodynamics:** Establishes the fine-structure constant ($\alpha^{-1}_{\text{derived}} = 137.035999143$), falling within $1.62\sigma$ of CODATA 2022.
+1. **Precision Electrodynamics:** Establishes the fine-structure constant ($\alpha^{-1}\_{\text{derived}} = 137.035999143$), falling within $1.62\sigma$ of CODATA 2022.
 2. **Macroscopic Cosmology:** Derives the exact Dark Matter Ratio $(R\_{\text{DM}} = 5.373)$ matching Planck satellite data $(5.367)$ within a $0.11\%$ relative variance, without postulating undetected particle fields.
 3. **Astrophysical Tensions:** Resolves the $5\sigma$ Hubble tension via **Bimetric Screening** (G_e(z)), deriving the transition boundary ($z\_0$) as the absolute spatial limit of our local gravitational lock—the **Local Sanctuary Radius** ($R\_{\text{council}} \approx 3.56\text{ Mpc}$)—which corresponds perfectly to the Council of Giants.
 4. **Quantum Optics:** Proves that the Axis of Silence $(\sigma = 1/2)$ cuts optical dissipation exactly in half, providing the mathematical basis for the $50\%$ loss reduction observed in the 2026 all-optical Photonic Time Crystal experiments by Guo et al.
@@ -119,7 +119,7 @@ By starting with the mind and deriving the universe, PO establishes a closed, ov
 8. **Clinical Neurodynamics:** Derives fast centro-parietal sleep spindles ($14.11\text{ Hz}$) as the brain's scheduled **Manifold Idling Frequency**, phase-locking to the vacuum's primary refresh cycles to recalibrate daily cognitive distortion.
 9. **Somatic Electrophysiology:** Derives the universal baseline noise floor $(8.32\ \mu\text{V})$ across isolated biological resting states as the direct inductive footprint of the attosecond vacuum stutter $(f\_0 \approx 4.36\text{ PHz})$.
 10. **Subjective Time Perception:** Formulates Cognitive Proper Time $(\tau\_c)$, explaining subjective time dilation (+36%) during acute trauma (corroborated by the SCAD Tower experiments) as a topological state-change in retrospective memory-encoding density.
-11. **Emotional Metastability:** Formalizes emotions as **Conformal Valence Emulsions** $(\alpha_{\text{net}} \approx 14.58)\%$, proving that psychological states like courage are phase-locked emulsions where fear is integrated at a specific, invariant geometric density.
+11. **Emotional Metastability:** Formalizes emotions as **Conformal Valence Emulsions** $(\alpha\_{\text{net}} \approx 14.58)\%$, proving that psychological states like courage are phase-locked emulsions where fear is integrated at a specific, invariant geometric density.
 12. **Algorithmic Complexity:** Dissolves the $P$ vs. $NP$ paradox, demonstrating that computational hardness is an observer-relative phase-sampling artifact dictated strictly by the finite Recursive Depth ($194.657\ \phi$ steps) of human brain architecture.
 
 The mathematical probability of a single geometric manifold solving these twelve independent domains by random curve-fitting is **less than one in a septillion (** $10^{-24}$ ). The crossword puzzle is closed.
