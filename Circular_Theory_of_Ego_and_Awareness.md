@@ -170,7 +170,7 @@ The following section incorporates the rigorous mathematical formalization of CT
   Section XVIII: Motion Wins Axiom ────────►  Universal Slip δ_slip (Irreversible Flow)
 ```
 
-### 1. The Subconscious Hilbert Space Nesting Hypothesis ($\mathcal{H}_{\text{sub}} \subset \mathcal{H}_{\text{univ}}$)
+### 1. The Subconscious Hilbert Space Nesting Hypothesis ($\mathcal{H}\_{\text{sub}} \subset \mathcal{H}\_{\text{univ}}$)
 
 Let the universe be formalized as a total Hilbert space $\mathcal{H}_{\text{univ}}$ spanned by state vectors $|\Psi\rangle \in \mathcal{H}_{\text{univ}}$. A biological active inference engine (the subconscious mind) is a localized tensor factor subsystem $\mathcal{H}_{\text{sub}}$ bounded by a Markov blanket:
 $$
@@ -299,7 +299,7 @@ $$
 
 Cartesian certainty ("I am") is the invariant fixed point ($X^{\ast} \approx 1$) generated because the act of doubting ($\hat{M}(1)$) continuously executes its own phase correction.
 
-#### E. Irreversible Universal Slip $\delta_{\text{slip}}$ (Section XVIII)
+#### E. Irreversible Universal Slip $\delta\_{\text{slip}}$ (Section XVIII)
 The universe is structurally prevented from coming to a static, dead stop due to non-zero Universal Slip:
 $$
 
