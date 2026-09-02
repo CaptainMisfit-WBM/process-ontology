@@ -2,7 +2,7 @@
 
 **Author:** Ryan Carson  
 **ORCID:** [0009-0009-7818-3517](https://orcid.org/0009-0009-7818-3517)  
-**DOI:** [10.5281/zenodo.22254914](https://doi.org/10.5281/zenodo.22254914)  
+**DOI:** [10.5281/zenodo.22256373](https://doi.org/10.5281/zenodo.22256373)  
 **Original Composition:** November 2025 | **Updated Pre-Print Version:** September 2026  
 **Subject Classification:** Mathematical Logic / Epistemology / Formal Semantics / Process Ontology / Proof Theory
 
