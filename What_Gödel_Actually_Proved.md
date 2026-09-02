@@ -89,8 +89,8 @@ Because $\Omega$ contains sufficient arithmetic machinery to represent its own s
 #### Lemma 1 (The Fixed-Point Lemma)
 
 For any well-formed formula $\psi(x)$ containing exactly one free variable, there exists a sentence $\sigma$ such that:
-
 $$
+
 \vdash_\Omega \sigma \longleftrightarrow \psi(\ulcorner \sigma \urcorner)
 $$
 
@@ -101,8 +101,8 @@ The fixed-point lemma guarantees the existence of a sentence that asserts a prop
 To establish historical continuity, we locate our construction within the formal lineage of the Knower Paradox first introduced by Kaplan and Montague (1960) and further developed by Thomason (1980). The Knower Paradox demonstrates that if an epistemic predicate satisfies factivity and basic logical necessitation, it generates a structural contradiction when allowed to self-refer. We extend this deadlock to demonstrate the absolute impossibility of internalist foundationalism.
 
 By applying Lemma 1 to the negated relational knowledge predicate, $\neg\text{Know}(x)$, we guarantee the existence of an epistemic fixed-point sentence $K$, which satisfies the equivalence:
-
 $$
+
 K \longleftrightarrow \neg\text{Know}(\ulcorner K \urcorner)
 $$
 
@@ -113,8 +113,8 @@ The sentence $K$ asserts: "This trajectory cannot be relationally verified withi
 #### Theorem 1 (The Non-Containment of Absolute Grounding)
 
 In any consistent formal framework $\Omega$ hosting an internal observer, there is no proposition $\phi$ such that $\text{Know}(\ulcorner \phi \urcorner)$ can be established as an absolute, self-grounding foundational state.
-
 $$
+
 \neg \exists \phi \, \[ \text{Know}(\ulcorner \phi \urcorner) \wedge \text{IsFoundational}(\phi) \wedge \text{Consistent}(\Omega) \]
 $$
 
@@ -135,8 +135,8 @@ $$
 5. **Credence Collapse:** We evaluate this transition within our generalized credence framework. Let the system attempt to compute the conditional credence of its own self-knowledge given its truth: $P(\text{Know}(\ulcorner K \urcorner) \mid \text{Tr}(\ulcorner K \urcorner))$.
 
 6. We evaluate the conditional probability formula:
-
 $$
+
 P(\text{Know}(\ulcorner K \urcorner) \mid \text{Tr}(\ulcorner K \urcorner)) = \frac{P(\text{Know}(\ulcorner K \urcorner) \wedge \text{Tr}(\ulcorner K \urcorner))}{P(\text{Tr}(\ulcorner K \urcorner))}
 $$
 

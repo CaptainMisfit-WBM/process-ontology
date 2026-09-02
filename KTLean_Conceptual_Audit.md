@@ -33,8 +33,8 @@ To understand *why* the seven axioms and three flux states of Kosmoplex Theory a
 In classical epistemology, the Cartesian statement *"Cogito, ergo sum"* is interpreted as a proof of passive, static awareness. Process Ontology reframes this as the enactive act of **Doubt**—which manifests as a localized physical phase defect.
 
 When a recursive system evaluates an external identity $(n > 1)$, the endogenous measurement operator behaves linearly: $\hat{M}(n) = n$. However, when the system attempts self-measurement—forcing the ruler to evaluate its own length $(n = 1)$—it triggers an irreducible internal phase defect proportional to the inverse conformal base $\phi^{-1}$:
-
 $$
+
 \hat{M}(1) = 1 \cdot (1 - \phi^{-1}) = \phi^{-2} \approx 0.381966
 $$
 
@@ -51,8 +51,8 @@ To maintain systemic boundaries, the causal container mandates exactly 12 indepe
 If the internal phase space possessed fewer than five degrees of freedom $(I \lt 5)$, the characteristic polynomial governing its state transitions would be solvable in radicals by the Abel-Ruffini theorem. The vacuum's contractive operator would act as a perfect solver, instantly computing the exact coordinate of the fixed point. The localized path-deviation would drop to absolute zero, causing the system to collapse into an unmoving, dead **Crystalline Freeze**.
 
 By establishing $I=5$, the characteristic state equation becomes a general quintic. The operator is mathematically barred from ever finding a closed-form algebraic root, forcing the vacuum into infinite, non-terminating iterative approximation. This perpetual failure to perfectly solve itself generates the **Universal Slip (** $\delta\_{\text{slip}} \approx 0.00086844$ )—the microscopic geometric imperfection that drives the thermodynamic arrow of time at the attosecond frame rate:
-
 $$
+
 \delta_{\text{slip}} = \frac{(\phi^{-1})^4}{12(L_{12} + \sigma^{-1})} = \frac{0.145898}{12 \cdot 14} \approx 0.00086844
 $$
 

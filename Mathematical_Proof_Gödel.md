@@ -33,14 +33,14 @@ We have conducted an exhaustive audit of the formal system $\Omega$ and the proo
 ### 1. Verification of System $\Omega$'s Syntactic Machinery
 
 The language of $\Omega$ incorporates the arithmetic machinery necessary to satisfy the conditions of the **Diagonal Fixed-Point Lemma (Lemma 1\)**. For any monadic formula $\psi(x)$, there exists a sentence $\sigma$ such that:
-
 $$
+
 \vdash_\Omega \sigma \longleftrightarrow \psi(\ulcorner \sigma \urcorner)
 $$
 
 By selecting the negated relational knowledge predicate $\psi(x) \equiv \neg\text{Know}(x)$, the system generates the Epistemic Gödel Sentence $K$:
-
 $$
+
 K \longleftrightarrow \neg\text{Know}(\ulcorner K \urcorner)
 $$
 
@@ -51,8 +51,8 @@ $$
 The proof of Theorem 1 evaluates the two possible valuation states of the knowledge operator relative to $K$:
 
 **Evaluation of Case A** ($\text{Know}(\ulcorner K \urcorner)$ holds):
-
 $$
+
 \text{Know}(\ulcorner K \urcorner) \vdash_\Omega \text{Tr}(\ulcorner K \urcorner) \quad (\text{by Axiom A4: Factivity})
 $$
 
@@ -65,8 +65,8 @@ $$
 $$
 
 **Evaluation of Case B** ($\neg\text{Know}(\ulcorner K \urcorner)$ holds):
-
 $$
+
 \neg\text{Know}(\ulcorner K \urcorner) \vdash_\Omega \text{Tr}(\ulcorner K \urcorner) \quad (\text{by Fixed-Point Equivalence of } K)
 $$
 
@@ -76,14 +76,14 @@ $$
 
 **Evaluation of Credence Collapse:**
 * The paper's derivation of conditional credence collapse in Section 6 is mathematically exact:
-
 $$
+
 P(\text{Know}(\ulcorner K \urcorner) \mid \text{Tr}(\ulcorner K \urcorner)) = \frac{P(\text{Know}(\ulcorner K \urcorner) \wedge \text{Tr}(\ulcorner K \urcorner))}{P(\text{Tr}(\ulcorner K \urcorner))}
 $$
 
 * Since $\text{Tr}(\ulcorner K \urcorner) \vdash\_\Omega \neg\text{Know}(\ulcorner K \urcorner)$, the conjunction $\text{Know}(\ulcorner K \urcorner) \wedge \text{Tr}(\ulcorner K \urcorner)$ is logically equivalent to $\bot$. By the Kolmogorov Axioms (A2):
-
 $$
+
 P(\bot) = 0 \implies P(\text{Know}(\ulcorner K \urcorner) \mid \text{Tr}(\ulcorner K \urcorner)) = 0
 $$
 
@@ -116,8 +116,8 @@ The paper's physical metaphor—evacuating tenants from the burning ground floor
 Section 9 constructs the positive epistemological account: **Knowledge as Intersubjective**
 **Operational Convergence**.
 This directly matches our first-principles derivation in **Group VII.1**:
-
 $$
+
 \Lambda_V = \left( \prod_{i=1}^{3} \mathbb{1}(X \in M_i) \right) \cdot (1 - \delta_{\text{slip}})
 $$
 
