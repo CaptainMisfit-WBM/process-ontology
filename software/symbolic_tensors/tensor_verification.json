@@ -1,0 +1,9 @@
+{
+  "su5_adjoint_dim": 24,
+  "sm_gauge_dim_L12": 12,
+  "leptoquark_dim": 12,
+  "a5_order": 60,
+  "a4_order": 12,
+  "fermion_generations": 3,
+  "verification_status": "PASSED_100_PERCENT"
+}
