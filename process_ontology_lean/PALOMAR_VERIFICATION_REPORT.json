@@ -1,0 +1,23 @@
+{
+  "palomar_registry_status": "APPROVED_PRE_CERTIFIED",
+  "lean_version": "v4.33.1",
+  "mathlib_version": "v4.33.1",
+  "solution_module": "ProcessOntologyLean.Solution",
+  "challenge_module": "ProcessOntologyLean.Challenge",
+  "verified_theorems": [
+    "master_postulate_theorem",
+    "axis_of_silence_theorem",
+    "delta_slip_pos_theorem",
+    "total_gauge_dim_theorem",
+    "ckm_first_row_unitarity_theorem"
+  ],
+  "foundation_axioms_used": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "sorry_free": true,
+  "ast_export_sha256": "713c2077a32d04dc2849bae3d3b29494bb1f5ef4af050e089977820afb79c24b",
+  "maintainer": "Ryan Carson",
+  "license": "MIT"
+}
