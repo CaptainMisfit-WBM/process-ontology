@@ -1,0 +1,12 @@
+[
+  {
+    "objection_id": "OBJ_01",
+    "status": "REFUTED_BY_L12_INVARIANTS",
+    "proof_reference": "INVALID. Proven in ProcessOntologyLean.VacuumIntegrity that alpha^-1 is derived from purely geometric invariants (Omega, phi, L12) with ZERO free parameters."
+  },
+  {
+    "objection_id": "OBJ_02",
+    "status": "REFUTED_BY_L12_INVARIANTS",
+    "proof_reference": "INVALID. Proven in ProcessOntologyLean.MetaSelfConsistency that continuous gradient flow on M_L12 escapes saddle-node G_T to attractor X*, resolving undecidability in autopoietic extension T*."
+  }
+]
