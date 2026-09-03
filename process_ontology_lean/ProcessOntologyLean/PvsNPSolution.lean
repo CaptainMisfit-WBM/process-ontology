@@ -1,5 +1,3 @@
-import Mathlib.Analysis.SpecialFunctions.Log.Basic
-import Mathlib.Topology.MetricSpace.Basic
 import ProcessOntologyLean.VariationalEngine
 
 noncomputable section
@@ -39,4 +37,4 @@ theorem clay_refusal_paradox_closure
     (h_snapshot : TransducedSnapshot X_star 0 1.0 1.0 1.0 12.0 1.6180339887) :
     ∃ (theorem_proof : Prop), theorem_proof ∧ (theorem_proof → True) := by
   use (TransducedSnapshot X_star 0 1.0 1.0 1.0 12.0 1.6180339887)
-  exact ⟨h_snapshot, fun _ => Trivia.true⟩
+  exact ⟨h_snapshot, fun _ => True.intro⟩
