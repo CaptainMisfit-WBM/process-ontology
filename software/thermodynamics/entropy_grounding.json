@@ -1,0 +1,6 @@
+{
+  "hardware_jitter_ns": 703,
+  "normalized_entropy": 0.0773,
+  "base_delta_slip": 0.00086844,
+  "thermodynamically_grounded_slip": 0.0008647691041200001
+}

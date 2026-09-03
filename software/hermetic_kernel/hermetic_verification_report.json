@@ -1,0 +1,13 @@
+{
+  "export_file": "solution.export.gz",
+  "archive_size_bytes": 60358414,
+  "sha256_digest": "713c2077a32d04dc2849bae3d3b29494bb1f5ef4af050e089977820afb79c24b",
+  "declarations_verified": [
+    "master_postulate_theorem",
+    "axis_of_silence_theorem",
+    "delta_slip_pos_theorem",
+    "total_gauge_dim_theorem",
+    "ckm_first_row_unitarity_theorem"
+  ],
+  "hermetic_verification_status": "PASSED_100_PERCENT_OFFLINE"
+}

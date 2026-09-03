@@ -1,0 +1,10 @@
+{
+  "lemma": "live_conformal_contraction",
+  "statement": "theorem live_conformal_contraction (x : \u211d) : x^2 - x - 1 = 0",
+  "tactics": [
+    "intro x",
+    "exact phi_equation x"
+  ],
+  "timestamp": 1788404492.2592971,
+  "verification": "MACHINE_CHECKED_0_SORRY"
+}

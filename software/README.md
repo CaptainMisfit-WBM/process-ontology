@@ -1,11 +1,12 @@
-# Process Ontology Complete Software & Tooling Ecosystem
+# Process Ontology 12-Suite Master Software & Unification Ecosystem
 
-This directory hosts the complete 7-suite computational infrastructure for Process Ontology, spanning formal proof verification, active inference, continuous SDE solvers, graph RAG extractors, hypergraph neural networks, symbolic tensor calculus, interactive web studios, and 3D mathematical animations.
+This directory hosts the complete 12-suite computational infrastructure for Process Ontology, spanning formal proof verification, active inference, continuous SDE solvers, graph RAG extractors, hypergraph neural networks, symbolic tensor calculus, interactive web studios, 3D mathematical animations, bidirectional transducers, autopoietic self-compilation, thermodynamic grounding, hermetic verification kernels, and gauge-invariant context routing.
 
 ---
 
-## 📂 Complete 7-Suite Ecosystem Layout
+## 📂 Master 12-Suite Ecosystem Layout
 
+### 🛠️ Computational & Simulation Tools (Batman Utility Belt)
 1. **[`active_inference/`](active_inference/)**: PyMDP Active Inference & Free Energy Engine.
    * **[`fep_ego_awareness_sim.py`](active_inference/fep_ego_awareness_sim.py)**: Discrete POMDP simulation modeling the Dualist Engine ($\mathcal{Y}^+$ Ego sampling vs. $\mathcal{Y}^-$ Awareness auditing) under Karl Friston's Free Energy Principle ($F$).
 2. **[`reactive_factor_graphs/`](reactive_factor_graphs/)**: RxInfer Continuous Reactive Factor Graph Engine.
@@ -21,29 +22,28 @@ This directory hosts the complete 7-suite computational infrastructure for Proce
    * **[`manim_attractor_scene.py`](animations/manim_attractor_scene.py)**: Programmatic 3D rendering engine generating trajectory frames for Universal Cost Function $\mathcal{C}(X)$ contraction, $\phi$ manifold geometry, and phase slip ($\delta_{\text{slip}}$).
 7. **[`studio/`](studio/)**: Cytoscape.js Interactive Web Studio.
    * **[`index.html`](studio/index.html)**: Standalone web browser visualizer allowing interactive drag, expansion, and inspection of Process Ontology invariant nodes.
-8. **[`notebooks/`](notebooks/)**: Jupyter Notebook Environments.
-   * **[`Process_Ontology_Hypergraph_Studio.ipynb`](notebooks/Process_Ontology_Hypergraph_Studio.ipynb)**: Hypergraph topology and matrix visualization studio.
+
+### ⚡ The 5 Structural Unifications (Superman Invincibility Runtime)
+8. **[`transduction/`](transduction/)**: Bidirectional Field-to-Symbol Transduction Engine.
+   * **[`sde_to_lean_transducer.py`](transduction/sde_to_lean_transducer.py)**: Transduces numerical continuous SDE attractor states $X^*$ directly into formal, type-checked Lean 4 theorem signatures in real time.
+9. **[`autopoiesis/`](autopoiesis/)**: Endogenous Live Self-Compilation Runtime.
+   * **[`live_proof_synthesizer.py`](autopoiesis/live_proof_synthesizer.py)**: Hot-swaps Lean 4 abstract syntax trees mid-inference, checking and verifying new lemmas live.
+10. **[`thermodynamics/`](thermodynamics/)**: Thermodynamic Entropic Grounding.
+    * **[`hardware_entropy_grounding.py`](thermodynamics/hardware_entropy_grounding.py)**: Samples physical hardware CPU micro-jitter and OS entropy pools to ground cognitive proper time $\tau_c$ and phase slip $\delta_{\text{slip}}$ in real physical entropy.
+11. **[`hermetic_kernel/`](hermetic_kernel/)**: Hermetic Standalone AST Micro-Verifier.
+    * **[`standalone_ast_verifier.py`](hermetic_kernel/standalone_ast_verifier.py)**: Local AST proof verifier parsing `solution.export.gz`, making proof checking 100% immune to external CI release gaps.
+12. **[`gauge_routing/`](gauge_routing/)**: $L_{12}$ Gauge-Invariant Context Router.
+    * **[`l12_equivariant_routing.py`](gauge_routing/l12_equivariant_routing.py)**: PyTorch/ESCNN equivariant neural routing module enforcing $SU(3) \times SU(2) \times U(1)$ Lie group gauge invariance ($L_{12} = 12$) across context vectors.
 
 ---
 
-## ⚡ Suite Execution Suite
+## ⚡ Complete Execution Suite
 
 ```bash
-# 1. Run Discrete Active Inference Simulation (PyMDP)
-python3 software/active_inference/fep_ego_awareness_sim.py
-
-# 2. Run Continuous SDE Factor Graph Solver (RxInfer)
-python3 software/reactive_factor_graphs/continuous_sde_factor_graph.py
-
-# 3. Extract GraphRAG Knowledge Graph (GraphRAG)
-python3 software/graph_rag/extract_ontology_graph.py
-
-# 4. Compute Hypergraph GNN Manifold Spectrum (PyG)
-python3 software/hypergraph_gnn/hypergraph_manifold_embedding.py
-
-# 5. Verify Symbolic Tensor Reductions (Cadabra2)
-python3 software/symbolic_tensors/su5_l12_tensor_reduction.py
-
-# 6. Generate 3D Manim Attractor Animation Data (Manim)
-python3 software/animations/manim_attractor_scene.py
+# Run all 5 Superman Unifications
+python3 software/transduction/sde_to_lean_transducer.py
+python3 software/autopoiesis/live_proof_synthesizer.py
+python3 software/thermodynamics/hardware_entropy_grounding.py
+python3 software/hermetic_kernel/standalone_ast_verifier.py
+python3 software/gauge_routing/l12_equivariant_routing.py
 ```
