@@ -1,4 +1,5 @@
-
-# Ignore large export files
+# Ignore large export raw binaries
 *.export
-*.export.gz
+
+# Track compressed AST export for Palomar verification
+!solution.export.gz
