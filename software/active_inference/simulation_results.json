@@ -1,0 +1,142 @@
+[
+  {
+    "step": 0,
+    "observation": 0,
+    "free_energy": 8.235730431852406,
+    "action": "1: Ego Sampling (Y+)",
+    "target_state_probability": 0.0002171099999989145
+  },
+  {
+    "step": 1,
+    "observation": 1,
+    "free_energy": 2.2409402087444823,
+    "action": "1: Ego Sampling (Y+)",
+    "target_state_probability": 4.721872083705749e-08
+  },
+  {
+    "step": 2,
+    "observation": 2,
+    "free_energy": 0.24094145256506788,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999579569
+  },
+  {
+    "step": 3,
+    "observation": 2,
+    "free_energy": 0.24094145299577843,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989903
+  },
+  {
+    "step": 4,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 5,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 6,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 7,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 8,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 9,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 10,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 11,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 12,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 13,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 14,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 15,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 16,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 17,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 18,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  },
+  {
+    "step": 19,
+    "observation": 2,
+    "free_energy": 0.24094145299590047,
+    "action": "0: Baseline Flow",
+    "target_state_probability": 0.9999999999989991
+  }
+]
