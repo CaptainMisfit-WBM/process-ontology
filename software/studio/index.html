@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Process Ontology — Interactive Hypergraph Web Studio</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.28.1/cytoscape.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <h1>Process Ontology <span>Web Studio</span></h1>
+      <span class="badge">Cytoscape.js Powered</span>
+    </div>
+    <div class="stats">
+      <span>Golden Ratio: <b>φ ≈ 1.618034</b></span>
+      <span>Vacuum Threshold: <b>Ω ≈ 0.618034</b></span>
+      <span>Causal Latch: <b>L₁₂ = 12</b></span>
+      <span>Mirror Plane: <b>σ = 1/2</b></span>
+    </div>
+  </header>
+
+  <main>
+    <div id="cy"></div>
+    <div id="inspector">
+      <h2>Node Inspector</h2>
+      <div id="node-details">
+        <p>Click any invariant node to inspect its formal derivations, Lean 4 theorems, and physical constants.</p>
+      </div>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
