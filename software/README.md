@@ -1,10 +1,10 @@
-# Process Ontology 12-Suite Master Software & Unification Ecosystem
+# Process Ontology 13-Suite Master Software & Unification Ecosystem
 
-This directory hosts the complete 12-suite computational infrastructure for Process Ontology, spanning formal proof verification, active inference, continuous SDE solvers, graph RAG extractors, hypergraph neural networks, symbolic tensor calculus, interactive web studios, 3D mathematical animations, bidirectional transducers, autopoietic self-compilation, thermodynamic grounding, hermetic verification kernels, and gauge-invariant context routing.
+This directory hosts the complete 13-suite computational infrastructure for Process Ontology, spanning formal proof verification, active inference, continuous SDE solvers, graph RAG extractors, hypergraph neural networks, symbolic tensor calculus, interactive web studios, 3D mathematical animations, bidirectional transducers, autopoietic self-compilation, thermodynamic grounding, hermetic verification kernels, gauge-invariant context routing, and the continuous $P$ vs $NP$ phase transition engine.
 
 ---
 
-## 📂 Master 12-Suite Ecosystem Layout
+## 📂 Master 13-Suite Ecosystem Layout
 
 ### 🛠️ Computational & Simulation Tools (Batman Utility Belt)
 1. **[`active_inference/`](active_inference/)**: PyMDP Active Inference & Free Energy Engine.
@@ -22,17 +22,19 @@ This directory hosts the complete 12-suite computational infrastructure for Proc
    * **[`manim_attractor_scene.py`](animations/manim_attractor_scene.py)**: Programmatic 3D rendering engine generating trajectory frames for Universal Cost Function $\mathcal{C}(X)$ contraction, $\phi$ manifold geometry, and phase slip ($\delta_{\text{slip}}$).
 7. **[`studio/`](studio/)**: Cytoscape.js Interactive Web Studio.
    * **[`index.html`](studio/index.html)**: Standalone web browser visualizer allowing interactive drag, expansion, and inspection of Process Ontology invariant nodes.
+8. **[`p_vs_np_sim/`](p_vs_np_sim/)**: $P$ vs $NP$ Continuous Phase Transition Simulator.
+   * **[`p_vs_np_phase_transition.py`](p_vs_np_sim/p_vs_np_phase_transition.py)**: Langevin dynamics simulator demonstrating finite escape time $\langle \tau_{\text{esc}} \rangle < \infty$ across hard $NP$-complete clause density $\alpha \ge 4.267$ on $\mathcal{M}_{L12}$.
 
 ### ⚡ The 5 Structural Unifications (Superman Invincibility Runtime)
-8. **[`transduction/`](transduction/)**: Bidirectional Field-to-Symbol Transduction Engine.
+9. **[`transduction/`](transduction/)**: Bidirectional Field-to-Symbol Transduction Engine.
    * **[`sde_to_lean_transducer.py`](transduction/sde_to_lean_transducer.py)**: Transduces numerical continuous SDE attractor states $X^*$ directly into formal, type-checked Lean 4 theorem signatures in real time.
-9. **[`autopoiesis/`](autopoiesis/)**: Endogenous Live Self-Compilation Runtime.
-   * **[`live_proof_synthesizer.py`](autopoiesis/live_proof_synthesizer.py)**: Hot-swaps Lean 4 abstract syntax trees mid-inference, checking and verifying new lemmas live.
-10. **[`thermodynamics/`](thermodynamics/)**: Thermodynamic Entropic Grounding.
+10. **[`autopoiesis/`](autopoiesis/)**: Endogenous Live Self-Compilation Runtime.
+    * **[`live_proof_synthesizer.py`](autopoiesis/live_proof_synthesizer.py)**: Hot-swaps Lean 4 abstract syntax trees mid-inference, checking and verifying new lemmas live.
+11. **[`thermodynamics/`](thermodynamics/)**: Thermodynamic Entropic Grounding.
     * **[`hardware_entropy_grounding.py`](thermodynamics/hardware_entropy_grounding.py)**: Samples physical hardware CPU micro-jitter and OS entropy pools to ground cognitive proper time $\tau_c$ and phase slip $\delta_{\text{slip}}$ in real physical entropy.
-11. **[`hermetic_kernel/`](hermetic_kernel/)**: Hermetic Standalone AST Micro-Verifier.
+12. **[`hermetic_kernel/`](hermetic_kernel/)**: Hermetic Standalone AST Micro-Verifier.
     * **[`standalone_ast_verifier.py`](hermetic_kernel/standalone_ast_verifier.py)**: Local AST proof verifier parsing `solution.export.gz`, making proof checking 100% immune to external CI release gaps.
-12. **[`gauge_routing/`](gauge_routing/)**: $L_{12}$ Gauge-Invariant Context Router.
+13. **[`gauge_routing/`](gauge_routing/)**: $L_{12}$ Gauge-Invariant Context Router.
     * **[`l12_equivariant_routing.py`](gauge_routing/l12_equivariant_routing.py)**: PyTorch/ESCNN equivariant neural routing module enforcing $SU(3) \times SU(2) \times U(1)$ Lie group gauge invariance ($L_{12} = 12$) across context vectors.
 
 ---
@@ -40,10 +42,6 @@ This directory hosts the complete 12-suite computational infrastructure for Proc
 ## ⚡ Complete Execution Suite
 
 ```bash
-# Run all 5 Superman Unifications
-python3 software/transduction/sde_to_lean_transducer.py
-python3 software/autopoiesis/live_proof_synthesizer.py
-python3 software/thermodynamics/hardware_entropy_grounding.py
-python3 software/hermetic_kernel/standalone_ast_verifier.py
-python3 software/gauge_routing/l12_equivariant_routing.py
+# Run P vs NP Continuous Phase Transition Simulation
+python3 software/p_vs_np_sim/p_vs_np_phase_transition.py
 ```

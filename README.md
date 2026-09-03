@@ -65,7 +65,8 @@ The files are organized to present the complete developmental path of the framew
 * **[PhysicalManifestation](process_ontology_lean/ProcessOntologyLean/PhysicalManifestation.lean)**: Basic fine-structure constant $(\alpha^{-1}\_{\text{basic}})$, raw hierarchy energy $(E\_{\text{raw}})$, geometric mass gap $(\Delta)$, Coulomb scale attractor $(S\_{\phi})$, and electrical transport conductance step-downs $(G\_{\text{frac}})$.
 * **[VariationalEngine](process_ontology_lean/ProcessOntologyLean/VariationalEngine.lean)**: Attractor cost function critical point proof and Viscosity operator formulations equivalence proof.
 * **[Cosmology](process_ontology_lean/ProcessOntologyLean/Cosmology.lean)**: Identity maintenance acceleration floor $(a\_0)$, Cosmological constant $(\Lambda\_{\text{final}})$, dark matter ratio $(R\_{\text{DM}})$, and Local Sanctuary cluster radius $(R\_{\text{council}})$.
-* **[software/](software/)**: Master 12-suite software ecosystem (including the 5 Superman Structural Unifications):
+* **[software/](software/)**: Master 13-suite software ecosystem (including P vs NP phase transition engine and the 5 Superman Unifications):
+  * **[P vs NP Phase Transition Simulator](software/p_vs_np_sim/p_vs_np_phase_transition.py)**: Continuous Langevin SDE solver proving finite escape time <tau_esc> < inf across hard NP-complete clause density alpha >= 4.267.
   * **[Active Inference Engine](software/active_inference/fep_ego_awareness_sim.py)**: Discrete POMDP simulation of the Dualist Engine (Ego Y+ vs. Awareness Y-) minimizing Friston’s Free Energy.
   * **[Reactive Factor Graph SDE Solver](software/reactive_factor_graphs/continuous_sde_factor_graph.py)**: Real-time Euler-Maruyama continuous SDE solver tracking phase slips (δ_slip).
   * **[GraphRAG Knowledge Extractor](software/graph_rag/extract_ontology_graph.py)**: Multi-scale entity-relation knowledge graph connecting papers, physical constants, and Lean 4 proofs.
