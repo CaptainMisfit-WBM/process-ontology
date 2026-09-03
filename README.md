@@ -1,11 +1,30 @@
 # Process Ontology: Formal Verification & Theoretical Architecture
 
-**Author:** Ryan Carson | **ORCID:** [0009-0009-7818-3517](https://orcid.org/0009-0009-7818-3517)  
+[![Zenodo Community](https://img.shields.io/badge/Zenodo-Community--Hub-blue.svg?style=for-the-badge&logo=zenodo)](https://zenodo.org/communities/process-ontology)
+[![Lean 4 Verified](https://img.shields.io/badge/Lean_4-100%25_Verified-brightgreen.svg?style=for-the-badge&logo=lean)](process_ontology_lean/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--7818--3517-green.svg?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0009-7818-3517)
+
+**Author:** Ryan Carson | **Official Publication Community:** [https://zenodo.org/communities/process-ontology](https://zenodo.org/communities/process-ontology)  
+
 
 ## 🌐 Master Publication Directory & Concept DOI Registry
 
 | Monograph / Asset | Concept DOI | Primary Focus / Status |
-| :--- | :--- | :--- |
+| :---
+
+---
+
+## 🏛️ Official Zenodo Community Hub
+
+All 5 core preprints, Lean 4 code verification packages, and empirical verification data are indexed and curated within the official Process Ontology Zenodo Community:
+
+👉 **[https://zenodo.org/communities/process-ontology](https://zenodo.org/communities/process-ontology)**
+
+* **Preprint Submissions:** Open for community curation and cross-disciplinary research integration.
+* **Master Records:** Automatically tracks versioned DOI updates across all 5 master monographs.
+
+
+ | :--- | :--- |
 | **Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime** | [`10.5281/zenodo.22260395`](https://doi.org/10.5281/zenodo.22260395) | Unified Master Monograph & Physical Cosmology |
 | **What Gödel Actually Proved: A Unified Fixed-Point Analysis of Knowledge, Truth, and Self-Reference** | [`10.5281/zenodo.22256372`](https://doi.org/10.5281/zenodo.22256372) | Epistemic Boundary Proof & System $\Omega$ Reductio Theater |
 | **The Circular Theory of Ego and Awareness** | [`10.5281/zenodo.18889237`](https://doi.org/10.5281/zenodo.18889237) | Cognitive Dynamics & Ontological Synthesis |
