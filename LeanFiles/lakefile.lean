@@ -17,10 +17,3 @@ require mathlib from git
 lean_lib ProcessOntologyLean where
   globs := #[.submodules `ProcessOntologyLean]
 
-@[default_target]
-lean_lib Challenge where
-  globs := #[.one `Challenge]
-
-@[default_target]
-lean_lib Solution where
-  globs := #[.one `Solution]

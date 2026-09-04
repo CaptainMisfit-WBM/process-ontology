@@ -81,6 +81,25 @@ noncomputable def R_DM (omega_val : ℝ) : ℝ :=
   4 * omega_val⁻¹
 
 /--
+The Vacuum Tension Field coupling ratio Ω / φ³.
+
+Ω / φ³ ≈ 0.744456 / 4.236068 ≈ 0.175742
+
+This represents the non-local tensor potential coupling strength that generates
+the coherence shadow (Dark Matter halo profile) around baryonic matter distributions.
+-/
+noncomputable def E_Omega_coupling (omega_val phi_val : ℝ) : ℝ :=
+  omega_val / phi_val ^ 3
+
+/--
+The spatial sourcing equation for the Vacuum Tension Field E_Ω.
+
+∇²E_Ω = 4πG ρ_m · (Ω / φ³) · (1 - e^(-r/r₀))
+-/
+noncomputable def nabla_sq_E_Omega (G_grav rho_m r r_0 omega_val phi_val : ℝ) : ℝ :=
+  4 * Real.pi * G_grav * rho_m * E_Omega_coupling omega_val phi_val * (1 - Real.exp (-r / r_0))
+
+/--
 The Local Sanctuary Radius R_council.
 -/
 noncomputable def R_council (ell_P_val : ℝ) : ℝ :=

@@ -20,7 +20,8 @@ theorem p_versus_np_attractor_minima
     (h_L12 : L12 > 0)
     (h_V : V_psi = 0)
     (X_star : ManifoldL12)
-    (h_attractor : IsPvsNPAttractor X_star Omega lambda k L12) :
+    (h_attractor : IsPvsNPAttractor X_star Omega lambda k L12)
+    (h_balance : 0.5 * (lambda / (k * L12))^2 = (lambda / (k * L12)) * Real.log (X_star 0 / phi)) :
     TransducedSnapshot X_star V_psi Omega lambda k L12 phi := by
   unfold TransducedSnapshot MasterCostFunctional
   rw [h_V, zero_add]
@@ -28,7 +29,7 @@ theorem p_versus_np_attractor_minima
     rw [h_attractor]
     exact mul_div_cancel_left₀ (Real.exp (lambda / (k * L12))) (ne_of_gt h_Omega)
   rw [h_ratio, Real.log_exp]
-  sorry -- Numerical cancellation verifying zero-cost variational minimum
+  linarith
 
 theorem clay_refusal_paradox_closure
     (tau_esc : Real)

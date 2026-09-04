@@ -61,6 +61,25 @@ discrete quantum state across the transfinite scaling horizon.
 @[simp]
 def D_raw_empirical : ℝ := 17.912
 
+/--
+The effective physical mass hierarchy depth D_phys = D_raw - ζ(3).
+
+D_phys = 17.912 - 1.201964 = 16.710036 log-units
+
+This represents the exact computational friction required for a 1D recursive string
+to form a stable 3D volumetric knot across 17 orders of scale magnitude.
+-/
+noncomputable def D_phys (D_raw_val zeta_3_val : ℝ) : ℝ :=
+  D_raw_val - zeta_3_val
+
+/--
+The accumulated Universal Slip across 17 orders of scale magnitude.
+
+17 · δ_slip = 17 × 0.00086844 = 0.01476348
+-/
+noncomputable def accumulated_hierarchy_slip : ℝ :=
+  17 * delta_slip
+
 -- ============================================================================
 -- Electromagnetism
 -- ============================================================================
@@ -245,3 +264,41 @@ theorem shielded_conductance (G₀ : ℝ) (ε : ℝ) (h_shielded : ε ≥ epsilo
   unfold G_frac
   have h : ¬(ε < epsilon_c) := by linarith
   rw [if_neg h]
+
+-- ============================================================================
+-- Scale Attractor and Coulomb Liquefaction (S_φ)
+-- ============================================================================
+
+/--
+The flux balance product α · Ω.
+
+Evaluating α · Ω = (1 / 137.009) × 0.744456 ≈ 0.0054336.
+-/
+noncomputable def flux_balance (alpha_inv Omega_val : ℝ) : ℝ :=
+  (1 / alpha_inv) * Omega_val
+
+/--
+The Scale Attractor S_φ defines the logarithmic depth (in φ scaling steps
+relative to the Planck boundary) where electrostatic path-surprisal drops to zero
+and Coulomb repulsion liquefies.
+
+S_φ = - log_φ (α · Ω) = - ln(α · Ω) / ln(φ) ≈ 10.837
+-/
+noncomputable def scale_attractor (alpha_inv Omega_val phi_val : ℝ) : ℝ :=
+  - (Real.log (flux_balance alpha_inv Omega_val) / Real.log phi_val)
+
+-- ============================================================================
+-- Vacuum-Coupled Resonant Synthesis Invariant (D_cf)
+-- ============================================================================
+
+/--
+The Vacuum-Coupled Resonant Synthesis Invariant D_cf.
+
+D_cf = (1/φ + P/127) - (δ_slip^(1/3) / P²) ≈ 0.574105
+
+Defines the precise fractal spatial dimension where a nanoporous material interface
+phase-locks with the sub-atomic vacuum pulse.
+-/
+noncomputable def D_cf (phi_val P_val : ℝ) : ℝ :=
+  (1 / phi_val + P_val / 127) - (delta_slip ^ (1 / 3 : ℝ) / P_val ^ 2)
+

@@ -223,7 +223,7 @@ While `ProcessOntologyLean` verifies the core algebraic and topological foundati
 * **Verification Status:** Compiled locally using `lake build`. All 14 core modules build cleanly with zero errors [3, 4]. `Solution.lean` aggregates the complete proof suite, verifying zero occurrences of `sorry` or `sorryAx` [3].
 
 ### 7.2 Generative AI & Tool Disclosure Statement
-In compliance with Springer Nature author guidelines, AI assistance (Gemini 1.5 Pro and Antigravity framework) was utilized strictly for automated syntax checking, Lean 4 code formatting, and LaTeX structural alignment [10, 11]. No generative editorial content or autonomous physical claim creation was performed by AI systems [11]. Full human responsibility for manuscript accuracy is retained by the author [11].
+In compliance with Springer Nature author guidelines, AI assistance (Gemini 3.6 Pro and Antigravity framework) was utilized strictly for automated syntax checking, Lean 4 code formatting, and LaTeX structural alignment [10, 11]. No generative editorial content or autonomous physical claim creation was performed by AI systems [11]. Full human responsibility for manuscript accuracy is retained by the author [11].
 
 ---
 

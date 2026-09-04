@@ -17,3 +17,8 @@ import ProcessOntologyLean.PvsNPSolution
 import ProcessOntologyLean.MetaSelfConsistency
 import ProcessOntologyLean.AesopRules
 import ProcessOntologyLean.Basic
+import ProcessOntologyLean.CognitiveNeurodynamics
+import ProcessOntologyLean.CyclicResolution
+import ProcessOntologyLean.CartographerVerification
+import ProcessOntologyLean.TopologicalProtection
+import ProcessOntologyLean.SolverManual
