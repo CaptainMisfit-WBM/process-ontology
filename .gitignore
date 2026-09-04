@@ -1,9 +1,4 @@
 # Ignore Lake build artifacts & downloaded packages
-.lake/packages/
-.lake/build/
-
-# Ignore raw export binaries
+.lake/
 *.export
-
-# Preserve solution.export.gz for Palomar
-!solution.export.gz
+*.export.gz
