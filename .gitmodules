@@ -1,0 +1,3 @@
+[submodule "wbm-palomar-registrations"]
+	path = wbm-palomar-registrations
+	url = https://github.com/CaptainMisfit-WBM/wbm-palomar-registrations.git
