@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "sample_count": 5,
+  "falsification_threshold_km_inv": 1.5e-17,
+  "mean_measured_gradient": 4.594710807317359e-16,
+  "observations": [
+    {
+      "timestamp": 1788532855.3639386,
+      "altitude_km": 20200.0,
+      "total_shift": -2.503012930769567e-10,
+      "measured_gradient_km_inv": 4.597080234196493e-16,
+      "expected_gradient_km_inv": 4.6e-16,
+      "deviation": 2.919765803506797e-19,
+      "is_falsified": false
+    },
+    {
+      "timestamp": 1788532856.3639684,
+      "altitude_km": 20200.0,
+      "total_shift": -2.503012930769567e-10,
+      "measured_gradient_km_inv": 4.599399330815142e-16,
+      "expected_gradient_km_inv": 4.6e-16,
+      "deviation": 6.006691848579251e-20,
+      "is_falsified": false
+    },
+    {
+      "timestamp": 1788532857.3639762,
+      "altitude_km": 20200.0,
+      "total_shift": -2.503012930769567e-10,
+      "measured_gradient_km_inv": 4.585098585817697e-16,
+      "expected_gradient_km_inv": 4.6e-16,
+      "deviation": 1.490141418230233e-18,
+      "is_falsified": false
+    },
+    {
+      "timestamp": 1788532858.363979,
+      "altitude_km": 20200.0,
+      "total_shift": -2.503012930769567e-10,
+      "measured_gradient_km_inv": 4.59647545397049e-16,
+      "expected_gradient_km_inv": 4.6e-16,
+      "deviation": 3.524546029509705e-19,
+      "is_falsified": false
+    },
+    {
+      "timestamp": 1788532859.3639817,
+      "altitude_km": 20200.0,
+      "total_shift": -2.503012930769567e-10,
+      "measured_gradient_km_inv": 4.595500431786972e-16,
+      "expected_gradient_km_inv": 4.6e-16,
+      "deviation": 4.499568213027759e-19,
+      "is_falsified": false
+    }
+  ]
+}

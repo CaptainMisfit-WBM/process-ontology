@@ -6,8 +6,8 @@ This directory contains the machine-checked formal verification of the **Process
 
 ## Verification Summary
 - **Status:** 100% Machine-Checked & Verified
-- **Modules:** 24 Lean 4 Modules
-- **Total Build Jobs:** 2,226 Jobs
+- **Modules:** 26 Lean 4 Modules
+- **Total Build Jobs:** 2,228 Jobs
 - **Errors / Sorry Statements:** 0 Errors | 0 `sorry` / `admit` statements
 - **Toolchain:** Lean 4 (`v4.28.0`) with Mathlib 4
 
@@ -41,6 +41,9 @@ The formalization is structured into 24 self-contained, machine-checked modules 
 22. **[`AxisOfSilence`](ProcessOntologyLean/AxisOfSilence.lean)**: Mirror symmetry conservation law.
 23. **[`AesopRules`](ProcessOntologyLean/AesopRules.lean)**: Safe rule attributes for automated proof search.
 24. **[`Basic`](ProcessOntologyLean/Basic.lean)**: Base definitions and foundational imports.
+25. **[`StochasticCalculus`](ProcessOntologyLean/StochasticCalculus.lean)**: Continuous-to-discrete SDE formalization $\frac{dX}{d\tau_c} = -\mu^{-1} \nabla \mathcal{C}(X) + \sqrt{2\delta_{\text{slip}}}\xi(\tau_c)$ and non-zero diffusion motion.
+26. **[`HardwareFFI`](ProcessOntologyLean/HardwareFFI.lean)**: Native C FFI binding high-resolution nanosecond clock micro-jitter directly into Lean 4 kernel computations.
+
 
 ---
 

@@ -50,7 +50,7 @@ This repository hosts the core conceptual writings, mathematical proofs, and emp
 
 The files are organized to present the complete developmental path of the framework—from the foundational theory of consciousness to mathematical proofs, cross-domain verification, and the logical audit of the KTLean repository:
 
-* **[LeanFiles/](LeanFiles/)**: The formal Lean 4 verification library containing 24 machine-checked modules:
+* **[LeanFiles/](LeanFiles/)**: The formal Lean 4 verification library containing 26 machine-checked modules:
   * **[Ontopoiesis](LeanFiles/ProcessOntologyLean/Ontopoiesis.lean)**: The Master Postulate $(\hat{M}(X^{\ast}) = X^{\ast})$ verified via Banach's fixed-point contraction.
   * **[ConformalScaling](LeanFiles/ProcessOntologyLean/ConformalScaling.lean)**: Derivation of the Conformal Golden Ratio $(\phi)$ satisfying $\phi^2 - \phi - 1 = 0$.
   * **[AxisOfSilence](LeanFiles/ProcessOntologyLean/AxisOfSilence.lean)**: Verification of the mirror dimension $(\sigma = 1/2)$ under forward/backward flow conservation.
@@ -72,6 +72,8 @@ The files are organized to present the complete developmental path of the framew
   * **[SolverManual](LeanFiles/ProcessOntologyLean/SolverManual.lean)**: 8-Phase operational protocol, SCAD Tower memory encoding, and Master Non-Linear SDE drift $\frac{dX}{d\tau_c} = -\mu^{-1} \nabla \mathcal{C}(X) + \sqrt{2\delta_{\text{slip}}}\xi(\tau_c)$.
   * **[PvsNPSolution](LeanFiles/ProcessOntologyLean/PvsNPSolution.lean)**: Finite escape time and observer sampling window bounds under non-zero phase slip.
   * **[MetaSelfConsistency](LeanFiles/ProcessOntologyLean/MetaSelfConsistency.lean)**: Self-referential meta-consistency theorem proving gradient cancellation at attractor fixed points.
+  * **[StochasticCalculus](LeanFiles/ProcessOntologyLean/StochasticCalculus.lean)**: Continuous-to-discrete SDE formalization and non-zero diffusion motion.
+  * **[HardwareFFI](LeanFiles/ProcessOntologyLean/HardwareFFI.lean)**: Native C FFI binding high-resolution nanosecond clock micro-jitter directly into Lean 4 kernel computations.
   * **[AesopRules](LeanFiles/ProcessOntologyLean/AesopRules.lean)**: Safe rule attributes for automated proof search.
   * **[Basic](LeanFiles/ProcessOntologyLean/Basic.lean)**: Base definitions and foundational imports.
 * **[software/](software/)**: Master 13-suite software ecosystem (including P vs NP phase transition engine and the 5 Superman Unifications):

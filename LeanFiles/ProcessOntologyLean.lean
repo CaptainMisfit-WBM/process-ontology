@@ -22,3 +22,6 @@ import ProcessOntologyLean.CyclicResolution
 import ProcessOntologyLean.CartographerVerification
 import ProcessOntologyLean.TopologicalProtection
 import ProcessOntologyLean.SolverManual
+import ProcessOntologyLean.StochasticCalculus
+import ProcessOntologyLean.HardwareFFI
+
