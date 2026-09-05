@@ -13,6 +13,8 @@
 | Monograph / Asset | Concept DOI | Primary Focus / Status |
 | :--- | :--- | :--- |
 | **Process Ontology: The Absorptive Framework and the Geometric Foundation of Spacetime** | [`10.5281/zenodo.22260395`](https://doi.org/10.5281/zenodo.22260395) | Unified Master Monograph & Physical Cosmology |
+| **Relational Ontopoiesis and Variational Vacuum Dynamics** (Paper 1) | [`10.5281/zenodo.22307699`](https://doi.org/10.5281/zenodo.22307699) | Machine-Checked Foundations of Field Geometry & Gauge Symmetry |
+| **Physical Cosmology, Standard Model Invariants, and Non-Hermitian Topological Protection** (Paper 2) | [`10.5281/zenodo.22310105`](https://doi.org/10.5281/zenodo.22310105) | Machine-Checked Derivation of Constants & Dark Sector Cosmology |
 | **What Gödel Actually Proved: A Unified Fixed-Point Analysis of Knowledge, Truth, and Self-Reference** | [`10.5281/zenodo.22256372`](https://doi.org/10.5281/zenodo.22256372) | Epistemic Boundary Proof & System $\Omega$ Reductio Theater |
 | **The Circular Theory of Ego and Awareness** | [`10.5281/zenodo.18889237`](https://doi.org/10.5281/zenodo.18889237) | Cognitive Dynamics & Ontological Synthesis |
 | **Continuous Field Semantics and Discrete Proof-Assistant Verification** | [`10.5281/zenodo.22119264`](https://doi.org/10.5281/zenodo.22119264) | Formal Audit & KTLean Theoretical Mechanics |
