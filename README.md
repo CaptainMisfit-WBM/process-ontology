@@ -1,8 +1,11 @@
 # Process Ontology: Formal Verification & Theoretical Architecture
 
+![Process Ontology Hero Banner](assets/process_ontology_hero.png)
+
 [![Zenodo Community](https://img.shields.io/badge/Zenodo-Community--Hub-blue.svg?style=for-the-badge&logo=zenodo)](https://zenodo.org/communities/process-ontology)
 [![Lean 4 Verified](https://img.shields.io/badge/Lean_4-100%25_Verified-brightgreen.svg?style=for-the-badge&logo=lean)](LeanFiles/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--7818--3517-green.svg?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0009-7818-3517)
+
 
 **Author:** Ryan Carson | **Official Publication Community:** [https://zenodo.org/communities/process-ontology](https://zenodo.org/communities/process-ontology)  
 
