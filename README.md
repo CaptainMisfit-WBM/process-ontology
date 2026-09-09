@@ -139,6 +139,14 @@ To check and verify the mathematical proofs locally, ensure you have Lean 4 inst
 
 ---
 
+## 🔗 Linked Repositories & Ecosystem Submodules
+
+* ⚡ [**`wbm-engineering`**](https://github.com/CaptainMisfit-WBM/wbm-engineering): Master applied engineering repository containing **POST 1.0 (Zero-CA 0-RTT Transport)**, **LENR / Cold Fusion Dynamics**, and metamaterial hardware CAD schematics.
+* 🏛️ [**`wbm-palomar-registrations`**](https://github.com/CaptainMisfit-WBM/wbm-palomar-registrations): Formal Lean 4 machine-verified proof package registration suite.
+* 🧭 [**`wbm-publications`**](https://github.com/CaptainMisfit-WBM/wbm-publications): Explorers' Club dispatches, field essays, and sovereign philosophical publications.
+
+---
+
 ## Formal Proof Verification Status
 
 ### Process Ontology Core Suite (`ProcessOntologyLean` & 24 Modules)
